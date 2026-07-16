@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://perkcommons.org/schema/listing.schema.json",
+  "title": "PerkCommons listing",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "provider", "title", "category", "tags", "description",
+    "eligibility", "value", "sourceUrl", "officialUrl", "status",
+    "submissionType", "sponsor", "reviewDate"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "minLength": 3, "maxLength": 80 },
+    "provider": { "type": "string", "minLength": 2, "maxLength": 100 },
+    "title": { "type": "string", "minLength": 3, "maxLength": 140 },
+    "category": {
+      "enum": ["ai-credits", "cloud-credits", "startup-programs", "grants", "funding", "discounts", "nonprofit-benefits", "student-benefits", "developer-programs", "accelerators", "fellowships", "business-perks"]
+    },
+    "tags": { "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" }, "uniqueItems": true, "maxItems": 12 },
+    "description": { "type": "string", "minLength": 20, "maxLength": 500 },
+    "eligibility": { "type": "string", "minLength": 5, "maxLength": 500 },
+    "value": { "type": "string", "minLength": 2, "maxLength": 200 },
+    "sourceUrl": { "type": "string", "format": "uri", "pattern": "^https://" },
+    "officialUrl": { "type": "string", "format": "uri", "pattern": "^https://" },
+    "status": { "enum": ["active", "limited", "waitlist", "unconfirmed", "expired", "disputed"] },
+    "submissionType": { "enum": ["community", "company", "maintainer"] },
+    "sponsor": { "type": "boolean" },
+    "reviewDate": { "type": "string", "format": "date" },
+    "regions": { "type": "array", "items": { "type": "string", "minLength": 2, "maxLength": 80 }, "uniqueItems": true, "default": ["Global"] },
+    "notes": { "type": "string", "maxLength": 500 }
+  }
+}

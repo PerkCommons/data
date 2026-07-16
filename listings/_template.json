@@ -1,0 +1,17 @@
+{
+  "id": "provider-program",
+  "provider": "Provider",
+  "title": "Program name",
+  "category": "startup-programs",
+  "tags": ["example"],
+  "description": "A neutral, source-supported description of the opportunity.",
+  "eligibility": "Who may apply and the material restrictions.",
+  "value": "The concrete benefit, including limits where known.",
+  "sourceUrl": "https://example.com/program/source",
+  "officialUrl": "https://example.com/program",
+  "status": "unconfirmed",
+  "submissionType": "community",
+  "sponsor": false,
+  "reviewDate": "2026-07-17",
+  "regions": ["Global"]
+}

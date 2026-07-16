@@ -1,0 +1,17 @@
+{
+  "id": "github-student-developer-pack",
+  "provider": "GitHub",
+  "title": "GitHub Student Developer Pack",
+  "category": "student-benefits",
+  "tags": ["developer-tools", "education", "students"],
+  "description": "A collection of developer tools and learning offers provided to eligible students by GitHub and participating partners.",
+  "eligibility": "Students aged 13 or older who are enrolled in a degree- or diploma-granting course and can verify their student status.",
+  "value": "Access to participating developer tools and services; individual offer terms vary.",
+  "sourceUrl": "https://docs.github.com/en/education/about-github-education/github-education-for-students/about-github-education-for-students",
+  "officialUrl": "https://education.github.com/pack",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-17",
+  "regions": ["Global"]
+}

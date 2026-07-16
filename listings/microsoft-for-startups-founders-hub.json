@@ -1,0 +1,17 @@
+{
+  "id": "microsoft-for-startups-founders-hub",
+  "provider": "Microsoft",
+  "title": "Microsoft for Startups Founders Hub",
+  "category": "cloud-credits",
+  "tags": ["azure", "founders", "startups"],
+  "description": "A startup support program offering eligible founders Azure credits, development tools, and technical resources in staged benefit levels.",
+  "eligibility": "Privately held, for-profit startups developing a software-based product or service; program terms and regional availability apply.",
+  "value": "Azure credits and partner benefits that vary by program level and current terms.",
+  "sourceUrl": "https://www.microsoft.com/en-us/startups/faq",
+  "officialUrl": "https://www.microsoft.com/en-us/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-17",
+  "regions": ["Global"]
+}

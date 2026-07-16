@@ -1,0 +1,17 @@
+{
+  "id": "notion-for-education",
+  "provider": "Notion",
+  "title": "Notion for Education",
+  "category": "student-benefits",
+  "tags": ["education", "productivity", "students"],
+  "description": "An education plan that provides eligible individual students and educators with Notion's Plus plan for personal workspaces.",
+  "eligibility": "Students and educators at accredited colleges or universities using an eligible school email address; organizational workspaces are excluded.",
+  "value": "A no-cost Plus plan for an eligible one-member workspace under the current education terms.",
+  "sourceUrl": "https://www.notion.com/help/notion-for-education",
+  "officialUrl": "https://www.notion.com/product/notion-for-education",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-17",
+  "regions": ["Global"]
+}

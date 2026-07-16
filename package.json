@@ -1,0 +1,16 @@
+{
+  "name": "@perkcommons/data",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "tsx scripts/validate.ts",
+    "test": "npm run validate"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "tsx": "^4.20.3",
+    "typescript": "^7.0.2"
+  }
+}

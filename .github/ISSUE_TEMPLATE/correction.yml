@@ -1,0 +1,23 @@
+name: Report a listing correction
+description: Report outdated, inaccurate, or unsafe published data.
+title: "[Correction]: "
+labels: [correction]
+body:
+  - type: input
+    id: listing
+    attributes:
+      label: Listing ID or URL
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Supporting source URL
+    validations:
+      required: true
