@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-fireworks",
+  "provider": "Fireworks",
+  "title": "Fireworks AI - Up to $5k in Credits to Run and Fine Tune Open-Source AI models",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "developer-tooling"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "productivity",
+    "ai-inference"
+  ],
+  "description": "Fireworks AI’s developer platform makes it easy to build and run GenAI applications on open models reliably and at scale. Completely own your AI strategy with tailored optimizations based on your use case, with model fine-tuning and deployment flexibility.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Fireworks AI - Up to $5k in Credits to Run and Fine Tune Open-Source AI models",
+  "sourceUrl": "https://startups.aws.com/offers/fireworks",
+  "officialUrl": "https://startups.aws.com/offers/fireworks",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

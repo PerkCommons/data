@@ -1,0 +1,29 @@
+{
+  "id": "aws-activate-descope-agentic",
+  "provider": "Descope",
+  "title": "Descope Agentic Identity Hub for Startups ($10k in Descope Credits)",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "global-startup-program",
+    "ai-inference"
+  ],
+  "description": "Descope is the leading identity platform for AI-native applications, purpose-built to secure the next generation of agentic workflows, MCP servers, and AI agents. Descope’s Agentic Identity Hub gives agents portable, revocable identities independent of platform or downstream authentication requirements - so your agents stay secure and in control at every step.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Descope Agentic Identity Hub for Startups ($10k in Descope Credits)",
+  "sourceUrl": "https://startups.aws.com/offers/descope-agentic",
+  "officialUrl": "https://startups.aws.com/offers/descope-agentic",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

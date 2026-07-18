@@ -1,0 +1,29 @@
+{
+  "id": "github-student-pack-localstack",
+  "provider": "LocalStack",
+  "title": "LocalStack Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "cloud",
+    "developer-tools",
+    "infrastructure-apis"
+  ],
+  "description": "LocalStack emulates AWS services right on your laptop, so you can build and test cloud applications without connecting to the AWS cloud.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free license to LocalStack’s most powerful AWS emulator in a ready-to-use cloud environment",
+  "sourceUrl": "https://education.github.com/pack#localstack",
+  "officialUrl": "https://education.github.com/pack#localstack",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

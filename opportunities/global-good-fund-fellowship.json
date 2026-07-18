@@ -1,0 +1,25 @@
+{
+  "id": "global-good-fund-fellowship",
+  "provider": "The Global Good Fund",
+  "title": "Fellowship Program",
+  "category": "fellowships",
+  "subcategories": [
+    "entrepreneurship-fellowships"
+  ],
+  "tags": [
+    "entrepreneurship",
+    "founders"
+  ],
+  "description": "Fellowship Program is an entrepreneurship fellowship administered by The Global Good Fund.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Founder development, mentoring, peer network, and program-specific funding or support",
+  "sourceUrl": "https://globalgoodfund.org/fellowship/",
+  "officialUrl": "https://globalgoodfund.org/fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

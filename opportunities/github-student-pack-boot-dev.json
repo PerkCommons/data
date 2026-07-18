@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-boot-dev",
+  "provider": "Boot.dev",
+  "title": "Boot.dev Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "free-courses",
+    "academic-resources",
+    "student-memberships"
+  ],
+  "tags": [
+    "github-education",
+    "students"
+  ],
+  "description": "The game-like learning platform for backend developers and devops engineers",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Master Python, Golang, TypeScript and more in our immersive programming curriculum. Learn Backend Development, DevOps, and Data Analysis with 3 months of free access to Boot.dev’s complete...",
+  "sourceUrl": "https://education.github.com/pack#boot-dev",
+  "officialUrl": "https://education.github.com/pack#boot-dev",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

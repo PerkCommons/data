@@ -1,0 +1,26 @@
+{
+  "id": "drivendata-competitions",
+  "provider": "DrivenData",
+  "title": "DrivenData Competitions",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "online-hackathons",
+    "data-science-competitions"
+  ],
+  "tags": [
+    "data-science",
+    "online"
+  ],
+  "description": "DrivenData Competitions provides online data-science, machine-learning, or algorithmic challenges through DrivenData.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Challenge datasets, benchmarking, community participation, and competition-specific prizes",
+  "sourceUrl": "https://www.drivendata.org/competitions/",
+  "officialUrl": "https://www.drivendata.org/competitions/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

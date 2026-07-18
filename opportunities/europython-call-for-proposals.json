@@ -1,0 +1,26 @@
+{
+  "id": "europython-call-for-proposals",
+  "provider": "EuroPython Society",
+  "title": "Call for Proposals",
+  "category": "events-conferences",
+  "subcategories": [
+    "speaker-opportunities",
+    "networking-events"
+  ],
+  "tags": [
+    "call-for-proposals",
+    "conferences"
+  ],
+  "description": "Call for Proposals is a professional or community conference with an open call for speakers and participant networking administered by EuroPython Society.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "A public speaking pathway, audience reach, peer exchange, and conference networking",
+  "sourceUrl": "https://ep2026.europython.eu/cfp/",
+  "officialUrl": "https://ep2026.europython.eu/cfp/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

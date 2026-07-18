@@ -1,0 +1,26 @@
+{
+  "id": "startupbootcamp-accelerators",
+  "provider": "Startupbootcamp",
+  "title": "Startupbootcamp Accelerator Programs",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "startup-accelerators",
+    "pre-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Startupbootcamp Accelerator Programs is an early-stage founder program from Startupbootcamp that helps participants validate, launch, or accelerate a startup.",
+  "eligibility": "Founders must meet the current company-stage, team, geography, commitment, and selection requirements.",
+  "value": "Structured early-stage support, mentoring, and founder resources",
+  "sourceUrl": "https://startupbootcamp.org/startups/accelerators",
+  "officialUrl": "https://startupbootcamp.org/startups/accelerators",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

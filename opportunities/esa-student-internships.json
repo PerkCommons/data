@@ -1,0 +1,26 @@
+{
+  "id": "esa-student-internships",
+  "provider": "European Space Agency",
+  "title": "Student Internships",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "internships",
+    "project-based-experience"
+  ],
+  "tags": [
+    "internships",
+    "early-career"
+  ],
+  "description": "Student Internships is a structured internship program administered by European Space Agency.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Supervised professional projects, learning, and program-specific compensation or support",
+  "sourceUrl": "https://www.esa.int/About_Us/Careers_at_ESA/Student_Internships2",
+  "officialUrl": "https://www.esa.int/About_Us/Careers_at_ESA/Student_Internships2",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

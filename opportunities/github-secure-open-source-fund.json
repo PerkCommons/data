@@ -1,0 +1,27 @@
+{
+  "id": "github-secure-open-source-fund",
+  "provider": "GitHub",
+  "title": "GitHub Secure Open Source Fund",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support",
+    "developer-grants"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "GitHub Secure Open Source Fund funds or supports selected open-source developers, maintainers, and public-interest technology projects.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Grant funding or structured maintainer support subject to selection",
+  "sourceUrl": "https://resources.github.com/github-secure-open-source-fund/",
+  "officialUrl": "https://resources.github.com/github-secure-open-source-fund/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

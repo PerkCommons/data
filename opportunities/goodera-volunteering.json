@@ -1,0 +1,28 @@
+{
+  "id": "goodera-volunteering",
+  "provider": "Goodera",
+  "title": "Virtual Skills-Based Volunteering",
+  "category": "volunteer-service",
+  "subcategories": [
+    "skilled-volunteering",
+    "nonprofit-projects",
+    "pro-bono-work",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "skills-based-volunteering",
+    "nonprofits"
+  ],
+  "description": "Virtual Skills-Based Volunteering is a skills-based volunteering platform or program that matches professionals with nonprofit projects administered by Goodera.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Remote or flexible pro bono projects that apply professional skills to nonprofit needs",
+  "sourceUrl": "https://www.goodera.com/en-gb/blog/virtual-skills-based-volunteering",
+  "officialUrl": "https://www.goodera.com/en-gb/blog/virtual-skills-based-volunteering",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

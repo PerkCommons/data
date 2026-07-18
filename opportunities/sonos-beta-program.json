@@ -1,0 +1,26 @@
+{
+  "id": "sonos-beta-program",
+  "provider": "Sonos",
+  "title": "Sonos Beta Program",
+  "category": "early-access",
+  "subcategories": [
+    "private-betas",
+    "waitlists"
+  ],
+  "tags": [
+    "private-beta",
+    "application"
+  ],
+  "description": "Sonos Beta Program is an official application, prerelease, or invitation channel through which selected participants may test unreleased capabilities administered by Sonos.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Potential invitation to private testing, direct product feedback, and prerelease feature access",
+  "sourceUrl": "https://support.sonos.com/article/sonos-beta-programs",
+  "officialUrl": "https://support.sonos.com/article/sonos-beta-programs",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

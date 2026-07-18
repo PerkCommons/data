@@ -1,0 +1,25 @@
+{
+  "id": "nea-creative-writing-fellowships",
+  "provider": "National Endowment for the Arts",
+  "title": "Creative Writing Fellowships",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Fellowships provide monetary awards to published creative writers, alternating between prose and poetry cycles.",
+  "eligibility": "Writers must meet the current publication and U.S. eligibility requirements.",
+  "value": "Creative-writing fellowship award",
+  "sourceUrl": "https://www.arts.gov/grants/creative-writing-fellowships",
+  "officialUrl": "https://www.arts.gov/grants/creative-writing-fellowships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

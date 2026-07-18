@@ -1,0 +1,26 @@
+{
+  "id": "uchicago-polsky-accelerator",
+  "provider": "Polsky Center at the University of Chicago",
+  "title": "Polsky Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "student-incubators",
+    "university-incubators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Polsky Accelerator is a university-connected venture program from Polsky Center at the University of Chicago that helps eligible student founders develop and test new ventures.",
+  "eligibility": "Teams must meet the current student or university-affiliation, venture-stage, location, and participation requirements.",
+  "value": "University venture training, mentoring, workspace or funding opportunities",
+  "sourceUrl": "https://polsky.uchicago.edu/programs-events/polsky-accelerator/",
+  "officialUrl": "https://polsky.uchicago.edu/programs-events/polsky-accelerator/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

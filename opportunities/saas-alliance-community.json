@@ -1,0 +1,27 @@
+{
+  "id": "saas-alliance-community",
+  "provider": "SaaS Alliance",
+  "title": "SaaS Founder Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "founder-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "founders",
+    "peer-support"
+  ],
+  "description": "SaaS Founder Community is a founder community offering peer learning, connections, and access to experienced operators administered by SaaS Alliance.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Founder peer support, practical knowledge sharing, introductions, and community events",
+  "sourceUrl": "https://www.saasalliance.io/",
+  "officialUrl": "https://www.saasalliance.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

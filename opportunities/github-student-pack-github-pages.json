@@ -1,0 +1,27 @@
+{
+  "id": "github-student-pack-github-pages",
+  "provider": "GitHub Pages",
+  "title": "GitHub Pages Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools"
+  ],
+  "description": "Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Get one site per GitHub account and organization, and unlimited project sites.",
+  "sourceUrl": "https://education.github.com/pack#github-pages",
+  "officialUrl": "https://education.github.com/pack#github-pages",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

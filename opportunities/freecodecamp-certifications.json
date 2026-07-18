@@ -1,0 +1,26 @@
+{
+  "id": "freecodecamp-certifications",
+  "provider": "freeCodeCamp",
+  "title": "Developer Certifications",
+  "category": "education-training",
+  "subcategories": [
+    "certifications",
+    "learning-paths"
+  ],
+  "tags": [
+    "credentials",
+    "professional-learning"
+  ],
+  "description": "Developer Certifications is a training and credential pathway with an official assessment or verifiable certificate administered by freeCodeCamp.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Role-based learning and an official certificate, badge, or certification pathway",
+  "sourceUrl": "https://www.freecodecamp.org/learn/",
+  "officialUrl": "https://www.freecodecamp.org/learn/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

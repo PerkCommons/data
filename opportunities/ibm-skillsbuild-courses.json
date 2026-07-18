@@ -1,0 +1,26 @@
+{
+  "id": "ibm-skillsbuild-courses",
+  "provider": "IBM",
+  "title": "IBM SkillsBuild",
+  "category": "education-training",
+  "subcategories": [
+    "courses",
+    "learning-paths"
+  ],
+  "tags": [
+    "online-learning",
+    "self-paced"
+  ],
+  "description": "IBM SkillsBuild is an open online learning catalog with structured courses or learning paths administered by IBM.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Self-paced lessons, exercises, and subject-specific learning paths",
+  "sourceUrl": "https://skillsbuild.org/",
+  "officialUrl": "https://skillsbuild.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

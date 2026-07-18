@@ -1,0 +1,27 @@
+{
+  "id": "entrepreneurs-organization",
+  "provider": "Entrepreneurs' Organization",
+  "title": "Entrepreneur Peer Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "founder-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "founders",
+    "peer-support"
+  ],
+  "description": "Entrepreneur Peer Community is a founder community offering peer learning, connections, and access to experienced operators administered by Entrepreneurs' Organization.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Founder peer support, practical knowledge sharing, introductions, and community events",
+  "sourceUrl": "https://hub.eonetwork.org/",
+  "officialUrl": "https://hub.eonetwork.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

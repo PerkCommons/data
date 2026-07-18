@@ -1,0 +1,25 @@
+{
+  "id": "red-dot-award-design-concept",
+  "provider": "Red Dot",
+  "title": "Red Dot Award: Design Concept",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "design-competitions"
+  ],
+  "tags": [
+    "design",
+    "awards"
+  ],
+  "description": "Red Dot Award: Design Concept is a recurring design competition from Red Dot that accepts work under its current disciplines and entry rules.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Jury review, recognition, showcase, and competition-specific awards",
+  "sourceUrl": "https://www.red-dot.org/design-concept",
+  "officialUrl": "https://www.red-dot.org/design-concept",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

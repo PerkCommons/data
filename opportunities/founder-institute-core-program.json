@@ -1,0 +1,26 @@
+{
+  "id": "founder-institute-core-program",
+  "provider": "Founder Institute",
+  "title": "Core Program",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "startup-accelerators",
+    "pre-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Core Program is an early-stage founder program from Founder Institute that helps participants validate, launch, or accelerate a startup.",
+  "eligibility": "Founders must meet the current company-stage, team, geography, commitment, and selection requirements.",
+  "value": "Structured early-stage support, mentoring, and founder resources",
+  "sourceUrl": "https://fi.co/core",
+  "officialUrl": "https://fi.co/core",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

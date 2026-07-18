@@ -1,0 +1,27 @@
+{
+  "id": "teach-access-programs",
+  "provider": "Teach Access",
+  "title": "Teach Access Programs",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "accessibility-programs",
+    "education-impact-programs",
+    "health-impact-programs"
+  ],
+  "tags": [
+    "accessibility",
+    "inclusive-design"
+  ],
+  "description": "Teach Access Programs is an education, leadership, funding, or innovation program advancing accessibility, disability inclusion, or inclusive health and learning administered by Teach Access.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Accessible-design skills, leadership development, expert networks, funding or acceleration, and implementation resources",
+  "sourceUrl": "https://www.teachaccess.org/initiatives/",
+  "officialUrl": "https://www.teachaccess.org/initiatives/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

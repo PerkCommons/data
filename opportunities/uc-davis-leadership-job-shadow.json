@@ -1,0 +1,26 @@
+{
+  "id": "uc-davis-leadership-job-shadow",
+  "provider": "University of California, Davis",
+  "title": "Leadership Job Shadow Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "externships",
+    "job-shadowing-programs"
+  ],
+  "tags": [
+    "job-shadowing",
+    "career-exploration"
+  ],
+  "description": "Leadership Job Shadow Program is a short-term job-shadow or externship program administered by University of California, Davis.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Workplace observation, career exploration, and professional networking",
+  "sourceUrl": "https://chancellor.ucdavis.edu/leadership-job-shadow-program-application",
+  "officialUrl": "https://chancellor.ucdavis.edu/leadership-job-shadow-program-application",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

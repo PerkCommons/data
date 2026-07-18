@@ -1,0 +1,27 @@
+{
+  "id": "resilient-coders-bootcamp",
+  "provider": "Resilient Coders",
+  "title": "Software Engineering Bootcamp",
+  "category": "education-training",
+  "subcategories": [
+    "bootcamps",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "bootcamp",
+    "tuition-free"
+  ],
+  "description": "Software Engineering Bootcamp is a tuition-free or fully supported intensive training program administered by Resilient Coders.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Structured instruction, projects, community support, and no-cost or scholarship-backed tuition",
+  "sourceUrl": "https://www.resilientcoders.org/",
+  "officialUrl": "https://www.resilientcoders.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

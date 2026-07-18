@@ -1,0 +1,26 @@
+{
+  "id": "perimeter-visiting-researchers",
+  "provider": "Perimeter Institute",
+  "title": "Visiting Researchers Program",
+  "category": "research-opportunities",
+  "subcategories": [
+    "visiting-researcher-programs",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "visiting-researchers"
+  ],
+  "description": "Visiting Researchers Program is a visiting-researcher or visiting-scholar program offering access to a research community or facility administered by Perimeter Institute.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research affiliation, collaboration, facilities, and program-specific financial support",
+  "sourceUrl": "https://perimeterinstitute.ca/research/visitor-programs/scientific-visitors",
+  "officialUrl": "https://perimeterinstitute.ca/research/visitor-programs/scientific-visitors",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

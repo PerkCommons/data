@@ -1,0 +1,29 @@
+{
+  "id": "github-student-pack-educative",
+  "provider": "Educative",
+  "title": "Educative Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "free-courses",
+    "academic-resources",
+    "student-memberships"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "learn"
+  ],
+  "description": "Discover the best learning environment to learn and retain concepts effortlessly. Experience instant coding with browser-based Playgrounds, engage with interactive hands-on labs, and follow guided tutorials for seamless mastery.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Dive into 6 months of free access to over 70 practical courses, covering hot topics like Web Development, Python, Java, and Machine Learning. Plus, students enjoy an awesome 30% discount on any...",
+  "sourceUrl": "https://education.github.com/pack#educative",
+  "officialUrl": "https://education.github.com/pack#educative",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

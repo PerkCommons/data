@@ -1,0 +1,26 @@
+{
+  "id": "challenge-gov-innovation-challenges",
+  "provider": "U.S. General Services Administration",
+  "title": "Challenge.gov",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "online-hackathons",
+    "innovation-challenges"
+  ],
+  "tags": [
+    "hackathon",
+    "innovation"
+  ],
+  "description": "Challenge.gov is an online-accessible challenge from U.S. General Services Administration where participants build or propose solutions to defined technical or social problems.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Challenge participation, recognition, and program-specific prizes or support",
+  "sourceUrl": "https://www.challenge.gov/",
+  "officialUrl": "https://www.challenge.gov/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

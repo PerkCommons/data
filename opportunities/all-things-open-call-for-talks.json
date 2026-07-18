@@ -1,0 +1,26 @@
+{
+  "id": "all-things-open-call-for-talks",
+  "provider": "All Things Open",
+  "title": "Conference Speaker Program",
+  "category": "events-conferences",
+  "subcategories": [
+    "speaker-opportunities",
+    "networking-events"
+  ],
+  "tags": [
+    "call-for-proposals",
+    "conferences"
+  ],
+  "description": "Conference Speaker Program is a professional or community conference with an open call for speakers and participant networking administered by All Things Open.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "A public speaking pathway, audience reach, peer exchange, and conference networking",
+  "sourceUrl": "https://allthingsopen.org/",
+  "officialUrl": "https://allthingsopen.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

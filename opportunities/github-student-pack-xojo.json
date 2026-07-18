@@ -1,0 +1,30 @@
+{
+  "id": "github-student-pack-xojo",
+  "provider": "Xojo",
+  "title": "Xojo Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "education-plans",
+    "hardware-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "design",
+    "developer-tools"
+  ],
+  "description": "A cross-platform development tool for making native apps for Desktop, Mobile, Web and Raspberry Pi.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Xojo Pro license free while you are a student.",
+  "sourceUrl": "https://education.github.com/pack#xojo",
+  "officialUrl": "https://education.github.com/pack#xojo",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

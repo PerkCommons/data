@@ -1,0 +1,26 @@
+{
+  "id": "sewanee-writers-conference",
+  "provider": "Sewanee Writers’ Conference",
+  "title": "Sewanee Writers’ Conference",
+  "category": "creator-media",
+  "subcategories": [
+    "writing-programs",
+    "publishing-support"
+  ],
+  "tags": [
+    "writers",
+    "publishing"
+  ],
+  "description": "Sewanee Writers’ Conference is a selective writing-development program offering eligible writers workshops, mentorship, residency time, or routes toward publication administered by Sewanee Writers’ Conference.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Craft development, editorial feedback, literary community access, and program-specific scholarships or publishing connections",
+  "sourceUrl": "https://www.sewaneewriters.org/",
+  "officialUrl": "https://www.sewaneewriters.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

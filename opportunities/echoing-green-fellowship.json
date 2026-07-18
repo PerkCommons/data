@@ -1,0 +1,25 @@
+{
+  "id": "echoing-green-fellowship",
+  "provider": "Echoing Green",
+  "title": "Echoing Green Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "entrepreneurship-fellowships"
+  ],
+  "tags": [
+    "entrepreneurship",
+    "founders"
+  ],
+  "description": "Echoing Green Fellowship is an entrepreneurship fellowship administered by Echoing Green.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Founder development, mentoring, peer network, and program-specific funding or support",
+  "sourceUrl": "https://echoinggreen.org/fellowship/",
+  "officialUrl": "https://echoinggreen.org/fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

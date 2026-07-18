@@ -1,0 +1,26 @@
+{
+  "id": "air-new-voices-amplify",
+  "provider": "Association of Independents in Radio",
+  "title": "New Voices AMPLIFY",
+  "category": "creator-media",
+  "subcategories": [
+    "podcast-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "podcast",
+    "audio"
+  ],
+  "description": "New Voices AMPLIFY is a funding or supported-development opportunity for eligible podcasts, radio work, or independent audio storytelling administered by Association of Independents in Radio.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Audio production funding, development support, training, pitching access, or distribution assistance",
+  "sourceUrl": "https://airmedia.org/programs/new-voices",
+  "officialUrl": "https://airmedia.org/programs/new-voices",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

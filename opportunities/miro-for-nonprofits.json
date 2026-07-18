@@ -1,0 +1,29 @@
+{
+  "id": "miro-for-nonprofits",
+  "provider": "Miro",
+  "title": "Miro for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Miro for Nonprofits provides eligible nonprofit or social-impact organizations with nonprofit discounts, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Discounted Miro collaboration plans for qualifying nonprofit organizations.",
+  "sourceUrl": "https://help.miro.com/hc/en-us/articles/360017730473-Miro-for-nonprofits",
+  "officialUrl": "https://help.miro.com/hc/en-us/articles/360017730473-Miro-for-nonprofits",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "marriott-bonvoy",
+  "provider": "Marriott International",
+  "title": "Marriott Bonvoy",
+  "category": "discounts-perks",
+  "subcategories": [
+    "travel-coworking",
+    "memberships"
+  ],
+  "tags": [
+    "travel",
+    "loyalty"
+  ],
+  "description": "Marriott Bonvoy is a free travel loyalty membership with member rates or stay-related benefits administered by Marriott International.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Member rates, points, upgrades, or other travel benefits under current program terms",
+  "sourceUrl": "https://www.marriott.com/loyalty.mi",
+  "officialUrl": "https://www.marriott.com/loyalty.mi",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

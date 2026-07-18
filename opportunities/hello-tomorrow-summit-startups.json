@@ -1,0 +1,27 @@
+{
+  "id": "hello-tomorrow-summit-startups",
+  "provider": "Hello Tomorrow",
+  "title": "Global Summit Startup Participation",
+  "category": "events-conferences",
+  "subcategories": [
+    "startup-showcases",
+    "demo-days",
+    "networking-events"
+  ],
+  "tags": [
+    "startups",
+    "showcase"
+  ],
+  "description": "Global Summit Startup Participation is a startup event program that offers selected companies exhibition, showcase, demo, or investor-networking access administered by Hello Tomorrow.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Startup visibility, product demonstrations, investor or partner meetings, and event networking",
+  "sourceUrl": "https://hello-tomorrow.org/global-summit/",
+  "officialUrl": "https://hello-tomorrow.org/global-summit/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

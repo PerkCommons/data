@@ -1,0 +1,26 @@
+{
+  "id": "bcg-x-social-impact-accelerator",
+  "provider": "BCG X",
+  "title": "Social Impact Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "nonprofit-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Social Impact Accelerator is a capacity-building accelerator from BCG X for nonprofits, NGOs, or other mission-driven organizations working toward measurable social impact.",
+  "eligibility": "Mission-driven organizations must satisfy the current legal-status, impact, stage, location, and cohort requirements.",
+  "value": "Cohort training, expert support, peer learning, and program-specific resources",
+  "sourceUrl": "https://www.bcg.com/x/social-impact-accelerator/about",
+  "officialUrl": "https://www.bcg.com/x/social-impact-accelerator/about",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

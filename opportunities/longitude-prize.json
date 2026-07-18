@@ -1,0 +1,24 @@
+{
+  "id": "longitude-prize",
+  "provider": "Challenge Works",
+  "title": "Longitude Prize",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Longitude Prize competitions reward teams developing solutions to major global challenges.",
+  "eligibility": "Teams must enter an active prize and comply with its technical and judging rules.",
+  "value": "Challenge-specific development awards and winner prize",
+  "sourceUrl": "https://longitudeprize.org/",
+  "officialUrl": "https://longitudeprize.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "generation-tech-programs",
+  "provider": "Generation Australia",
+  "title": "Free Technology Career Programs",
+  "category": "education-training",
+  "subcategories": [
+    "bootcamps",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "bootcamp",
+    "tuition-free"
+  ],
+  "description": "Free Technology Career Programs is a tuition-free or fully supported intensive training program administered by Generation Australia.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Structured instruction, projects, community support, and no-cost or scholarship-backed tuition",
+  "sourceUrl": "https://australia.generation.org/find-a-program/",
+  "officialUrl": "https://australia.generation.org/find-a-program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

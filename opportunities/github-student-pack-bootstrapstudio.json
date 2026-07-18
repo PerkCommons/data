@@ -1,0 +1,29 @@
+{
+  "id": "github-student-pack-bootstrapstudio",
+  "provider": "Bootstrap Studio",
+  "title": "Bootstrap Studio Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "education-plans"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "design",
+    "developer-tools"
+  ],
+  "description": "Bootstrap Studio is a powerful desktop app for creating responsive websites using the Bootstrap framework.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "A free license for Bootstrap Studio while you are a student.",
+  "sourceUrl": "https://education.github.com/pack#bootstrapstudio",
+  "officialUrl": "https://education.github.com/pack#bootstrapstudio",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

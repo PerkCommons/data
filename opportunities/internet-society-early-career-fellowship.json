@@ -1,0 +1,25 @@
+{
+  "id": "internet-society-early-career-fellowship",
+  "provider": "Internet Society",
+  "title": "Early Career Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "policy-fellowships"
+  ],
+  "tags": [
+    "policy",
+    "public-interest"
+  ],
+  "description": "Early Career Fellowship is a policy fellowship administered by Internet Society.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Policy placement, research time, training, mentoring, or a program-specific stipend",
+  "sourceUrl": "https://www.internetsociety.org/fellowships/early-career/",
+  "officialUrl": "https://www.internetsociety.org/fellowships/early-career/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

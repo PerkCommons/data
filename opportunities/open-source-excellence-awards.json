@@ -1,0 +1,26 @@
+{
+  "id": "open-source-excellence-awards",
+  "provider": "Open Source Initiative",
+  "title": "Open Source Initiative Awards and Recognition",
+  "category": "awards-recognition",
+  "subcategories": [
+    "open-source-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "open-source",
+    "community"
+  ],
+  "description": "Open Source Initiative Awards and Recognition is a nomination or recognition program honoring sustained contribution, leadership, or impact in an open-source community administered by Open Source Initiative.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Community recognition, public visibility, and acknowledgment of open-source service or leadership",
+  "sourceUrl": "https://opensource.org/community/",
+  "officialUrl": "https://opensource.org/community/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

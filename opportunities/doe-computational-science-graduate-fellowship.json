@@ -1,0 +1,26 @@
+{
+  "id": "doe-computational-science-graduate-fellowship",
+  "provider": "U.S. Department of Energy",
+  "title": "Computational Science Graduate Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "research-fellowships",
+    "student-fellowships"
+  ],
+  "tags": [
+    "research",
+    "graduate-students"
+  ],
+  "description": "Computational Science Graduate Fellowship is a competitive graduate research fellowship administered by U.S. Department of Energy.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Research funding, mentoring, recognition, or program-specific academic support",
+  "sourceUrl": "https://www.krellinst.org/csgf/",
+  "officialUrl": "https://www.krellinst.org/csgf/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

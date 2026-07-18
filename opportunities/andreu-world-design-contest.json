@@ -1,0 +1,25 @@
+{
+  "id": "andreu-world-design-contest",
+  "provider": "Andreu World",
+  "title": "International Design Contest",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "design-competitions"
+  ],
+  "tags": [
+    "design",
+    "awards"
+  ],
+  "description": "International Design Contest is a recurring design competition from Andreu World that accepts work under its current disciplines and entry rules.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Jury review, recognition, showcase, and competition-specific awards",
+  "sourceUrl": "https://andreuworld.com/en/talent/design-contest",
+  "officialUrl": "https://andreuworld.com/en/talent/design-contest",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

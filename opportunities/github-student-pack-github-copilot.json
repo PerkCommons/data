@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-github-copilot",
+  "provider": "GitHub Copilot",
+  "title": "GitHub Copilot Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "machine-learning-ai"
+  ],
+  "description": "Use GitHub Copilot to get autocomplete-style suggestions from an AI pair programmer as you code.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "New plan sign-ups are temporarily paused as we ensure a high-quality experience. We appreciate your patience.",
+  "sourceUrl": "https://education.github.com/pack#github-copilot",
+  "officialUrl": "https://education.github.com/pack#github-copilot",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

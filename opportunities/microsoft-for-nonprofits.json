@@ -1,0 +1,36 @@
+{
+  "id": "microsoft-for-nonprofits",
+  "provider": "Microsoft",
+  "title": "Microsoft for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "communications-tools",
+    "productivity-tools",
+    "security-tools",
+    "nonprofit-consulting"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "communications-tools",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "description": "Microsoft for Nonprofits provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, cloud credits, communications tools, productivity tools, security tools, nonprofit consulting under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Technology grants, discounted cloud products, security resources, and nonprofit support under current program terms.",
+  "sourceUrl": "https://learn.microsoft.com/en-us/industry/nonprofit/microsoft-for-nonprofits/program-overview",
+  "officialUrl": "https://learn.microsoft.com/en-us/industry/nonprofit/microsoft-for-nonprofits/program-overview",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

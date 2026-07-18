@@ -1,0 +1,26 @@
+{
+  "id": "fabrica-residency",
+  "provider": "Fabrica Research Centre",
+  "title": "Fabrica Residency",
+  "category": "creator-media",
+  "subcategories": [
+    "creator-funds",
+    "design-residencies"
+  ],
+  "tags": [
+    "artists",
+    "residency"
+  ],
+  "description": "Fabrica Residency is a funded or supported residency pathway for eligible artists, designers, and creative practitioners developing original work administered by Fabrica Research Centre.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Dedicated creation time, workspace or accommodation, peer exchange, mentorship, and program-specific financial support",
+  "sourceUrl": "https://www.fabrica.it/",
+  "officialUrl": "https://www.fabrica.it/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

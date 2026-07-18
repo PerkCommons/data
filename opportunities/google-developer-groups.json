@@ -1,0 +1,27 @@
+{
+  "id": "google-developer-groups",
+  "provider": "Google for Developers",
+  "title": "Google Developer Groups",
+  "category": "mentorship-community",
+  "subcategories": [
+    "technical-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "developers",
+    "technical-community"
+  ],
+  "description": "Google Developer Groups is an official technical community with local or online groups, knowledge sharing, and access to experienced practitioners administered by Google for Developers.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Technical events, peer support, practitioner knowledge, and collaboration opportunities",
+  "sourceUrl": "https://developers.google.com/community/gdg",
+  "officialUrl": "https://developers.google.com/community/gdg",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

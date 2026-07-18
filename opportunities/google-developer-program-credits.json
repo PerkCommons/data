@@ -1,0 +1,25 @@
+{
+  "id": "google-developer-program-credits",
+  "provider": "Google",
+  "title": "Google Developer Program Credits",
+  "category": "developer-programs",
+  "subcategories": [
+    "api-credits"
+  ],
+  "tags": [
+    "developers",
+    "api"
+  ],
+  "description": "Google Developer Program Credits provides developers with free usage, credits, or a no-cost allowance for building with the provider's APIs.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Developer API credits or free usage under current limits",
+  "sourceUrl": "https://developers.google.com/program/plans-and-pricing",
+  "officialUrl": "https://developers.google.com/program/plans-and-pricing",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

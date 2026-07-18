@@ -1,0 +1,29 @@
+{
+  "id": "zoom-nonprofit-offer",
+  "provider": "Zoom",
+  "title": "Zoom Nonprofit Offer through TechSoup",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Zoom Nonprofit Offer through TechSoup provides eligible nonprofit or social-impact organizations with nonprofit discounts, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Access to current Zoom nonprofit pricing administered through TechSoup.",
+  "sourceUrl": "https://www.techsoup.org/products/zoom-one-g-53437-",
+  "officialUrl": "https://www.techsoup.org/products/zoom-one-g-53437-",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

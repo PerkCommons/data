@@ -1,0 +1,26 @@
+{
+  "id": "alchemist-accelerator",
+  "provider": "Alchemist Accelerator",
+  "title": "Alchemist Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "startup-accelerators",
+    "pre-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Alchemist Accelerator is an early-stage founder program from Alchemist Accelerator that helps participants validate, launch, or accelerate a startup.",
+  "eligibility": "Founders must meet the current company-stage, team, geography, commitment, and selection requirements.",
+  "value": "Structured early-stage support, mentoring, and founder resources",
+  "sourceUrl": "https://www.alchemistaccelerator.com/",
+  "officialUrl": "https://www.alchemistaccelerator.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

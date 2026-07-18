@@ -1,0 +1,25 @@
+{
+  "id": "docker-captains",
+  "provider": "Docker",
+  "title": "Docker Captains",
+  "category": "developer-programs",
+  "subcategories": [
+    "ambassador-programs"
+  ],
+  "tags": [
+    "developers",
+    "ambassador"
+  ],
+  "description": "Docker Captains recognizes experienced technical community contributors and provides resources for advocacy, education, and peer support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Community recognition, program resources, and contributor opportunities",
+  "sourceUrl": "https://www.docker.com/community/captains/",
+  "officialUrl": "https://www.docker.com/community/captains/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

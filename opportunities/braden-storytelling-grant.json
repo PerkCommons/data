@@ -1,0 +1,26 @@
+{
+  "id": "braden-storytelling-grant",
+  "provider": "Stanford Storytelling Project",
+  "title": "Braden Storytelling Grant",
+  "category": "creator-media",
+  "subcategories": [
+    "podcast-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "podcast",
+    "audio"
+  ],
+  "description": "Braden Storytelling Grant is a funding or supported-development opportunity for eligible podcasts, radio work, or independent audio storytelling administered by Stanford Storytelling Project.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Audio production funding, development support, training, pitching access, or distribution assistance",
+  "sourceUrl": "https://storytelling.stanford.edu/grants-fellowships/braden-storytelling-grant/apply-braden-grant",
+  "officialUrl": "https://storytelling.stanford.edu/grants-fellowships/braden-storytelling-grant/apply-braden-grant",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

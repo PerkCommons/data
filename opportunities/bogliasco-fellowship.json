@@ -1,0 +1,25 @@
+{
+  "id": "bogliasco-fellowship",
+  "provider": "Bogliasco Foundation",
+  "title": "Bogliasco Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "creator-fellowships"
+  ],
+  "tags": [
+    "creators",
+    "arts"
+  ],
+  "description": "Bogliasco Fellowship is a fellowship for artists, writers, journalists, or other creative practitioners administered by Bogliasco Foundation.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Creative time, workspace, mentoring, peer community, or program-specific stipend",
+  "sourceUrl": "https://bfny.org/en/apply",
+  "officialUrl": "https://bfny.org/en/apply",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

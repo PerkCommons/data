@@ -1,0 +1,26 @@
+{
+  "id": "babson-summer-venture-program",
+  "provider": "Babson College",
+  "title": "Summer Venture Program",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "student-incubators",
+    "university-incubators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Summer Venture Program is a university-connected venture program from Babson College that helps eligible student founders develop and test new ventures.",
+  "eligibility": "Teams must meet the current student or university-affiliation, venture-stage, location, and participation requirements.",
+  "value": "University venture training, mentoring, workspace or funding opportunities",
+  "sourceUrl": "https://entrepreneurship.babson.edu/summer-venture-program/",
+  "officialUrl": "https://entrepreneurship.babson.edu/summer-venture-program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

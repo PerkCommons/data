@@ -1,0 +1,26 @@
+{
+  "id": "google-cloud-pre-ga-programs",
+  "provider": "Google Cloud",
+  "title": "Google Cloud Pre-GA Programs",
+  "category": "developer-programs",
+  "subcategories": [
+    "developer-preview-programs",
+    "beta-access"
+  ],
+  "tags": [
+    "developers",
+    "preview"
+  ],
+  "description": "Google Cloud Pre-GA Programs gives developers access to pre-release software, APIs, SDKs, or platform features for testing and compatibility work.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Access to current developer preview or beta releases",
+  "sourceUrl": "https://cloud.google.com/products#product-launch-stages",
+  "officialUrl": "https://cloud.google.com/products#product-launch-stages",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

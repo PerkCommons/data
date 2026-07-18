@@ -1,0 +1,26 @@
+{
+  "id": "entrepreneurship-world-cup",
+  "provider": "Global Entrepreneurship Network",
+  "title": "Entrepreneurship World Cup",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "startup-competitions",
+    "pitch-competitions"
+  ],
+  "tags": [
+    "startups",
+    "pitch"
+  ],
+  "description": "Entrepreneurship World Cup is a startup competition from Global Entrepreneurship Network in which selected founders pitch their ventures to judges, investors, or a conference audience.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Pitch exposure and competition-specific funding, prizes, or investor access",
+  "sourceUrl": "https://www.genglobal.org/ewc",
+  "officialUrl": "https://www.genglobal.org/ewc",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

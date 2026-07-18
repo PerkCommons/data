@@ -1,0 +1,27 @@
+{
+  "id": "founders-network",
+  "provider": "Founders Network",
+  "title": "Founder Peer Mentorship",
+  "category": "mentorship-community",
+  "subcategories": [
+    "founder-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "founders",
+    "peer-support"
+  ],
+  "description": "Founder Peer Mentorship is a founder community offering peer learning, connections, and access to experienced operators administered by Founders Network.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Founder peer support, practical knowledge sharing, introductions, and community events",
+  "sourceUrl": "https://foundersnetwork.com/",
+  "officialUrl": "https://foundersnetwork.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

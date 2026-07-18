@@ -1,0 +1,26 @@
+{
+  "id": "google-developer-groups-on-campus",
+  "provider": "Google for Developers",
+  "title": "Google Developer Groups on Campus",
+  "category": "mentorship-community",
+  "subcategories": [
+    "student-communities",
+    "peer-communities"
+  ],
+  "tags": [
+    "students",
+    "community"
+  ],
+  "description": "Google Developer Groups on Campus is a student-focused peer community for learning, building projects, and professional connection administered by Google for Developers.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Peer support, events, projects, leadership opportunities, and career-oriented community resources",
+  "sourceUrl": "https://developers.google.com/community/gdsc",
+  "officialUrl": "https://developers.google.com/community/gdsc",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

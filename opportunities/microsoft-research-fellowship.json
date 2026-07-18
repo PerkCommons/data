@@ -1,0 +1,26 @@
+{
+  "id": "microsoft-research-fellowship",
+  "provider": "Microsoft Research",
+  "title": "Microsoft Research Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "research-fellowships",
+    "student-fellowships"
+  ],
+  "tags": [
+    "research",
+    "graduate-students"
+  ],
+  "description": "Microsoft Research Fellowship is a competitive graduate research fellowship administered by Microsoft Research.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Research funding, mentoring, recognition, or program-specific academic support",
+  "sourceUrl": "https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/",
+  "officialUrl": "https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

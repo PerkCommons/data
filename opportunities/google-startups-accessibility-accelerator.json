@@ -1,0 +1,27 @@
+{
+  "id": "google-startups-accessibility-accelerator",
+  "provider": "Google for Startups",
+  "title": "Accessibility Accelerator",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "accessibility-programs",
+    "education-impact-programs",
+    "health-impact-programs"
+  ],
+  "tags": [
+    "accessibility",
+    "inclusive-design"
+  ],
+  "description": "Accessibility Accelerator is an education, leadership, funding, or innovation program advancing accessibility, disability inclusion, or inclusive health and learning administered by Google for Startups.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Accessible-design skills, leadership development, expert networks, funding or acceleration, and implementation resources",
+  "sourceUrl": "https://startup.google.com/programs/accelerator/",
+  "officialUrl": "https://startup.google.com/programs/accelerator/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

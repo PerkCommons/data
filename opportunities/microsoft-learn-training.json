@@ -1,0 +1,26 @@
+{
+  "id": "microsoft-learn-training",
+  "provider": "Microsoft",
+  "title": "Microsoft Learn Training",
+  "category": "education-training",
+  "subcategories": [
+    "courses",
+    "learning-paths"
+  ],
+  "tags": [
+    "online-learning",
+    "self-paced"
+  ],
+  "description": "Microsoft Learn Training is an open online learning catalog with structured courses or learning paths administered by Microsoft.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Self-paced lessons, exercises, and subject-specific learning paths",
+  "sourceUrl": "https://learn.microsoft.com/en-us/training/",
+  "officialUrl": "https://learn.microsoft.com/en-us/training/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

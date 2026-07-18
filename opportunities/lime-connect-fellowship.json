@@ -1,0 +1,27 @@
+{
+  "id": "lime-connect-fellowship",
+  "provider": "Lime Connect",
+  "title": "Lime Connect Fellowship Program",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "accessibility-programs",
+    "education-impact-programs",
+    "health-impact-programs"
+  ],
+  "tags": [
+    "accessibility",
+    "inclusive-design"
+  ],
+  "description": "Lime Connect Fellowship Program is an education, leadership, funding, or innovation program advancing accessibility, disability inclusion, or inclusive health and learning administered by Lime Connect.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Accessible-design skills, leadership development, expert networks, funding or acceleration, and implementation resources",
+  "sourceUrl": "https://limeconnect.com/opportunities/leadership-programs/fellowship-program/",
+  "officialUrl": "https://limeconnect.com/opportunities/leadership-programs/fellowship-program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

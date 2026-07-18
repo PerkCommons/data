@@ -1,0 +1,26 @@
+{
+  "id": "google-climate-change-accelerator",
+  "provider": "Google for Startups",
+  "title": "Accelerator: Energy",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "climate-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Accelerator: Energy is an accelerator from Google for Startups for ventures developing climate, sustainability, or environmental-impact solutions.",
+  "eligibility": "Ventures must meet the current climate focus, company stage, technology, geography, and cohort requirements.",
+  "value": "Climate venture mentoring, partnerships, technical support, and program-specific funding",
+  "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator/",
+  "officialUrl": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

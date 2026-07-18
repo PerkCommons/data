@@ -1,0 +1,27 @@
+{
+  "id": "civic-tech-field-guide",
+  "provider": "Civic Tech Field Guide",
+  "title": "Civic Tech Field Guide Community",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "civic-tech-programs",
+    "public-interest-technology",
+    "community-development-programs"
+  ],
+  "tags": [
+    "civic-tech",
+    "public-interest"
+  ],
+  "description": "Civic Tech Field Guide Community is an open network, cohort, or support program through which practitioners collaborate on public-interest technology and community capacity administered by Civic Tech Field Guide.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Peer learning, civic-technology resources, collaboration, program visibility, and community-development support",
+  "sourceUrl": "https://civictech.guide/",
+  "officialUrl": "https://civictech.guide/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

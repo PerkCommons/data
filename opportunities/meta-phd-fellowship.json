@@ -1,0 +1,26 @@
+{
+  "id": "meta-phd-fellowship",
+  "provider": "Meta Research",
+  "title": "PhD Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "research-fellowships",
+    "student-fellowships"
+  ],
+  "tags": [
+    "research",
+    "graduate-students"
+  ],
+  "description": "PhD Fellowship is a competitive graduate research fellowship administered by Meta Research.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Research funding, mentoring, recognition, or program-specific academic support",
+  "sourceUrl": "https://research.facebook.com/fellowship/",
+  "officialUrl": "https://research.facebook.com/fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

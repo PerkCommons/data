@@ -1,0 +1,26 @@
+{
+  "id": "github-public-preview",
+  "provider": "GitHub",
+  "title": "GitHub Public Previews",
+  "category": "early-access",
+  "subcategories": [
+    "developer-previews",
+    "research-previews"
+  ],
+  "tags": [
+    "developer-preview",
+    "experimental"
+  ],
+  "description": "GitHub Public Previews is an official preview channel for developers evaluating experimental APIs, tools, platforms, or technical capabilities administered by GitHub.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Prerelease technical access, documentation, compatibility testing, and structured feedback opportunities",
+  "sourceUrl": "https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview",
+  "officialUrl": "https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "davidson-fellows-scholarship",
+  "provider": "Davidson Institute",
+  "title": "Davidson Fellows Scholarship",
+  "category": "awards-recognition",
+  "subcategories": [
+    "student-awards",
+    "research-awards"
+  ],
+  "tags": [
+    "students",
+    "research"
+  ],
+  "description": "Davidson Fellows Scholarship is a research or academic awards program in which eligible students present or submit original work for recognition administered by Davidson Institute.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Research recognition, feedback, visibility, and program-specific prizes or advancement opportunities",
+  "sourceUrl": "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/",
+  "officialUrl": "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

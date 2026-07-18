@@ -1,0 +1,25 @@
+{
+  "id": "reuters-institute-journalism-fellowship",
+  "provider": "Reuters Institute for the Study of Journalism",
+  "title": "Journalist Fellowship Programme",
+  "category": "fellowships",
+  "subcategories": [
+    "creator-fellowships"
+  ],
+  "tags": [
+    "creators",
+    "arts"
+  ],
+  "description": "Journalist Fellowship Programme is a fellowship for artists, writers, journalists, or other creative practitioners administered by Reuters Institute for the Study of Journalism.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Creative time, workspace, mentoring, peer community, or program-specific stipend",
+  "sourceUrl": "https://reutersinstitute.politics.ox.ac.uk/our-journalist-fellowship-programme",
+  "officialUrl": "https://reutersinstitute.politics.ox.ac.uk/our-journalist-fellowship-programme",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

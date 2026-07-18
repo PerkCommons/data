@@ -1,0 +1,26 @@
+{
+  "id": "openstack-first-contact-sig",
+  "provider": "OpenInfra Foundation",
+  "title": "OpenStack First Contact SIG",
+  "category": "open-source",
+  "subcategories": [
+    "contributor-programs",
+    "mentorship-programs"
+  ],
+  "tags": [
+    "contributors",
+    "mentorship"
+  ],
+  "description": "OpenStack First Contact SIG is an official newcomer or contributor pathway with community guidance and mentoring resources administered by OpenInfra Foundation.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Contributor onboarding, community guidance, mentored tasks, and practical open-source experience",
+  "sourceUrl": "https://wiki.openstack.org/wiki/First_Contact_SIG",
+  "officialUrl": "https://wiki.openstack.org/wiki/First_Contact_SIG",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

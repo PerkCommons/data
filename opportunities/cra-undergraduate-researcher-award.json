@@ -1,0 +1,26 @@
+{
+  "id": "cra-undergraduate-researcher-award",
+  "provider": "Computing Research Association",
+  "title": "Outstanding Undergraduate Researcher Award",
+  "category": "awards-recognition",
+  "subcategories": [
+    "student-awards",
+    "research-awards"
+  ],
+  "tags": [
+    "students",
+    "research"
+  ],
+  "description": "Outstanding Undergraduate Researcher Award is a research or academic awards program in which eligible students present or submit original work for recognition administered by Computing Research Association.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Research recognition, feedback, visibility, and program-specific prizes or advancement opportunities",
+  "sourceUrl": "https://cra.org/about/awards/outstanding-undergraduate-researcher-award/",
+  "officialUrl": "https://cra.org/about/awards/outstanding-undergraduate-researcher-award/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

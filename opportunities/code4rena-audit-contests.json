@@ -1,0 +1,26 @@
+{
+  "id": "code4rena-audit-contests",
+  "provider": "Code4rena",
+  "title": "Open Security Audit Contests",
+  "category": "open-source",
+  "subcategories": [
+    "issue-bounties",
+    "project-grants"
+  ],
+  "tags": [
+    "bounties",
+    "funding"
+  ],
+  "description": "Open Security Audit Contests is a bounty or open funding platform where eligible open-source work can receive financial rewards administered by Code4rena.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Issue-level rewards, project funding, or community-backed grants for completed open-source work",
+  "sourceUrl": "https://code4rena.com/",
+  "officialUrl": "https://code4rena.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

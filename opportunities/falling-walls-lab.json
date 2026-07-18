@@ -1,0 +1,24 @@
+{
+  "id": "falling-walls-lab",
+  "provider": "Falling Walls Foundation",
+  "title": "Falling Walls Lab",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Emerging researchers and innovators pitch breakthrough ideas through local labs and a global finale.",
+  "eligibility": "Applicants must meet current academic or professional stage rules and apply through an available lab.",
+  "value": "Pitch platform, global final, recognition, and winner opportunities",
+  "sourceUrl": "https://falling-walls.com/lab",
+  "officialUrl": "https://falling-walls.com/lab",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

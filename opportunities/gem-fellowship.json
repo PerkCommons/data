@@ -1,0 +1,26 @@
+{
+  "id": "gem-fellowship",
+  "provider": "National GEM Consortium",
+  "title": "GEM Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "research-fellowships",
+    "student-fellowships"
+  ],
+  "tags": [
+    "research",
+    "graduate-students"
+  ],
+  "description": "GEM Fellowship is a competitive graduate research fellowship administered by National GEM Consortium.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Research funding, mentoring, recognition, or program-specific academic support",
+  "sourceUrl": "https://www.gemfellowship.org/gem-fellowship-program/",
+  "officialUrl": "https://www.gemfellowship.org/gem-fellowship-program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

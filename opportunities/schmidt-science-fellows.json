@@ -1,0 +1,26 @@
+{
+  "id": "schmidt-science-fellows",
+  "provider": "Schmidt Science Fellows",
+  "title": "Schmidt Science Fellows Program",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "A funded postdoctoral fellowship supports scientists pivoting into a new discipline to pursue interdisciplinary research.",
+  "eligibility": "Candidates must be nominated by an eligible institution and meet the current PhD and research criteria.",
+  "value": "Stipend, scientific placement, mentoring, and cohort programming",
+  "sourceUrl": "https://schmidtsciencefellows.org/program/",
+  "officialUrl": "https://schmidtsciencefellows.org/program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

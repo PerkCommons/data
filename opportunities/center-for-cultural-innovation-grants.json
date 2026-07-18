@@ -1,0 +1,25 @@
+{
+  "id": "center-for-cultural-innovation-grants",
+  "provider": "Center for Cultural Innovation",
+  "title": "Grants for Artists",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "CCI administers grant programs for artists and creative workers, with eligibility varying by current call.",
+  "eligibility": "Artists must apply to an open program and meet its discipline, location, and project requirements.",
+  "value": "Artist grant under an available program",
+  "sourceUrl": "https://cciarts.org/grants-programs/",
+  "officialUrl": "https://cciarts.org/grants-programs/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

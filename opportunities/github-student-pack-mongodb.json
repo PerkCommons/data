@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-mongodb",
+  "provider": "MongoDB",
+  "title": "MongoDB Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "certification-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "infrastructure-apis"
+  ],
+  "description": "A general purpose, document-based, distributed database built for modern application developers and for the cloud era.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "$50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.",
+  "sourceUrl": "https://education.github.com/pack#mongodb",
+  "officialUrl": "https://education.github.com/pack#mongodb",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

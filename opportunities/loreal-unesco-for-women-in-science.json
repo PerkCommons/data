@@ -1,0 +1,24 @@
+{
+  "id": "loreal-unesco-for-women-in-science",
+  "provider": "L'Oreal Foundation and UNESCO",
+  "title": "For Women in Science International Awards",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The program recognizes and supports women scientists through international awards and regional fellowships.",
+  "eligibility": "Candidates must meet the applicable scientific field, career, geography, and nomination criteria.",
+  "value": "Research award or fellowship funding",
+  "sourceUrl": "https://www.unesco.org/en/prizes/women-science",
+  "officialUrl": "https://www.unesco.org/en/prizes/women-science",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

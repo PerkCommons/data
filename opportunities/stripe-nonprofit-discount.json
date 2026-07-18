@@ -1,0 +1,27 @@
+{
+  "id": "stripe-nonprofit-discount",
+  "provider": "Stripe",
+  "title": "Stripe Nonprofit Fee Discount",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "fundraising-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "fundraising-tools"
+  ],
+  "description": "Stripe Nonprofit Fee Discount provides eligible nonprofit or social-impact organizations with nonprofit discounts, fundraising tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Discounted Stripe processing fees for eligible nonprofit organizations under current terms.",
+  "sourceUrl": "https://support.stripe.com/questions/fee-discount-for-nonprofit-organizations",
+  "officialUrl": "https://support.stripe.com/questions/fee-discount-for-nonprofit-organizations",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

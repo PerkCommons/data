@@ -21,3 +21,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and
 [schema/opportunity.schema.json](schema/opportunity.schema.json). Category
 labels, descriptions, subcategories, and legacy aliases are maintained in
 [taxonomy/opportunity-taxonomy.json](taxonomy/opportunity-taxonomy.json).
+
+## Catalog checks
+
+Run the schema and taxonomy tests before submitting data changes:
+
+```sh
+npm ci
+npm test
+npm run coverage -- --enforce
+```
+
+The coverage check requires at least 20 opportunities in every primary category
+and at least 10 assignments for every subcategory. One opportunity may count
+toward multiple subcategories only when each assignment accurately describes
+the program.
+
+Use `npm run audit:sources` to verify published source and official URLs. A
+failed URL makes the command fail. Some official sites reject automated requests;
+the audit reports those separately for manual browser review.

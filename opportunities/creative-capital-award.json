@@ -1,0 +1,25 @@
+{
+  "id": "creative-capital-award",
+  "provider": "Creative Capital",
+  "title": "Creative Capital Award",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The award provides project funding and professional development to selected artists creating original work.",
+  "eligibility": "Artists must meet the current discipline, project, age, residency, and application requirements.",
+  "value": "Unrestricted project funding and artist services",
+  "sourceUrl": "https://creative-capital.org/creative-capital-award/",
+  "officialUrl": "https://creative-capital.org/creative-capital-award/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ellen-macarthur-circular-economy-network",
+  "provider": "Ellen MacArthur Foundation",
+  "title": "Circular Economy Network",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "climate-programs",
+    "education-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "climate",
+    "learning"
+  ],
+  "description": "Circular Economy Network is a cohort, training, or community program helping participants build practical climate solutions and mobilize local action administered by Ellen MacArthur Foundation.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Climate education, project development, peer community, facilitation resources, and program-specific implementation support",
+  "sourceUrl": "https://www.ellenmacarthurfoundation.org/network/overview",
+  "officialUrl": "https://www.ellenmacarthurfoundation.org/network/overview",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

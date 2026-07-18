@@ -1,0 +1,26 @@
+{
+  "id": "datadog-preview-features",
+  "provider": "Datadog",
+  "title": "Datadog Preview Features",
+  "category": "early-access",
+  "subcategories": [
+    "pilot-programs",
+    "early-adopter-programs"
+  ],
+  "tags": [
+    "pilot",
+    "early-adopter"
+  ],
+  "description": "Datadog Preview Features is an official pilot or early-adopter pathway for organizations and developers evaluating new platform capabilities before general availability administered by Datadog.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Pilot access, implementation learning, product-team feedback channels, and early deployment experience",
+  "sourceUrl": "https://docs.datadoghq.com/account_management/rbac/permissions/?tab=datadogapplication#preview-features",
+  "officialUrl": "https://docs.datadoghq.com/account_management/rbac/permissions/?tab=datadogapplication#preview-features",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

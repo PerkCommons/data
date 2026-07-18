@@ -1,0 +1,26 @@
+{
+  "id": "hfsp-postdoctoral-fellowships",
+  "provider": "Human Frontier Science Program",
+  "title": "HFSP Postdoctoral Fellowships",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Fellowships support early-career scientists undertaking interdisciplinary life-science research in another country.",
+  "eligibility": "Applicants must satisfy the doctorate, publication, mobility, host-lab, and research-scope rules.",
+  "value": "Multi-year fellowship support for international postdoctoral research",
+  "sourceUrl": "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships",
+  "officialUrl": "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

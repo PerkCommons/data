@@ -1,0 +1,27 @@
+{
+  "id": "oist-research-internship",
+  "provider": "Okinawa Institute of Science and Technology",
+  "title": "Research Internship Program",
+  "category": "research-opportunities",
+  "subcategories": [
+    "research-internships",
+    "research-assistantships",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "internships"
+  ],
+  "description": "Research Internship Program is a supervised research internship with project work in an academic or scientific environment administered by Okinawa Institute of Science and Technology.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research experience, supervision, and program-specific funding or support",
+  "sourceUrl": "https://admissions.oist.jp/oist-research-internship-program-description",
+  "officialUrl": "https://admissions.oist.jp/oist-research-internship-program-description",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

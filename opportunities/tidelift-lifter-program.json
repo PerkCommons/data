@@ -1,0 +1,25 @@
+{
+  "id": "tidelift-lifter-program",
+  "provider": "Tidelift",
+  "title": "Tidelift Lifter Program",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Tidelift contracts with participating maintainers to perform package maintenance and supply-chain assurance work.",
+  "eligibility": "Maintainers of packages in customer dependency catalogs may be invited or apply under current program requirements.",
+  "value": "Paid maintainer work through the Tidelift subscription",
+  "sourceUrl": "https://tidelift.com/subscription/managed-open-source",
+  "officialUrl": "https://tidelift.com/subscription/managed-open-source",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

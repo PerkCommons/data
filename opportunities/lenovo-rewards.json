@@ -1,0 +1,26 @@
+{
+  "id": "lenovo-rewards",
+  "provider": "Lenovo",
+  "title": "My Lenovo Rewards",
+  "category": "discounts-perks",
+  "subcategories": [
+    "hardware",
+    "memberships"
+  ],
+  "tags": [
+    "rewards",
+    "hardware"
+  ],
+  "description": "My Lenovo Rewards is a free rewards membership that can provide published savings or rewards on eligible hardware purchases administered by Lenovo.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Member pricing, reward points, delivery benefits, or hardware-purchase savings under current terms",
+  "sourceUrl": "https://www.lenovo.com/us/en/rewards/",
+  "officialUrl": "https://www.lenovo.com/us/en/rewards/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "world-of-hyatt",
+  "provider": "Hyatt",
+  "title": "World of Hyatt",
+  "category": "discounts-perks",
+  "subcategories": [
+    "travel-coworking",
+    "memberships"
+  ],
+  "tags": [
+    "travel",
+    "loyalty"
+  ],
+  "description": "World of Hyatt is a free travel loyalty membership with member rates or stay-related benefits administered by Hyatt.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Member rates, points, upgrades, or other travel benefits under current program terms",
+  "sourceUrl": "https://world.hyatt.com/content/gp/en/home.html",
+  "officialUrl": "https://world.hyatt.com/content/gp/en/home.html",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

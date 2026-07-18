@@ -1,0 +1,31 @@
+{
+  "id": "github-student-pack-appwrite",
+  "provider": "Appwrite",
+  "title": "Appwrite Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "education-plans",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "cloud",
+    "developer-tools"
+  ],
+  "description": "Appwrite is an open-source, developer infrastructure platform for building web, mobile, and AI apps. It includes both a backend server and a fully integrated hosting solution for deploying static and server-side rendered frontends.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free access to Appwrite&#39;s Education plan (2 projects with equivalent resource limits as Appwrite Pro, worth $40/month) throughout the course of your student career (i.e., as long as you remain...",
+  "sourceUrl": "https://education.github.com/pack#appwrite",
+  "officialUrl": "https://education.github.com/pack#appwrite",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "acm-student-chapters",
+  "provider": "Association for Computing Machinery",
+  "title": "ACM Student Chapters",
+  "category": "mentorship-community",
+  "subcategories": [
+    "student-communities",
+    "peer-communities"
+  ],
+  "tags": [
+    "students",
+    "community"
+  ],
+  "description": "ACM Student Chapters is a student-focused peer community for learning, building projects, and professional connection administered by Association for Computing Machinery.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Peer support, events, projects, leadership opportunities, and career-oriented community resources",
+  "sourceUrl": "https://www.acm.org/chapters/students",
+  "officialUrl": "https://www.acm.org/chapters/students",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

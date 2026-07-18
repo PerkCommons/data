@@ -1,0 +1,27 @@
+{
+  "id": "alliance-digital-public-infrastructure",
+  "provider": "UNDP",
+  "title": "Digital Public Infrastructure Community",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "civic-tech-programs",
+    "public-interest-technology",
+    "community-development-programs"
+  ],
+  "tags": [
+    "civic-tech",
+    "public-interest"
+  ],
+  "description": "Digital Public Infrastructure Community is an open network, cohort, or support program through which practitioners collaborate on public-interest technology and community capacity administered by UNDP.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Peer learning, civic-technology resources, collaboration, program visibility, and community-development support",
+  "sourceUrl": "https://www.undp.org/digital/digital-public-infrastructure",
+  "officialUrl": "https://www.undp.org/digital/digital-public-infrastructure",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "front-startup-program",
+  "provider": "Front",
+  "title": "Front Startup Program",
+  "category": "startup-benefits",
+  "subcategories": [
+    "customer-support-tools",
+    "saas-discounts"
+  ],
+  "tags": [
+    "customer-support",
+    "startup-discount"
+  ],
+  "description": "Front Startup Program is an official startup offer providing eligible early-stage companies discounted customer service, help desk, or shared-inbox software administered by Front.",
+  "eligibility": "Companies must meet the provider’s current stage, funding, age, geography, partner-referral, account, and program-specific requirements; ordinary fees may apply outside promotional benefits.",
+  "value": "Customer-support software discounts, onboarding resources, and provider-specific service tooling",
+  "sourceUrl": "https://front.com/startups",
+  "officialUrl": "https://front.com/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rockefeller-surf",
+  "provider": "Rockefeller University",
+  "title": "Summer Undergraduate Research Fellowship",
+  "category": "research-opportunities",
+  "subcategories": [
+    "research-internships",
+    "research-assistantships",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "internships"
+  ],
+  "description": "Summer Undergraduate Research Fellowship is a supervised research internship with project work in an academic or scientific environment administered by Rockefeller University.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research experience, supervision, and program-specific funding or support",
+  "sourceUrl": "https://www.rockefeller.edu/education-and-training/surf/",
+  "officialUrl": "https://www.rockefeller.edu/education-and-training/surf/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

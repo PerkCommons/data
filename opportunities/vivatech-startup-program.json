@@ -1,0 +1,27 @@
+{
+  "id": "vivatech-startup-program",
+  "provider": "Viva Technology",
+  "title": "Startup Program",
+  "category": "events-conferences",
+  "subcategories": [
+    "startup-showcases",
+    "demo-days",
+    "networking-events"
+  ],
+  "tags": [
+    "startups",
+    "showcase"
+  ],
+  "description": "Startup Program is a startup event program that offers selected companies exhibition, showcase, demo, or investor-networking access administered by Viva Technology.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Startup visibility, product demonstrations, investor or partner meetings, and event networking",
+  "sourceUrl": "https://vivatechnology.com/startups",
+  "officialUrl": "https://vivatechnology.com/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cartier-womens-initiative-awards",
+  "provider": "Cartier Women’s Initiative",
+  "title": "Cartier Women’s Initiative Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "innovation-awards",
+    "founder-awards"
+  ],
+  "tags": [
+    "innovation",
+    "founders"
+  ],
+  "description": "Cartier Women’s Initiative Awards is an established awards program recognizing founders, entrepreneurs, products, or organizations responsible for notable innovation administered by Cartier Women’s Initiative.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Independent recognition, visibility, peer credibility, and program-specific finalist or winner benefits",
+  "sourceUrl": "https://www.cartierwomensinitiative.com/awards",
+  "officialUrl": "https://www.cartierwomensinitiative.com/awards",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

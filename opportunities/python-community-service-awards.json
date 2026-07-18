@@ -1,0 +1,26 @@
+{
+  "id": "python-community-service-awards",
+  "provider": "Python Software Foundation",
+  "title": "Python Community Service Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "open-source-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "open-source",
+    "community"
+  ],
+  "description": "Python Community Service Awards is a nomination or recognition program honoring sustained contribution, leadership, or impact in an open-source community administered by Python Software Foundation.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Community recognition, public visibility, and acknowledgment of open-source service or leadership",
+  "sourceUrl": "https://www.python.org/community/awards/",
+  "officialUrl": "https://www.python.org/community/awards/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

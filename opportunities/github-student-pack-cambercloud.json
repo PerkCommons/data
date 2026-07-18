@@ -1,0 +1,31 @@
+{
+  "id": "github-student-pack-cambercloud",
+  "provider": "Camber",
+  "title": "Camber Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "education-plans",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "cloud",
+    "learn"
+  ],
+  "description": "AI-powered, cloud-based platform designed for scientific computing, simulations, and data analysis.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free Camber Student plan that includes 200 CPU hours, 75GB of storage, and 200 LLM messages per month, plus additional student benefits designed to supercharge your research.",
+  "sourceUrl": "https://education.github.com/pack#cambercloud",
+  "officialUrl": "https://education.github.com/pack#cambercloud",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

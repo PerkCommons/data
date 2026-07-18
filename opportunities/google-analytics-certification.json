@@ -1,0 +1,26 @@
+{
+  "id": "google-analytics-certification",
+  "provider": "Google",
+  "title": "Google Analytics Certification",
+  "category": "education-training",
+  "subcategories": [
+    "certifications",
+    "learning-paths"
+  ],
+  "tags": [
+    "credentials",
+    "professional-learning"
+  ],
+  "description": "Google Analytics Certification is a training and credential pathway with an official assessment or verifiable certificate administered by Google.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Role-based learning and an official certificate, badge, or certification pathway",
+  "sourceUrl": "https://skillshop.docebosaas.com/learn/public/learning_plan/view/analytics-certification",
+  "officialUrl": "https://skillshop.docebosaas.com/learn/public/learning_plan/view/analytics-certification",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

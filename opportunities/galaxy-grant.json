@@ -1,0 +1,26 @@
+{
+  "id": "galaxy-grant",
+  "provider": "Hidden Star",
+  "title": "Galaxy Grant",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Galaxy of Stars offers grant rounds and business support for women and minority entrepreneurs.",
+  "eligibility": "Applicants must meet the current grant round's ownership, business, and application requirements.",
+  "value": "Small-business grant under the current Galaxy Grant round",
+  "sourceUrl": "https://galaxyofstars.org/",
+  "officialUrl": "https://galaxyofstars.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

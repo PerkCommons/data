@@ -1,0 +1,26 @@
+{
+  "id": "wipo-global-awards",
+  "provider": "World Intellectual Property Organization",
+  "title": "WIPO Global Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "innovation-awards",
+    "founder-awards"
+  ],
+  "tags": [
+    "innovation",
+    "founders"
+  ],
+  "description": "WIPO Global Awards is an established awards program recognizing founders, entrepreneurs, products, or organizations responsible for notable innovation administered by World Intellectual Property Organization.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Independent recognition, visibility, peer credibility, and program-specific finalist or winner benefits",
+  "sourceUrl": "https://www.wipo.int/en/web/awards/global",
+  "officialUrl": "https://www.wipo.int/en/web/awards/global",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

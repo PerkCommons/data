@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-bubble",
+  "provider": "Bubble",
+  "title": "The full-stack, no-code app builder for everyone",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "developer-tooling"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "engineering",
+    "productivity"
+  ],
+  "description": "Bubble is offering $2,500 in Bubble credits for the first 6 months of being a Bubble user. Bubble is a software development platform that enables anyone to build and launch web applications without writing code.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "The full-stack, no-code app builder for everyone",
+  "sourceUrl": "https://startups.aws.com/offers/bubble",
+  "officialUrl": "https://startups.aws.com/offers/bubble",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

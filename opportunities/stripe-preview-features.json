@@ -1,0 +1,26 @@
+{
+  "id": "stripe-preview-features",
+  "provider": "Stripe",
+  "title": "Stripe Preview Features",
+  "category": "early-access",
+  "subcategories": [
+    "developer-previews",
+    "research-previews"
+  ],
+  "tags": [
+    "developer-preview",
+    "experimental"
+  ],
+  "description": "Stripe Preview Features is an official preview channel for developers evaluating experimental APIs, tools, platforms, or technical capabilities administered by Stripe.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Prerelease technical access, documentation, compatibility testing, and structured feedback opportunities",
+  "sourceUrl": "https://docs.stripe.com/release-phases",
+  "officialUrl": "https://docs.stripe.com/release-phases",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

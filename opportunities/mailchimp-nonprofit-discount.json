@@ -1,0 +1,31 @@
+{
+  "id": "mailchimp-nonprofit-discount",
+  "provider": "Mailchimp",
+  "title": "Mailchimp Nonprofit Discount",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Mailchimp Nonprofit Discount provides eligible nonprofit or social-impact organizations with nonprofit discounts, fundraising tools, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "A nonprofit discount on eligible Mailchimp marketing plans under current provider terms.",
+  "sourceUrl": "https://mailchimp.com/help/about-nonprofit-discount/",
+  "officialUrl": "https://mailchimp.com/help/about-nonprofit-discount/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "github-student-pack-namecom",
+  "provider": "Name.com",
+  "title": "Name.com Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "virtual-events",
+    "domains"
+  ],
+  "description": "Domains, Google Workspace, Titan, Wix, WordPress Hosting, and more.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Build your project on a select free domain with over 25 domain extensions like .live, .studio, .software, .app, and .dev. Be sure your Name.com account includes a unique address, otherwise the...",
+  "sourceUrl": "https://education.github.com/pack#namecom",
+  "officialUrl": "https://education.github.com/pack#namecom",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

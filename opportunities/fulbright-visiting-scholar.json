@@ -1,0 +1,26 @@
+{
+  "id": "fulbright-visiting-scholar",
+  "provider": "Fulbright Scholar Program",
+  "title": "Visiting Scholar Program",
+  "category": "research-opportunities",
+  "subcategories": [
+    "visiting-researcher-programs",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "visiting-researchers"
+  ],
+  "description": "Visiting Scholar Program is a visiting-researcher or visiting-scholar program offering access to a research community or facility administered by Fulbright Scholar Program.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research affiliation, collaboration, facilities, and program-specific financial support",
+  "sourceUrl": "https://fulbrightscholars.org/non-us-scholars/fulbright-visiting-scholar-program",
+  "officialUrl": "https://fulbrightscholars.org/non-us-scholars/fulbright-visiting-scholar-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

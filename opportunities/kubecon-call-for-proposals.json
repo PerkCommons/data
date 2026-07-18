@@ -1,0 +1,26 @@
+{
+  "id": "kubecon-call-for-proposals",
+  "provider": "Cloud Native Computing Foundation",
+  "title": "KubeCon + CloudNativeCon Call for Proposals",
+  "category": "events-conferences",
+  "subcategories": [
+    "speaker-opportunities",
+    "networking-events"
+  ],
+  "tags": [
+    "call-for-proposals",
+    "conferences"
+  ],
+  "description": "KubeCon + CloudNativeCon Call for Proposals is a professional or community conference with an open call for speakers and participant networking administered by Cloud Native Computing Foundation.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "A public speaking pathway, audience reach, peer exchange, and conference networking",
+  "sourceUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/",
+  "officialUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

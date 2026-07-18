@@ -1,0 +1,26 @@
+{
+  "id": "ey-entrepreneur-of-the-year",
+  "provider": "EY",
+  "title": "Entrepreneur Of The Year",
+  "category": "awards-recognition",
+  "subcategories": [
+    "innovation-awards",
+    "founder-awards"
+  ],
+  "tags": [
+    "innovation",
+    "founders"
+  ],
+  "description": "Entrepreneur Of The Year is an established awards program recognizing founders, entrepreneurs, products, or organizations responsible for notable innovation administered by EY.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Independent recognition, visibility, peer credibility, and program-specific finalist or winner benefits",
+  "sourceUrl": "https://www.ey.com/en_gl/entrepreneur-of-the-year",
+  "officialUrl": "https://www.ey.com/en_gl/entrepreneur-of-the-year",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

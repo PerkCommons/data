@@ -1,0 +1,31 @@
+{
+  "id": "zeffy-nonprofit-fundraising",
+  "provider": "Zeffy",
+  "title": "Zeffy Nonprofit Fundraising Platform",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Zeffy Nonprofit Fundraising Platform provides eligible nonprofit or social-impact organizations with nonprofit discounts, fundraising tools, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "No-platform-fee fundraising forms and payment processing for eligible nonprofit organizations.",
+  "sourceUrl": "https://www.zeffy.com/feature/payment-processing",
+  "officialUrl": "https://www.zeffy.com/feature/payment-processing",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

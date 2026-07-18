@@ -1,0 +1,27 @@
+{
+  "id": "github-student-pack-digitalocean",
+  "provider": "DigitalOcean",
+  "title": "DigitalOcean Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "cloud"
+  ],
+  "description": "Simple cloud hosting, built for developers",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Enjoy $200 in platform credit through 7/31/26! As of June 8, 2026, you may use your credits on any DigitalOcean services, except as to the following: GPU Droplets, NVIDIA H100 GPU Kubernetes, Bare...",
+  "sourceUrl": "https://education.github.com/pack#digitalocean",
+  "officialUrl": "https://education.github.com/pack#digitalocean",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

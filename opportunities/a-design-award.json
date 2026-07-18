@@ -1,0 +1,25 @@
+{
+  "id": "a-design-award",
+  "provider": "A' Design Award and Competition",
+  "title": "A' Design Award",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "design-competitions"
+  ],
+  "tags": [
+    "design",
+    "awards"
+  ],
+  "description": "A' Design Award is a recurring design competition from A' Design Award and Competition that accepts work under its current disciplines and entry rules.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Jury review, recognition, showcase, and competition-specific awards",
+  "sourceUrl": "https://competition.adesignaward.com/",
+  "officialUrl": "https://competition.adesignaward.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

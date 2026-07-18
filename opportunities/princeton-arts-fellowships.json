@@ -1,0 +1,25 @@
+{
+  "id": "princeton-arts-fellowships",
+  "provider": "Princeton University Lewis Center for the Arts",
+  "title": "Princeton Arts Fellowships",
+  "category": "fellowships",
+  "subcategories": [
+    "creator-fellowships"
+  ],
+  "tags": [
+    "creators",
+    "arts"
+  ],
+  "description": "Princeton Arts Fellowships is a fellowship for artists, writers, journalists, or other creative practitioners administered by Princeton University Lewis Center for the Arts.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Creative time, workspace, mentoring, peer community, or program-specific stipend",
+  "sourceUrl": "https://arts.princeton.edu/fellowships/princeton-arts-fellowship/",
+  "officialUrl": "https://arts.princeton.edu/fellowships/princeton-arts-fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

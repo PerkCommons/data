@@ -1,0 +1,28 @@
+{
+  "id": "startglobal-company-formation",
+  "provider": "StartGlobal",
+  "title": "US Company Formation",
+  "category": "startup-benefits",
+  "subcategories": [
+    "incorporation-support",
+    "legal-support",
+    "accounting-support",
+    "banking-finance"
+  ],
+  "tags": [
+    "company-formation",
+    "finance-operations"
+  ],
+  "description": "US Company Formation is a company-formation service that combines incorporation workflows with legal documents and access to tax, bookkeeping, or business-banking support administered by StartGlobal.",
+  "eligibility": "Companies must meet the provider’s current stage, funding, age, geography, partner-referral, account, and program-specific requirements; ordinary fees may apply outside promotional benefits.",
+  "value": "Company formation, standard legal documents, compliance guidance, and provider-specific finance or accounting services",
+  "sourceUrl": "https://startglobal.co/",
+  "officialUrl": "https://startglobal.co/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

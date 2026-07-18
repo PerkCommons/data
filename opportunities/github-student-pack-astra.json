@@ -1,0 +1,27 @@
+{
+  "id": "github-student-pack-astra",
+  "provider": "AstraSecurity",
+  "title": "AstraSecurity Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "security-analytics"
+  ],
+  "description": "Security suite for your website - firewall, malware scanner & managed bug bounty platform.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "6 month access to website firewall & malware scanner",
+  "sourceUrl": "https://education.github.com/pack#astra",
+  "officialUrl": "https://education.github.com/pack#astra",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

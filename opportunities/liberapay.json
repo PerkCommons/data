@@ -1,0 +1,25 @@
+{
+  "id": "liberapay",
+  "provider": "Liberapay",
+  "title": "Liberapay",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Liberapay enables recurring donations to creators and open-source contributors without taking a platform percentage.",
+  "eligibility": "Recipients need an eligible account and payment setup in a supported country.",
+  "value": "Recurring community donations",
+  "sourceUrl": "https://liberapay.com/",
+  "officialUrl": "https://liberapay.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gitlab-pages-free",
+  "provider": "GitLab",
+  "title": "GitLab Pages",
+  "category": "discounts-perks",
+  "subcategories": [
+    "hosting"
+  ],
+  "tags": [
+    "hosting",
+    "free-tier"
+  ],
+  "description": "GitLab Pages is a generally available no-cost hosting tier for eligible personal or development use administered by GitLab.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Static, application, or cloud hosting within published free-tier limits",
+  "sourceUrl": "https://docs.gitlab.com/user/project/pages/",
+  "officialUrl": "https://docs.gitlab.com/user/project/pages/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

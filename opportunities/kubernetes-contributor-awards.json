@@ -1,0 +1,26 @@
+{
+  "id": "kubernetes-contributor-awards",
+  "provider": "Kubernetes",
+  "title": "Kubernetes Contributor Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "open-source-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "open-source",
+    "community"
+  ],
+  "description": "Kubernetes Contributor Awards is a nomination or recognition program honoring sustained contribution, leadership, or impact in an open-source community administered by Kubernetes.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Community recognition, public visibility, and acknowledgment of open-source service or leadership",
+  "sourceUrl": "https://www.kubernetes.dev/community/awards/",
+  "officialUrl": "https://www.kubernetes.dev/community/awards/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-student-pack-github-codespaces",
+  "provider": "GitHub Codespaces",
+  "title": "GitHub Codespaces Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs"
+  ],
+  "tags": [
+    "github-education",
+    "students"
+  ],
+  "description": "Create a codespace to start developing in a secure, configurable, and dedicated development environment that works how and where you want it to.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free Pro level access to Codespaces to use anywhere in your account.",
+  "sourceUrl": "https://education.github.com/pack#github-codespaces",
+  "officialUrl": "https://education.github.com/pack#github-codespaces",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ihg-one-rewards",
+  "provider": "IHG Hotels & Resorts",
+  "title": "IHG One Rewards",
+  "category": "discounts-perks",
+  "subcategories": [
+    "travel-coworking",
+    "memberships"
+  ],
+  "tags": [
+    "travel",
+    "loyalty"
+  ],
+  "description": "IHG One Rewards is a free travel loyalty membership with member rates or stay-related benefits administered by IHG Hotels & Resorts.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Member rates, points, upgrades, or other travel benefits under current program terms",
+  "sourceUrl": "https://www.ihg.com/onerewards/content/us/en/home",
+  "officialUrl": "https://www.ihg.com/onerewards/content/us/en/home",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

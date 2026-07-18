@@ -1,0 +1,26 @@
+{
+  "id": "embl-visitor-programme",
+  "provider": "European Molecular Biology Laboratory",
+  "title": "Scientific Visitor Programme",
+  "category": "research-opportunities",
+  "subcategories": [
+    "visiting-researcher-programs",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "visiting-researchers"
+  ],
+  "description": "Scientific Visitor Programme is a visiting-researcher or visiting-scholar program offering access to a research community or facility administered by European Molecular Biology Laboratory.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research affiliation, collaboration, facilities, and program-specific financial support",
+  "sourceUrl": "https://www.embl.org/about/info/scientific-visitor-programme/",
+  "officialUrl": "https://www.embl.org/about/info/scientific-visitor-programme/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cal-hacks",
+  "provider": "Cal Hacks",
+  "title": "Cal Hacks",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "in-person-hackathons",
+    "student-competitions"
+  ],
+  "tags": [
+    "hackathon",
+    "students"
+  ],
+  "description": "Cal Hacks is a recurring student hackathon organized by Cal Hacks, bringing eligible participants together to build projects during an intensive event.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Team-building event, mentoring, project showcase, and event-specific prizes",
+  "sourceUrl": "https://calhacks.io/",
+  "officialUrl": "https://calhacks.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

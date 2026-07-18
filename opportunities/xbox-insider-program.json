@@ -1,0 +1,26 @@
+{
+  "id": "xbox-insider-program",
+  "provider": "Microsoft",
+  "title": "Xbox Insider Program",
+  "category": "early-access",
+  "subcategories": [
+    "public-betas",
+    "product-testing"
+  ],
+  "tags": [
+    "beta",
+    "product-testing"
+  ],
+  "description": "Xbox Insider Program is an official public beta channel that lets participants test prerelease product builds and provide feedback administered by Microsoft.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Early product access, prerelease testing, and a supported feedback channel",
+  "sourceUrl": "https://www.xbox.com/en-US/legal/insider-program",
+  "officialUrl": "https://www.xbox.com/en-US/legal/insider-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

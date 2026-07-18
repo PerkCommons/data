@@ -1,0 +1,26 @@
+{
+  "id": "okta-early-access",
+  "provider": "Okta",
+  "title": "Okta Early Access Features",
+  "category": "early-access",
+  "subcategories": [
+    "pilot-programs",
+    "early-adopter-programs"
+  ],
+  "tags": [
+    "pilot",
+    "early-adopter"
+  ],
+  "description": "Okta Early Access Features is an official pilot or early-adopter pathway for organizations and developers evaluating new platform capabilities before general availability administered by Okta.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Pilot access, implementation learning, product-team feedback channels, and early deployment experience",
+  "sourceUrl": "https://help.okta.com/oie/en-us/content/topics/releasenotes/early-access.htm",
+  "officialUrl": "https://help.okta.com/oie/en-us/content/topics/releasenotes/early-access.htm",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

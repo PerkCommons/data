@@ -1,0 +1,25 @@
+{
+  "id": "journalismfund-europe-grants",
+  "provider": "Journalismfund Europe",
+  "title": "Journalism Grants",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Grant programs fund cross-border, local, environmental, and other public-interest journalism in Europe.",
+  "eligibility": "Journalists and teams must meet the chosen call's geography, collaboration, publication, and budget rules.",
+  "value": "Reporting grant for an eligible journalism project",
+  "sourceUrl": "https://www.journalismfund.eu/grants",
+  "officialUrl": "https://www.journalismfund.eu/grants",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

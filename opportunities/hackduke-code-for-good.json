@@ -1,0 +1,26 @@
+{
+  "id": "hackduke-code-for-good",
+  "provider": "HackDuke",
+  "title": "Code for Good",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "in-person-hackathons",
+    "student-competitions"
+  ],
+  "tags": [
+    "hackathon",
+    "students"
+  ],
+  "description": "Code for Good is a recurring student hackathon organized by HackDuke, bringing eligible participants together to build projects during an intensive event.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Team-building event, mentoring, project showcase, and event-specific prizes",
+  "sourceUrl": "https://hackduke.org/events",
+  "officialUrl": "https://hackduke.org/events",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

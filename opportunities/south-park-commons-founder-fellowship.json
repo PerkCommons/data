@@ -1,0 +1,25 @@
+{
+  "id": "south-park-commons-founder-fellowship",
+  "provider": "South Park Commons",
+  "title": "Founder Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "entrepreneurship-fellowships"
+  ],
+  "tags": [
+    "entrepreneurship",
+    "founders"
+  ],
+  "description": "Founder Fellowship is an entrepreneurship fellowship administered by South Park Commons.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Founder development, mentoring, peer network, and program-specific funding or support",
+  "sourceUrl": "https://www.southparkcommons.com/founder-fellowship",
+  "officialUrl": "https://www.southparkcommons.com/founder-fellowship",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

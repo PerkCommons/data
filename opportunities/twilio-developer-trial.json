@@ -1,0 +1,25 @@
+{
+  "id": "twilio-developer-trial",
+  "provider": "Twilio",
+  "title": "Twilio Developer Trial Credit",
+  "category": "developer-programs",
+  "subcategories": [
+    "api-credits"
+  ],
+  "tags": [
+    "developers",
+    "api"
+  ],
+  "description": "Twilio Developer Trial Credit provides developers with free usage, credits, or a no-cost allowance for building with the provider's APIs.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Developer API credits or free usage under current limits",
+  "sourceUrl": "https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account",
+  "officialUrl": "https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "intercom-early-stage",
+  "provider": "Intercom",
+  "title": "Early Stage Program",
+  "category": "startup-benefits",
+  "subcategories": [
+    "marketing-tools",
+    "customer-support-tools",
+    "saas-discounts"
+  ],
+  "tags": [
+    "customer-engagement",
+    "startup-discount"
+  ],
+  "description": "Early Stage Program is an official startup program offering eligible early-stage companies discounted customer engagement, marketing, or support software administered by Intercom.",
+  "eligibility": "Companies must meet the provider’s current stage, funding, age, geography, partner-referral, account, and program-specific requirements; ordinary fees may apply outside promotional benefits.",
+  "value": "Time-limited software discounts, onboarding resources, and customer acquisition or support tooling",
+  "sourceUrl": "https://www.intercom.com/early-stage",
+  "officialUrl": "https://www.intercom.com/early-stage",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

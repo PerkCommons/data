@@ -1,0 +1,25 @@
+{
+  "id": "google-cloud-research-credits",
+  "provider": "Google Cloud",
+  "title": "Research Credits",
+  "category": "research-opportunities",
+  "subcategories": [
+    "compute-credits"
+  ],
+  "tags": [
+    "research-compute",
+    "cloud-credits"
+  ],
+  "description": "Research Credits is a compute-access or cloud-credit program intended to support eligible research workloads administered by Google Cloud.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Cloud, accelerator, or high-performance-computing resources under program-specific limits",
+  "sourceUrl": "https://edu.google.com/programs/credits/research/",
+  "officialUrl": "https://edu.google.com/programs/credits/research/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

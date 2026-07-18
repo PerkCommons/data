@@ -1,0 +1,29 @@
+{
+  "id": "aws-activate-tavily",
+  "provider": "Tavily",
+  "title": "30% off any plan - for 6 months!",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "developer-tooling"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "ai-inference",
+    "engineering"
+  ],
+  "description": "Tavily MCP Server - you can get 30% off for 6 months on any pre-paid plan of your choice. Plans range from 4,000 credits per month to 100,000 credits per month, and include email support and higher rate limits.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "30% off any plan - for 6 months!",
+  "sourceUrl": "https://startups.aws.com/offers/tavily",
+  "officialUrl": "https://startups.aws.com/offers/tavily",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "airbnb-connect-apprenticeship",
+  "provider": "Airbnb",
+  "title": "Connect Engineering Apprenticeship",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "apprenticeships",
+    "traineeships"
+  ],
+  "tags": [
+    "apprenticeships",
+    "career-change"
+  ],
+  "description": "Connect Engineering Apprenticeship is a structured apprenticeship or career-entry training program administered by Airbnb.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Paid or supported work-based training and role-specific professional experience",
+  "sourceUrl": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+  "officialUrl": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

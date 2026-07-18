@@ -1,0 +1,26 @@
+{
+  "id": "hertz-fellowship",
+  "provider": "Fannie and John Hertz Foundation",
+  "title": "Hertz Fellowship",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The fellowship funds doctoral study for selected U.S. students in applied physical and biological sciences, mathematics, and engineering.",
+  "eligibility": "Applicants must meet current citizenship or residency, study-stage, and field requirements.",
+  "value": "Graduate tuition and personal stipend",
+  "sourceUrl": "https://www.hertzfoundation.org/the-fellowship/",
+  "officialUrl": "https://www.hertzfoundation.org/the-fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

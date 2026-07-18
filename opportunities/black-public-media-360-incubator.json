@@ -1,0 +1,25 @@
+{
+  "id": "black-public-media-360-incubator",
+  "provider": "Black Public Media",
+  "title": "360 Incubator+",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The incubator supports Black filmmakers and creative technologists developing broadcast and digital projects.",
+  "eligibility": "Creators must satisfy the current call's identity, project-stage, medium, and participation requirements.",
+  "value": "Development support, mentorship, pitch opportunity, and potential funding",
+  "sourceUrl": "https://blackpublicmedia.org/360-incubator/",
+  "officialUrl": "https://blackpublicmedia.org/360-incubator/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

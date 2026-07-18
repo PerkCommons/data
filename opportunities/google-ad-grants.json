@@ -1,0 +1,31 @@
+{
+  "id": "google-ad-grants",
+  "provider": "Google",
+  "title": "Google Ad Grants",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools"
+  ],
+  "description": "Google Ad Grants provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, fundraising tools, communications tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Google Search advertising credit for qualifying nonprofit organizations that maintain program compliance.",
+  "sourceUrl": "https://www.google.com/grants/",
+  "officialUrl": "https://www.google.com/grants/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

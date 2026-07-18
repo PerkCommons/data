@@ -1,0 +1,25 @@
+{
+  "id": "catapult-film-fund",
+  "provider": "Catapult Film Fund",
+  "title": "Catapult Development Grant",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Development grants support documentary filmmakers creating a strong sample for an early-stage film.",
+  "eligibility": "Filmmakers must meet the fund's documentary, project-stage, budget, and application requirements.",
+  "value": "Development grant for a selected documentary",
+  "sourceUrl": "https://catapultfilmfund.org/how-to-apply/",
+  "officialUrl": "https://catapultfilmfund.org/how-to-apply/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

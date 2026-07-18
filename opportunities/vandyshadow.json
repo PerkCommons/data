@@ -1,0 +1,26 @@
+{
+  "id": "vandyshadow",
+  "provider": "Vanderbilt University",
+  "title": "VandyShadow",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "externships",
+    "job-shadowing-programs"
+  ],
+  "tags": [
+    "job-shadowing",
+    "career-exploration"
+  ],
+  "description": "VandyShadow is a short-term job-shadow or externship program administered by Vanderbilt University.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Workplace observation, career exploration, and professional networking",
+  "sourceUrl": "https://www.vanderbilt.edu/career/experiential-learning-treks/vandyshadow/",
+  "officialUrl": "https://www.vanderbilt.edu/career/experiential-learning-treks/vandyshadow/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

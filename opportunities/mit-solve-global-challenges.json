@@ -1,0 +1,24 @@
+{
+  "id": "mit-solve-global-challenges",
+  "provider": "MIT Solve",
+  "title": "Global Challenges",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Open innovation challenges select and support technology-based social-impact solutions.",
+  "eligibility": "Teams must apply to an active challenge and meet its solution-stage and impact requirements.",
+  "value": "Prize funding, partnerships, and a support network",
+  "sourceUrl": "https://solve.mit.edu/challenges",
+  "officialUrl": "https://solve.mit.edu/challenges",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

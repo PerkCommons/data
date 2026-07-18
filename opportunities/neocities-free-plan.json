@@ -1,0 +1,25 @@
+{
+  "id": "neocities-free-plan",
+  "provider": "Neocities",
+  "title": "Free Web Hosting",
+  "category": "discounts-perks",
+  "subcategories": [
+    "hosting"
+  ],
+  "tags": [
+    "hosting",
+    "free-tier"
+  ],
+  "description": "Free Web Hosting is a generally available no-cost hosting tier for eligible personal or development use administered by Neocities.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Static, application, or cloud hosting within published free-tier limits",
+  "sourceUrl": "https://neocities.org/",
+  "officialUrl": "https://neocities.org/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

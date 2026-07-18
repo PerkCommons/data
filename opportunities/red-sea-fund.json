@@ -1,0 +1,26 @@
+{
+  "id": "red-sea-fund",
+  "provider": "Red Sea Film Foundation",
+  "title": "Red Sea Fund",
+  "category": "creator-media",
+  "subcategories": [
+    "film-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "film",
+    "documentary"
+  ],
+  "description": "Red Sea Fund is a selective fund supporting eligible independent film or documentary projects at specified stages of development, production, or completion administered by Red Sea Film Foundation.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Project funding, creative or editorial support, industry access, and program-specific distribution resources",
+  "sourceUrl": "https://redseafilmfest.com/en/red-sea-fund/",
+  "officialUrl": "https://redseafilmfest.com/en/red-sea-fund/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

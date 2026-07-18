@@ -1,0 +1,28 @@
+{
+  "id": "open-source-summit-scholarships",
+  "provider": "Linux Foundation",
+  "title": "Open Source Summit Diversity Scholarships",
+  "category": "events-conferences",
+  "subcategories": [
+    "conference-scholarships",
+    "travel-grants",
+    "community-tickets",
+    "student-tickets"
+  ],
+  "tags": [
+    "conference-support",
+    "students"
+  ],
+  "description": "Open Source Summit Diversity Scholarships is a conference attendance-support program offering registration, travel support, or student volunteer benefits under current terms administered by Linux Foundation.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Reduced-cost or supported conference participation, with program-specific registration and travel benefits",
+  "sourceUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/diversity-scholarships/",
+  "officialUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/diversity-scholarships/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

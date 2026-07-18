@@ -1,0 +1,25 @@
+{
+  "id": "wild-gift-fellowship",
+  "provider": "Wild Gift",
+  "title": "Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "social-impact-fellowships"
+  ],
+  "tags": [
+    "social-impact",
+    "leadership"
+  ],
+  "description": "Fellowship is a social-impact leadership fellowship administered by Wild Gift.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Leadership development, mentoring, community, and program-specific project support",
+  "sourceUrl": "https://www.wildgift.org/fellowship/",
+  "officialUrl": "https://www.wildgift.org/fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

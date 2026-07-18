@@ -1,0 +1,25 @@
+{
+  "id": "polar-open-source-funding",
+  "provider": "Polar",
+  "title": "Polar for Open Source",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Polar provides tools for open-source maintainers to fund work through subscriptions, products, and issue-based rewards.",
+  "eligibility": "Maintainers need an eligible open-source project and must satisfy Polar's account, payment, and platform terms.",
+  "value": "Community funding and paid issue or product infrastructure",
+  "sourceUrl": "https://polar.sh/",
+  "officialUrl": "https://polar.sh/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

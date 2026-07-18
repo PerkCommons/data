@@ -1,0 +1,26 @@
+{
+  "id": "schneider-electric-returnship",
+  "provider": "Schneider Electric",
+  "title": "Returnship Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "returnships",
+    "traineeships"
+  ],
+  "tags": [
+    "returnships",
+    "career-reentry"
+  ],
+  "description": "Returnship Program is a structured return-to-work program for experienced professionals after a career break administered by Schneider Electric.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Re-entry training, paid project work, mentoring, and potential pathways to continuing roles",
+  "sourceUrl": "https://www.se.com/ww/en/about-us/careers/returnship-program/",
+  "officialUrl": "https://www.se.com/ww/en/about-us/careers/returnship-program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "commons-conservancy-programmes",
+  "provider": "Commons Conservancy",
+  "title": "Programme Hosting",
+  "category": "open-source",
+  "subcategories": [
+    "sponsorships",
+    "fiscal-hosting",
+    "project-grants"
+  ],
+  "tags": [
+    "fiscal-hosting",
+    "project-support"
+  ],
+  "description": "Programme Hosting is an open-source project home or fiscal-hosting pathway that provides organizational, financial, or administrative support administered by Commons Conservancy.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Fiscal stewardship, legal or administrative support, fundraising infrastructure, and project governance services",
+  "sourceUrl": "https://commonsconservancy.org/programmes/",
+  "officialUrl": "https://commonsconservancy.org/programmes/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

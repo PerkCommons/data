@@ -1,0 +1,26 @@
+{
+  "id": "mongodb-university-certification",
+  "provider": "MongoDB",
+  "title": "MongoDB University and Certification",
+  "category": "education-training",
+  "subcategories": [
+    "certifications",
+    "learning-paths"
+  ],
+  "tags": [
+    "credentials",
+    "professional-learning"
+  ],
+  "description": "MongoDB University and Certification is a training and credential pathway with an official assessment or verifiable certificate administered by MongoDB.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Role-based learning and an official certificate, badge, or certification pathway",
+  "sourceUrl": "https://learn.mongodb.com/",
+  "officialUrl": "https://learn.mongodb.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

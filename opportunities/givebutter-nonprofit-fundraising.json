@@ -1,0 +1,31 @@
+{
+  "id": "givebutter-nonprofit-fundraising",
+  "provider": "Givebutter",
+  "title": "Givebutter Nonprofit Fundraising",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Givebutter Nonprofit Fundraising provides eligible nonprofit or social-impact organizations with nonprofit discounts, fundraising tools, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Fundraising, events, auctions, and donor-management tools under Givebutter's current pricing model.",
+  "sourceUrl": "https://givebutter.com/pricing",
+  "officialUrl": "https://givebutter.com/pricing",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

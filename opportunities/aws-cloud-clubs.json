@@ -1,0 +1,26 @@
+{
+  "id": "aws-cloud-clubs",
+  "provider": "Amazon Web Services",
+  "title": "AWS Cloud Clubs",
+  "category": "mentorship-community",
+  "subcategories": [
+    "student-communities",
+    "peer-communities"
+  ],
+  "tags": [
+    "students",
+    "community"
+  ],
+  "description": "AWS Cloud Clubs is a student-focused peer community for learning, building projects, and professional connection administered by Amazon Web Services.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Peer support, events, projects, leadership opportunities, and career-oriented community resources",
+  "sourceUrl": "https://aws.amazon.com/developer/community/students/cloudclubs/",
+  "officialUrl": "https://aws.amazon.com/developer/community/students/cloudclubs/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -4,6 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "audit:sources": "tsx scripts/audit-sources.ts",
+    "coverage": "tsx scripts/coverage.ts",
     "validate": "tsx scripts/validate.ts",
     "test": "npm run validate && tsx --test tests/*.test.ts"
   },

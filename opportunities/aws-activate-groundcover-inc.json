@@ -1,0 +1,32 @@
+{
+  "id": "aws-activate-groundcover-inc",
+  "provider": "Groundcover",
+  "title": "groundcover for Startups - 25% off your first year on AWS",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "developer-tooling",
+    "analytics-observability"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "engineering",
+    "cost-optimization",
+    "global-startup-program"
+  ],
+  "description": "Stop trying to guess your data overage costs on next month's observability bill. groundcover is the cloud-native observability platform that gives startups full-stack visibility - logs, metrics, traces, and profiling - without the unpredictable data costs that come with traditional tools. groundcover for Startups provides eligible AWS startup customers with exclusive benefits: ● 25% off your first year subscription on AWS Marketplace ● eBPF-based instrumentation - zero code changes, instant depl",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "groundcover for Startups - 25% off your first year on AWS",
+  "sourceUrl": "https://startups.aws.com/offers/groundcover-inc",
+  "officialUrl": "https://startups.aws.com/offers/groundcover-inc",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

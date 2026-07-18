@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-amplitude",
+  "provider": "Amplitude",
+  "title": "Amplitude: Free Product and Web Insights for a Year",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "analytics-observability",
+    "marketing-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "analytics"
+  ],
+  "description": "Get one year of free access to the Amplitude Growth plan-including Analytics, Feature and Web Experimentation, Session Replay, and CDP-plus competitive discounts for life.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Amplitude: Free Product and Web Insights for a Year",
+  "sourceUrl": "https://startups.aws.com/offers/amplitude",
+  "officialUrl": "https://startups.aws.com/offers/amplitude",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

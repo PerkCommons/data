@@ -1,0 +1,27 @@
+{
+  "id": "saastr-startup-program",
+  "provider": "SaaStr",
+  "title": "SaaStr Startup Program",
+  "category": "events-conferences",
+  "subcategories": [
+    "startup-showcases",
+    "demo-days",
+    "networking-events"
+  ],
+  "tags": [
+    "startups",
+    "showcase"
+  ],
+  "description": "SaaStr Startup Program is a startup event program that offers selected companies exhibition, showcase, demo, or investor-networking access administered by SaaStr.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Startup visibility, product demonstrations, investor or partner meetings, and event networking",
+  "sourceUrl": "https://www.saastrannual.com/startups",
+  "officialUrl": "https://www.saastrannual.com/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

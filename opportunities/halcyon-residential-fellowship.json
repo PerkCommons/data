@@ -1,0 +1,25 @@
+{
+  "id": "halcyon-residential-fellowship",
+  "provider": "Halcyon",
+  "title": "Halcyon Founder Fellowships",
+  "category": "fellowships",
+  "subcategories": [
+    "entrepreneurship-fellowships"
+  ],
+  "tags": [
+    "entrepreneurship",
+    "founders"
+  ],
+  "description": "Halcyon Founder Fellowships is an entrepreneurship fellowship administered by Halcyon.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Founder development, mentoring, peer network, and program-specific funding or support",
+  "sourceUrl": "https://www.halcyonhouse.org/news/a-bold-new-vision-and-home-for-halcyon/",
+  "officialUrl": "https://www.halcyonhouse.org/news/a-bold-new-vision-and-home-for-halcyon/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ai2-incubator",
+  "provider": "AI2 Incubator",
+  "title": "AI2 Incubator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "ai-accelerators",
+    "startup-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "AI2 Incubator is a startup support or accelerator program from AI2 Incubator for teams building artificial-intelligence products or infrastructure.",
+  "eligibility": "AI startups must satisfy the current product focus, company stage, geography, technical, and selection requirements.",
+  "value": "AI technical support, mentoring, ecosystem access, and program-specific credits or funding",
+  "sourceUrl": "https://www.ai2incubator.com/",
+  "officialUrl": "https://www.ai2incubator.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "open-mainframe-project-mentorship",
+  "provider": "Open Mainframe Project",
+  "title": "Mentorship Program",
+  "category": "fellowships",
+  "subcategories": [
+    "technical-fellowships",
+    "open-source-fellowships"
+  ],
+  "tags": [
+    "open-source",
+    "technology"
+  ],
+  "description": "Mentorship Program is an open-source technical fellowship or mentored contribution program administered by Open Mainframe Project.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Mentoring, practical open-source experience, and program-specific stipend or support",
+  "sourceUrl": "https://www.openmainframeproject.org/projects/mentorship",
+  "officialUrl": "https://www.openmainframeproject.org/projects/mentorship",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

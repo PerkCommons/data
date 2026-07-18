@@ -1,0 +1,26 @@
+{
+  "id": "nase-growth-grants",
+  "provider": "National Association for the Self-Employed",
+  "title": "NASE Growth Grants",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Growth Grants provide small awards that eligible NASE members can use for business needs.",
+  "eligibility": "Applicants must be eligible NASE members and follow the current application and waiting-period rules.",
+  "value": "Small-business grant under the current program limit",
+  "sourceUrl": "https://www.nase.org/become-a-member/member-benefits/business-resources/growth-grants",
+  "officialUrl": "https://www.nase.org/become-a-member/member-benefits/business-resources/growth-grants",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

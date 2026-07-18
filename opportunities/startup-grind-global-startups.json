@@ -1,0 +1,27 @@
+{
+  "id": "startup-grind-global-startups",
+  "provider": "Startup Grind",
+  "title": "Global Conference Startup Program",
+  "category": "events-conferences",
+  "subcategories": [
+    "startup-showcases",
+    "demo-days",
+    "networking-events"
+  ],
+  "tags": [
+    "startups",
+    "showcase"
+  ],
+  "description": "Global Conference Startup Program is a startup event program that offers selected companies exhibition, showcase, demo, or investor-networking access administered by Startup Grind.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Startup visibility, product demonstrations, investor or partner meetings, and event networking",
+  "sourceUrl": "https://www.startupgrind.com/conference/",
+  "officialUrl": "https://www.startupgrind.com/conference/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

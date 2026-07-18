@@ -1,0 +1,30 @@
+{
+  "id": "github-student-pack-microsoft-azure-13-17",
+  "provider": "Microsoft Azure (for ages 13-17)",
+  "title": "Microsoft Azure (for ages 13-17) Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools",
+    "cloud"
+  ],
+  "description": "Access to Microsoft Azure cloud services and learning resources for students aged 13-17 – no credit card required",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "For students age 13-17. Free access to Azure App Services, Azure Functions, Notification Hubs, MySQL database from MySQL in-app, Application Insights, Azure DevOps.",
+  "sourceUrl": "https://education.github.com/pack#microsoft-azure-13-17",
+  "officialUrl": "https://education.github.com/pack#microsoft-azure-13-17",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

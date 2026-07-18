@@ -1,0 +1,27 @@
+{
+  "id": "recurse-center",
+  "provider": "Recurse Center",
+  "title": "Recurse Center Retreat",
+  "category": "education-training",
+  "subcategories": [
+    "bootcamps",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "bootcamp",
+    "tuition-free"
+  ],
+  "description": "Recurse Center Retreat is a tuition-free or fully supported intensive training program administered by Recurse Center.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Structured instruction, projects, community support, and no-cost or scholarship-backed tuition",
+  "sourceUrl": "https://www.recurse.com/",
+  "officialUrl": "https://www.recurse.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

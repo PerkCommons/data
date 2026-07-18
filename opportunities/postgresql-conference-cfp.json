@@ -1,0 +1,26 @@
+{
+  "id": "postgresql-conference-cfp",
+  "provider": "PostgreSQL Community",
+  "title": "PostgreSQL Conference Calls for Papers",
+  "category": "events-conferences",
+  "subcategories": [
+    "speaker-opportunities",
+    "networking-events"
+  ],
+  "tags": [
+    "call-for-proposals",
+    "conferences"
+  ],
+  "description": "PostgreSQL Conference Calls for Papers is a professional or community conference with an open call for speakers and participant networking administered by PostgreSQL Community.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "A public speaking pathway, audience reach, peer exchange, and conference networking",
+  "sourceUrl": "https://www.postgresql.org/about/events/",
+  "officialUrl": "https://www.postgresql.org/about/events/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

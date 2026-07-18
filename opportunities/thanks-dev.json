@@ -1,0 +1,25 @@
+{
+  "id": "thanks-dev",
+  "provider": "thanks.dev",
+  "title": "thanks.dev",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "thanks.dev distributes sponsor funding across the open-source dependencies used by participating organizations and individuals.",
+  "eligibility": "Open-source maintainers need supported repositories and payout details under the platform's current rules.",
+  "value": "Dependency-based recurring sponsorship",
+  "sourceUrl": "https://thanks.dev/",
+  "officialUrl": "https://thanks.dev/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

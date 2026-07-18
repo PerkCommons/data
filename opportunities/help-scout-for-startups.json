@@ -1,0 +1,26 @@
+{
+  "id": "help-scout-for-startups",
+  "provider": "Help Scout",
+  "title": "Help Scout for Startups",
+  "category": "startup-benefits",
+  "subcategories": [
+    "customer-support-tools",
+    "saas-discounts"
+  ],
+  "tags": [
+    "customer-support",
+    "startup-discount"
+  ],
+  "description": "Help Scout for Startups is an official startup offer providing eligible early-stage companies discounted customer service, help desk, or shared-inbox software administered by Help Scout.",
+  "eligibility": "Companies must meet the provider’s current stage, funding, age, geography, partner-referral, account, and program-specific requirements; ordinary fees may apply outside promotional benefits.",
+  "value": "Customer-support software discounts, onboarding resources, and provider-specific service tooling",
+  "sourceUrl": "https://www.helpscout.com/startups/",
+  "officialUrl": "https://www.helpscout.com/startups/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-icons8",
+  "provider": "Icons8",
+  "title": "Icons8 Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "student-memberships"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "design"
+  ],
+  "description": "Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free 3-month subscription that includes: icons, photos, illustrations, and music.",
+  "sourceUrl": "https://education.github.com/pack#icons8",
+  "officialUrl": "https://education.github.com/pack#icons8",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

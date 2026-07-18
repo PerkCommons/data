@@ -1,0 +1,26 @@
+{
+  "id": "regeneron-isef",
+  "provider": "Society for Science",
+  "title": "Regeneron International Science and Engineering Fair",
+  "category": "awards-recognition",
+  "subcategories": [
+    "student-awards",
+    "research-awards"
+  ],
+  "tags": [
+    "students",
+    "research"
+  ],
+  "description": "Regeneron International Science and Engineering Fair is a research or academic awards program in which eligible students present or submit original work for recognition administered by Society for Science.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Research recognition, feedback, visibility, and program-specific prizes or advancement opportunities",
+  "sourceUrl": "https://www.societyforscience.org/isef/",
+  "officialUrl": "https://www.societyforscience.org/isef/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

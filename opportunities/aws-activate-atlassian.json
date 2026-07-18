@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-atlassian",
+  "provider": "Atlassian",
+  "title": "It's never too early to start with Atlassian!",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "developer-tooling"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "engineering",
+    "productivity"
+  ],
+  "description": "Unleash the potential of your startup with Atlassian for Startups.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "It's never too early to start with Atlassian!",
+  "sourceUrl": "https://startups.aws.com/offers/atlassian",
+  "officialUrl": "https://startups.aws.com/offers/atlassian",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

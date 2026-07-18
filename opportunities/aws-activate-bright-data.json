@@ -1,0 +1,31 @@
+{
+  "id": "aws-activate-bright-data",
+  "provider": "Bright Data",
+  "title": "Bright Data | Get 70% extra discount on your Web Data Spend",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "analytics-observability",
+    "marketing-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "analytics",
+    "business",
+    "sales-marketing"
+  ],
+  "description": "Production-ready infrastructure for AI agents that need reliable web access at scale. Handle thousands of concurrent agent operations. Trusted by 20,000+ teams.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Bright Data | Get 70% extra discount on your Web Data Spend",
+  "sourceUrl": "https://startups.aws.com/offers/bright-data",
+  "officialUrl": "https://startups.aws.com/offers/bright-data",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

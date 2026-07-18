@@ -1,0 +1,26 @@
+{
+  "id": "d-and-ad-awards",
+  "provider": "D&AD",
+  "title": "D&AD Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "creator-awards",
+    "innovation-awards"
+  ],
+  "tags": [
+    "creative-work",
+    "design"
+  ],
+  "description": "D&AD Awards is a juried creative award accepting eligible work from designers, makers, studios, writers, or digital creators administered by D&AD.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Juried recognition, portfolio visibility, publication, and award-specific exhibition or networking benefits",
+  "sourceUrl": "https://www.dandad.org/awards/",
+  "officialUrl": "https://www.dandad.org/awards/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

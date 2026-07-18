@@ -1,0 +1,27 @@
+{
+  "id": "coding-coach-mentorship",
+  "provider": "Coding Coach",
+  "title": "Free Software Engineering Mentorship",
+  "category": "mentorship-community",
+  "subcategories": [
+    "mentorship-programs",
+    "office-hours",
+    "expert-networks"
+  ],
+  "tags": [
+    "mentorship",
+    "expert-guidance"
+  ],
+  "description": "Free Software Engineering Mentorship is a mentorship network where eligible members can request individual guidance or expert sessions administered by Coding Coach.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "One-to-one mentoring, expert guidance, and scheduled advice sessions",
+  "sourceUrl": "https://codingcoach.io/",
+  "officialUrl": "https://codingcoach.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

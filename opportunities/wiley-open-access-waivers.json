@@ -1,0 +1,25 @@
+{
+  "id": "wiley-open-access-waivers",
+  "provider": "Wiley",
+  "title": "Open Access Waivers and Discounts",
+  "category": "research-opportunities",
+  "subcategories": [
+    "publication-support"
+  ],
+  "tags": [
+    "publishing",
+    "open-access"
+  ],
+  "description": "Open Access Waivers and Discounts is a publication-support, fee-waiver, or research-communication program for eligible authors administered by Wiley.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Publishing guidance, access support, fee assistance, or research dissemination infrastructure",
+  "sourceUrl": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges/waivers-and-discounts.html",
+  "officialUrl": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges/waivers-and-discounts.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "uk-biobank-research-access",
+  "provider": "UK Biobank",
+  "title": "Researcher Access",
+  "category": "research-opportunities",
+  "subcategories": [
+    "dataset-access"
+  ],
+  "tags": [
+    "research-data",
+    "datasets"
+  ],
+  "description": "Researcher Access is an official research-data access program or repository with datasets available under its stated access conditions administered by UK Biobank.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Access to curated datasets, documentation, and research-use infrastructure",
+  "sourceUrl": "https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access",
+  "officialUrl": "https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

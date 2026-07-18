@@ -1,0 +1,25 @@
+{
+  "id": "microsoft-bounty-programs",
+  "provider": "Microsoft",
+  "title": "Microsoft Bounty Programs",
+  "category": "developer-programs",
+  "subcategories": [
+    "bug-bounty-programs"
+  ],
+  "tags": [
+    "developers",
+    "bounty"
+  ],
+  "description": "Microsoft Bounty Programs rewards eligible security researchers for responsibly disclosing qualifying vulnerabilities within the published scope.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Bounty awards for qualifying vulnerability reports",
+  "sourceUrl": "https://www.microsoft.com/en-us/msrc/bounty",
+  "officialUrl": "https://www.microsoft.com/en-us/msrc/bounty",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

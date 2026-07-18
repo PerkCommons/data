@@ -1,0 +1,26 @@
+{
+  "id": "crisp-startup-program",
+  "provider": "Crisp",
+  "title": "Crisp Startup Program",
+  "category": "startup-benefits",
+  "subcategories": [
+    "customer-support-tools",
+    "saas-discounts"
+  ],
+  "tags": [
+    "customer-support",
+    "startup-discount"
+  ],
+  "description": "Crisp Startup Program is an official startup offer providing eligible early-stage companies discounted customer service, help desk, or shared-inbox software administered by Crisp.",
+  "eligibility": "Companies must meet the provider’s current stage, funding, age, geography, partner-referral, account, and program-specific requirements; ordinary fees may apply outside promotional benefits.",
+  "value": "Customer-support software discounts, onboarding resources, and provider-specific service tooling",
+  "sourceUrl": "https://help.crisp.chat/en/article/how-to-apply-to-the-startup-program-lyfxt4/",
+  "officialUrl": "https://help.crisp.chat/en/article/how-to-apply-to-the-startup-program-lyfxt4/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

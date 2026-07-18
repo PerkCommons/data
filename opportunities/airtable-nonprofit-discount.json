@@ -1,0 +1,29 @@
+{
+  "id": "airtable-nonprofit-discount",
+  "provider": "Airtable",
+  "title": "Airtable Nonprofit Discount",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Airtable Nonprofit Discount provides eligible nonprofit or social-impact organizations with nonprofit discounts, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Discounted Airtable plans for qualifying nonprofit organizations.",
+  "sourceUrl": "https://support.airtable.com/nonprofit-and-educational-plans-faqs",
+  "officialUrl": "https://support.airtable.com/nonprofit-and-educational-plans-faqs",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

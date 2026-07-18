@@ -1,0 +1,33 @@
+{
+  "id": "okta-for-good",
+  "provider": "Okta",
+  "title": "Okta for Good Nonprofit Technology Initiative",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "description": "Okta for Good Nonprofit Technology Initiative provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, cloud credits, productivity tools, security tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Donated and discounted identity technology and implementation support for qualifying nonprofits.",
+  "sourceUrl": "https://www.okta.com/okta-for-good/",
+  "officialUrl": "https://www.okta.com/okta-for-good/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "drupal-mentoring",
+  "provider": "Drupal",
+  "title": "Contributor Mentoring",
+  "category": "volunteer-service",
+  "subcategories": [
+    "open-source-volunteering",
+    "mentorship-volunteering",
+    "skilled-volunteering",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "open-source",
+    "mentoring"
+  ],
+  "description": "Contributor Mentoring is an open-source, coding, or digital-skills community that invites volunteers to contribute or mentor others administered by Drupal.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Contributor experience, community impact, mentoring practice, and reusable open work",
+  "sourceUrl": "https://www.drupal.org/community/mentoring",
+  "officialUrl": "https://www.drupal.org/community/mentoring",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

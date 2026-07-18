@@ -1,0 +1,26 @@
+{
+  "id": "her-suite-spot-her-rise-microgrant",
+  "provider": "Her Suite Spot",
+  "title": "HerRise MicroGrant",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Monthly microgrants support women of color building small businesses in the United States.",
+  "eligibility": "Applicants must meet the program's current ownership, location, and business-stage requirements.",
+  "value": "Monthly microgrant for a selected business owner",
+  "sourceUrl": "https://www.hersuitespot.com/herrise",
+  "officialUrl": "https://www.hersuitespot.com/herrise",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "zooniverse-volunteer",
+  "provider": "Zooniverse",
+  "title": "People-Powered Research Projects",
+  "category": "volunteer-service",
+  "subcategories": [
+    "civic-volunteering",
+    "community-service",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "civic-service",
+    "community"
+  ],
+  "description": "People-Powered Research Projects is a civic or community-service volunteer program with current opportunities administered by Zooniverse.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Structured service, community impact, training, and role-specific volunteer support",
+  "sourceUrl": "https://www.zooniverse.org/projects",
+  "officialUrl": "https://www.zooniverse.org/projects",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

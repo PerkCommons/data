@@ -1,0 +1,27 @@
+{
+  "id": "cncf-community-groups",
+  "provider": "Cloud Native Computing Foundation",
+  "title": "Cloud Native Community Groups",
+  "category": "mentorship-community",
+  "subcategories": [
+    "technical-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "developers",
+    "technical-community"
+  ],
+  "description": "Cloud Native Community Groups is an official technical community with local or online groups, knowledge sharing, and access to experienced practitioners administered by Cloud Native Computing Foundation.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Technical events, peer support, practitioner knowledge, and collaboration opportunities",
+  "sourceUrl": "https://community.cncf.io/",
+  "officialUrl": "https://community.cncf.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

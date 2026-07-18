@@ -1,0 +1,32 @@
+{
+  "id": "github-student-pack-codedex",
+  "provider": "Codedex",
+  "title": "Codedex Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "free-courses",
+    "academic-resources",
+    "student-memberships"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "learn",
+    "developer-tools",
+    "virtual-events"
+  ],
+  "description": "Codédex is a brand new learn-to-code platform for Gen Z with courses in Python, HTML, CSS, JavaScript, React, Git & GitHub, Command Line, and more. Start your coding adventure today.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Verified students receive 6 months of Codédex Club, a premium membership for free.",
+  "sourceUrl": "https://education.github.com/pack#codedex",
+  "officialUrl": "https://education.github.com/pack#codedex",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

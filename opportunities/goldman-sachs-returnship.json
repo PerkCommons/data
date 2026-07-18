@@ -1,0 +1,26 @@
+{
+  "id": "goldman-sachs-returnship",
+  "provider": "Goldman Sachs",
+  "title": "Returnship",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "returnships",
+    "traineeships"
+  ],
+  "tags": [
+    "returnships",
+    "career-reentry"
+  ],
+  "description": "Returnship is a structured return-to-work program for experienced professionals after a career break administered by Goldman Sachs.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Re-entry training, paid project work, mentoring, and potential pathways to continuing roles",
+  "sourceUrl": "https://www.goldmansachs.com/careers/professionals/returnship",
+  "officialUrl": "https://www.goldmansachs.com/careers/professionals/returnship",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

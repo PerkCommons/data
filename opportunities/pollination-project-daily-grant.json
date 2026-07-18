@@ -1,0 +1,26 @@
+{
+  "id": "pollination-project-daily-grant",
+  "provider": "The Pollination Project",
+  "title": "Daily Grant Program",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Seed funding supports early-stage social-change projects led by individuals and small groups.",
+  "eligibility": "Individuals and informal groups with an early-stage social-change idea may apply under the current guidelines.",
+  "value": "Seed grant for a selected social-change project",
+  "sourceUrl": "https://thepollinationproject.org/apply/",
+  "officialUrl": "https://thepollinationproject.org/apply/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

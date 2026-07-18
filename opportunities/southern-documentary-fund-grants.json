@@ -1,0 +1,26 @@
+{
+  "id": "southern-documentary-fund-grants",
+  "provider": "Southern Documentary Fund",
+  "title": "Production Grants",
+  "category": "creator-media",
+  "subcategories": [
+    "film-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "film",
+    "documentary"
+  ],
+  "description": "Production Grants is a selective fund supporting eligible independent film or documentary projects at specified stages of development, production, or completion administered by Southern Documentary Fund.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Project funding, creative or editorial support, industry access, and program-specific distribution resources",
+  "sourceUrl": "https://southerndocumentaryfund.org/grants/",
+  "officialUrl": "https://southerndocumentaryfund.org/grants/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

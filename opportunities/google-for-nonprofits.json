@@ -1,0 +1,35 @@
+{
+  "id": "google-for-nonprofits",
+  "provider": "Google",
+  "title": "Google for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "description": "Google for Nonprofits provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, fundraising tools, communications tools, productivity tools, security tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Access to Google Workspace nonprofit editions, Google Ad Grants, YouTube nonprofit features, and other approved nonprofit products.",
+  "sourceUrl": "https://support.google.com/nonprofits/answer/1614581?hl=en",
+  "officialUrl": "https://support.google.com/nonprofits/answer/1614581?hl=en",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

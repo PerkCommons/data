@@ -1,0 +1,25 @@
+{
+  "id": "aaas-science-technology-policy-fellowships",
+  "provider": "AAAS",
+  "title": "Science & Technology Policy Fellowships",
+  "category": "fellowships",
+  "subcategories": [
+    "policy-fellowships"
+  ],
+  "tags": [
+    "policy",
+    "public-interest"
+  ],
+  "description": "Science & Technology Policy Fellowships is a policy fellowship administered by AAAS.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Policy placement, research time, training, mentoring, or a program-specific stipend",
+  "sourceUrl": "https://www.aaas.org/programs/science-technology-policy-fellowships",
+  "officialUrl": "https://www.aaas.org/programs/science-technology-policy-fellowships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

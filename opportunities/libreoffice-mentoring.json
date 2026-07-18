@@ -1,0 +1,26 @@
+{
+  "id": "libreoffice-mentoring",
+  "provider": "The Document Foundation",
+  "title": "LibreOffice Mentoring",
+  "category": "open-source",
+  "subcategories": [
+    "contributor-programs",
+    "mentorship-programs"
+  ],
+  "tags": [
+    "contributors",
+    "mentorship"
+  ],
+  "description": "LibreOffice Mentoring is an official newcomer or contributor pathway with community guidance and mentoring resources administered by The Document Foundation.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Contributor onboarding, community guidance, mentored tasks, and practical open-source experience",
+  "sourceUrl": "https://www.libreoffice.org/community/get-involved/",
+  "officialUrl": "https://www.libreoffice.org/community/get-involved/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

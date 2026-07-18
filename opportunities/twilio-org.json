@@ -1,0 +1,31 @@
+{
+  "id": "twilio-org",
+  "provider": "Twilio",
+  "title": "Twilio.org Impact Access Program",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "cloud-credits",
+    "fundraising-tools",
+    "communications-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "fundraising-tools",
+    "communications-tools"
+  ],
+  "description": "Twilio.org Impact Access Program provides eligible nonprofit or social-impact organizations with nonprofit discounts, cloud credits, fundraising tools, communications tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Twilio product credits, discounts, and impact resources for eligible social-impact organizations.",
+  "sourceUrl": "https://www.twilio.org/",
+  "officialUrl": "https://www.twilio.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

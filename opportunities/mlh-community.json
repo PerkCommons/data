@@ -1,0 +1,26 @@
+{
+  "id": "mlh-community",
+  "provider": "Major League Hacking",
+  "title": "MLH Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "student-communities",
+    "peer-communities"
+  ],
+  "tags": [
+    "students",
+    "community"
+  ],
+  "description": "MLH Community is a student-focused peer community for learning, building projects, and professional connection administered by Major League Hacking.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Peer support, events, projects, leadership opportunities, and career-oriented community resources",
+  "sourceUrl": "https://mlh.io/",
+  "officialUrl": "https://mlh.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

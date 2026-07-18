@@ -1,0 +1,26 @@
+{
+  "id": "hack-club",
+  "provider": "Hack Club",
+  "title": "Hack Club",
+  "category": "mentorship-community",
+  "subcategories": [
+    "student-communities",
+    "peer-communities"
+  ],
+  "tags": [
+    "students",
+    "community"
+  ],
+  "description": "Hack Club is a student-focused peer community for learning, building projects, and professional connection administered by Hack Club.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Peer support, events, projects, leadership opportunities, and career-oriented community resources",
+  "sourceUrl": "https://hackclub.com/",
+  "officialUrl": "https://hackclub.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cis-securesuite-nonprofit-discount",
+  "provider": "Center for Internet Security",
+  "title": "CIS SecureSuite Nonprofit Discount",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "security-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "security-tools"
+  ],
+  "description": "CIS SecureSuite Nonprofit Discount provides eligible nonprofit or social-impact organizations with nonprofit discounts, security tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Discounted CIS SecureSuite membership for eligible nonprofit organizations.",
+  "sourceUrl": "https://www.cisecurity.org/cis-securesuite/pricing-and-categories/non-profit-501c3",
+  "officialUrl": "https://www.cisecurity.org/cis-securesuite/pricing-and-categories/non-profit-501c3",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

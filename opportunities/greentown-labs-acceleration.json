@@ -1,0 +1,26 @@
+{
+  "id": "greentown-labs-acceleration",
+  "provider": "Greentown Labs",
+  "title": "Greentown Go Programs",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "climate-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Greentown Go Programs is an accelerator from Greentown Labs for ventures developing climate, sustainability, or environmental-impact solutions.",
+  "eligibility": "Ventures must meet the current climate focus, company stage, technology, geography, and cohort requirements.",
+  "value": "Climate venture mentoring, partnerships, technical support, and program-specific funding",
+  "sourceUrl": "https://greentownlabs.com/entrepreneur-support/greentown-go/",
+  "officialUrl": "https://greentownlabs.com/entrepreneur-support/greentown-go/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

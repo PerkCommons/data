@@ -1,0 +1,27 @@
+{
+  "id": "google-cloud-credits-for-nonprofits",
+  "provider": "Google",
+  "title": "Google Cloud Credits for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "cloud-credits"
+  ],
+  "tags": [
+    "google-cloud",
+    "nonprofits",
+    "cloud"
+  ],
+  "description": "Google provides eligible nonprofit organizations with introductory Google Cloud credits and access to selected free cloud services under current limits.",
+  "eligibility": "Organizations must be approved for Google for Nonprofits and satisfy the current Google Cloud billing, account, product, and regional requirements.",
+  "value": "Introductory Google Cloud credits and selected free services under the current nonprofit cloud-benefits policy.",
+  "sourceUrl": "https://support.google.com/nonprofits/answer/16245748?hl=en",
+  "officialUrl": "https://support.google.com/nonprofits/answer/16245748?hl=en",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

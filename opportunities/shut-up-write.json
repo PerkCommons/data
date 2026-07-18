@@ -1,0 +1,26 @@
+{
+  "id": "shut-up-write",
+  "provider": "Shut Up & Write",
+  "title": "Writing Accountability Groups",
+  "category": "mentorship-community",
+  "subcategories": [
+    "accountability-groups",
+    "peer-communities"
+  ],
+  "tags": [
+    "accountability",
+    "coworking"
+  ],
+  "description": "Writing Accountability Groups is a structured peer-accountability or facilitated focus community administered by Shut Up & Write.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Scheduled focus sessions, peer accountability, and a supportive community routine",
+  "sourceUrl": "https://shutupwrite.com/",
+  "officialUrl": "https://shutupwrite.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

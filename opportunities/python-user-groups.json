@@ -1,0 +1,27 @@
+{
+  "id": "python-user-groups",
+  "provider": "Python Software Foundation",
+  "title": "Python Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "technical-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "developers",
+    "technical-community"
+  ],
+  "description": "Python Community is an official technical community with local or online groups, knowledge sharing, and access to experienced practitioners administered by Python Software Foundation.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Technical events, peer support, practitioner knowledge, and collaboration opportunities",
+  "sourceUrl": "https://www.python.org/community/",
+  "officialUrl": "https://www.python.org/community/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "drips-network",
+  "provider": "Drips",
+  "title": "Drips",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Drips provides open-source funding infrastructure that lets projects receive and share recurring support through dependency networks.",
+  "eligibility": "Projects and supporters must use a supported account and comply with the protocol and platform requirements.",
+  "value": "Recurring and dependency-aware open-source funding",
+  "sourceUrl": "https://www.drips.network/solutions/ecosystem-funding",
+  "officialUrl": "https://www.drips.network/solutions/ecosystem-funding",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

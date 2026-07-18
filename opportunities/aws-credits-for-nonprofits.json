@@ -1,0 +1,29 @@
+{
+  "id": "aws-credits-for-nonprofits",
+  "provider": "Amazon Web Services",
+  "title": "AWS Credits for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "cloud-credits",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "productivity-tools"
+  ],
+  "description": "AWS Credits for Nonprofits provides eligible nonprofit or social-impact organizations with nonprofit discounts, cloud credits, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "AWS promotional credits administered for eligible nonprofit organizations through TechSoup.",
+  "sourceUrl": "https://www.techsoup.org/products/amazon-web-services-credits-for-nonprofits",
+  "officialUrl": "https://www.techsoup.org/products/amazon-web-services-credits-for-nonprofits",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

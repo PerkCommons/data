@@ -1,0 +1,26 @@
+{
+  "id": "cisco-networking-academy",
+  "provider": "Cisco",
+  "title": "Networking Academy",
+  "category": "education-training",
+  "subcategories": [
+    "certifications",
+    "learning-paths"
+  ],
+  "tags": [
+    "credentials",
+    "professional-learning"
+  ],
+  "description": "Networking Academy is a training and credential pathway with an official assessment or verifiable certificate administered by Cisco.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Role-based learning and an official certificate, badge, or certification pathway",
+  "sourceUrl": "https://www.netacad.com/",
+  "officialUrl": "https://www.netacad.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "microsoft-for-startups-founders-hub",
   "provider": "Microsoft",
-  "title": "Microsoft for Startups",
+  "title": "Microsoft for Startups Founders Hub",
   "category": "startup-benefits",
   "subcategories": ["cloud-credits", "developer-tooling"],
   "tags": ["azure", "founders", "startups"],

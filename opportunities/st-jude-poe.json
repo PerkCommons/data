@@ -1,0 +1,27 @@
+{
+  "id": "st-jude-poe",
+  "provider": "St. Jude Children's Research Hospital",
+  "title": "Pediatric Oncology Education Program",
+  "category": "research-opportunities",
+  "subcategories": [
+    "research-internships",
+    "research-assistantships",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "internships"
+  ],
+  "description": "Pediatric Oncology Education Program is a supervised research internship with project work in an academic or scientific environment administered by St. Jude Children's Research Hospital.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research experience, supervision, and program-specific funding or support",
+  "sourceUrl": "https://www.stjude.org/education-training/research-training/undergraduate/poe.html",
+  "officialUrl": "https://www.stjude.org/education-training/research-training/undergraduate/poe.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

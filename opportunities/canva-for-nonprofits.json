@@ -1,0 +1,33 @@
+{
+  "id": "canva-for-nonprofits",
+  "provider": "Canva",
+  "title": "Canva for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Canva for Nonprofits provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, fundraising tools, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Canva premium design and collaboration features for eligible nonprofit teams under current program limits.",
+  "sourceUrl": "https://www.canva.com/nonprofits/",
+  "officialUrl": "https://www.canva.com/nonprofits/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

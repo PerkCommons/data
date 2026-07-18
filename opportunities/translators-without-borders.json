@@ -1,0 +1,28 @@
+{
+  "id": "translators-without-borders",
+  "provider": "CLEAR Global",
+  "title": "Translators without Borders Platform",
+  "category": "volunteer-service",
+  "subcategories": [
+    "skilled-volunteering",
+    "nonprofit-projects",
+    "pro-bono-work",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "skills-based-volunteering",
+    "nonprofits"
+  ],
+  "description": "Translators without Borders Platform is a skills-based volunteering platform or program that matches professionals with nonprofit projects administered by CLEAR Global.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Remote or flexible pro bono projects that apply professional skills to nonprofit needs",
+  "sourceUrl": "https://twbplatform.org/",
+  "officialUrl": "https://twbplatform.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

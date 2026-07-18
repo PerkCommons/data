@@ -1,0 +1,25 @@
+{
+  "id": "millennium-fellowship",
+  "provider": "United Nations Academic Impact and MCN",
+  "title": "Millennium Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "social-impact-fellowships"
+  ],
+  "tags": [
+    "social-impact",
+    "leadership"
+  ],
+  "description": "Millennium Fellowship is a social-impact leadership fellowship administered by United Nations Academic Impact and MCN.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Leadership development, mentoring, community, and program-specific project support",
+  "sourceUrl": "https://www.millenniumfellows.org/",
+  "officialUrl": "https://www.millenniumfellows.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

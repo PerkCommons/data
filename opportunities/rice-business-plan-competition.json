@@ -1,0 +1,26 @@
+{
+  "id": "rice-business-plan-competition",
+  "provider": "Rice Alliance for Technology and Entrepreneurship",
+  "title": "Rice Business Plan Competition",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "startup-competitions",
+    "pitch-competitions"
+  ],
+  "tags": [
+    "startups",
+    "pitch"
+  ],
+  "description": "Rice Business Plan Competition is a startup competition from Rice Alliance for Technology and Entrepreneurship in which selected founders pitch their ventures to judges, investors, or a conference audience.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Pitch exposure and competition-specific funding, prizes, or investor access",
+  "sourceUrl": "https://rbpc.rice.edu/",
+  "officialUrl": "https://rbpc.rice.edu/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

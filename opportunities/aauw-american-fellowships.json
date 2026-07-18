@@ -1,0 +1,26 @@
+{
+  "id": "aauw-american-fellowships",
+  "provider": "AAUW",
+  "title": "American Fellowships",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "American Fellowships support women completing dissertations, postdoctoral research, or research for publication.",
+  "eligibility": "Applicants must meet the program's gender, residency, degree, institution, and project-stage criteria.",
+  "value": "Fellowship funding for eligible academic work",
+  "sourceUrl": "https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/american/",
+  "officialUrl": "https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/american/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

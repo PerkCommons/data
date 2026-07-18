@@ -1,0 +1,25 @@
+{
+  "id": "cloudflare-workers-free-plan",
+  "provider": "Cloudflare",
+  "title": "Cloudflare Workers Free Plan",
+  "category": "developer-programs",
+  "subcategories": [
+    "api-credits"
+  ],
+  "tags": [
+    "developers",
+    "api"
+  ],
+  "description": "Cloudflare Workers Free Plan provides developers with free usage, credits, or a no-cost allowance for building with the provider's APIs.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Developer API credits or free usage under current limits",
+  "sourceUrl": "https://www.cloudflare.com/plans/developer-platform/",
+  "officialUrl": "https://www.cloudflare.com/plans/developer-platform/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

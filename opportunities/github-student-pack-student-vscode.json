@@ -1,0 +1,29 @@
+{
+  "id": "github-student-pack-student-vscode",
+  "provider": "Visual Studio Code",
+  "title": "Visual Studio Code Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools"
+  ],
+  "description": "Microsoft&#39;s goal is to empower all students with the best resources and tools as they learn to code.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "These coding packs help you download everything you need to start coding in Java, Python, or .NET.",
+  "sourceUrl": "https://education.github.com/pack#student-vscode",
+  "officialUrl": "https://education.github.com/pack#student-vscode",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

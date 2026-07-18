@@ -1,0 +1,25 @@
+{
+  "id": "dandad-new-blood-awards",
+  "provider": "D&AD",
+  "title": "New Blood Awards",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "design-competitions"
+  ],
+  "tags": [
+    "design",
+    "awards"
+  ],
+  "description": "New Blood Awards is a recurring design competition from D&AD that accepts work under its current disciplines and entry rules.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Jury review, recognition, showcase, and competition-specific awards",
+  "sourceUrl": "https://www.dandad.org/en/d-ad-new-blood-awards/",
+  "officialUrl": "https://www.dandad.org/en/d-ad-new-blood-awards/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

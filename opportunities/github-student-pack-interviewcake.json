@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-interviewcake",
+  "provider": "InterviewCake",
+  "title": "InterviewCake Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "learn"
+  ],
+  "description": "Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Access to the full coding interview prep course for 1 week.",
+  "sourceUrl": "https://education.github.com/pack#interviewcake",
+  "officialUrl": "https://education.github.com/pack#interviewcake",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

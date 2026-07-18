@@ -1,0 +1,26 @@
+{
+  "id": "hong-kong-ai-lab-accelerator",
+  "provider": "HKAI LAB",
+  "title": "Global Acceleration Program",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "ai-accelerators",
+    "startup-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Global Acceleration Program is a startup support or accelerator program from HKAI LAB for teams building artificial-intelligence products or infrastructure.",
+  "eligibility": "AI startups must satisfy the current product focus, company stage, geography, technical, and selection requirements.",
+  "value": "AI technical support, mentoring, ecosystem access, and program-specific credits or funding",
+  "sourceUrl": "https://hongkongai.org/wp-content/uploads/2026/02/HKAI-Global-Acceleration-Program-Application_Info-Kit_C13_Eng_Final.pdf",
+  "officialUrl": "https://hongkongai.org/wp-content/uploads/2026/02/HKAI-Global-Acceleration-Program-Application_Info-Kit_C13_Eng_Final.pdf",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

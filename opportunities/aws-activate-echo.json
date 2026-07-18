@@ -1,0 +1,30 @@
+{
+  "id": "aws-activate-echo",
+  "provider": "Echo",
+  "title": "2 Free Echo Container Images | CVE-free, automatically patched & hardened",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "developer-tooling"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "engineering",
+    "productivity"
+  ],
+  "description": "Eliminate the CVE chase with 8 months of access to two of Echo's secure-by-design container images that are automatically patched and hardened for you. Built to be a drop-in replacement for vulnerable base images.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "2 Free Echo Container Images | CVE-free, automatically patched & hardened",
+  "sourceUrl": "https://startups.aws.com/offers/echo",
+  "officialUrl": "https://startups.aws.com/offers/echo",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-sponsors",
+  "provider": "GitHub",
+  "title": "GitHub Sponsors",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "GitHub Sponsors lets eligible open-source contributors receive recurring or one-time financial support.",
+  "eligibility": "Contributors must live in a supported region and meet GitHub's account, tax, profile, and conduct requirements.",
+  "value": "Direct community sponsorship with GitHub charging no platform fee for personal sponsorships",
+  "sourceUrl": "https://github.com/sponsors",
+  "officialUrl": "https://github.com/sponsors",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

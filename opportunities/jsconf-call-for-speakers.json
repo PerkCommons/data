@@ -1,0 +1,26 @@
+{
+  "id": "jsconf-call-for-speakers",
+  "provider": "JSConf",
+  "title": "JSConf Call for Speakers",
+  "category": "events-conferences",
+  "subcategories": [
+    "speaker-opportunities",
+    "networking-events"
+  ],
+  "tags": [
+    "call-for-proposals",
+    "conferences"
+  ],
+  "description": "JSConf Call for Speakers is a professional or community conference with an open call for speakers and participant networking administered by JSConf.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "A public speaking pathway, audience reach, peer exchange, and conference networking",
+  "sourceUrl": "https://jsconf.com/",
+  "officialUrl": "https://jsconf.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

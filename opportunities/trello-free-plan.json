@@ -1,0 +1,27 @@
+{
+  "id": "trello-free-plan",
+  "provider": "Atlassian",
+  "title": "Trello Free",
+  "category": "discounts-perks",
+  "subcategories": [
+    "professional-software",
+    "productivity-tools",
+    "communications-tools"
+  ],
+  "tags": [
+    "productivity",
+    "free-plan"
+  ],
+  "description": "Trello Free is a generally available free plan for professional productivity or communication administered by Atlassian.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Core collaboration, organization, or communication features without a required paid subscription",
+  "sourceUrl": "https://trello.com/pricing",
+  "officialUrl": "https://trello.com/pricing",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

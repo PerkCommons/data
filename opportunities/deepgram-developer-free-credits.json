@@ -1,0 +1,25 @@
+{
+  "id": "deepgram-developer-free-credits",
+  "provider": "Deepgram",
+  "title": "Deepgram Developer Free Credits",
+  "category": "developer-programs",
+  "subcategories": [
+    "api-credits"
+  ],
+  "tags": [
+    "developers",
+    "api"
+  ],
+  "description": "Deepgram Developer Free Credits provides developers with free usage, credits, or a no-cost allowance for building with the provider's APIs.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Developer API credits or free usage under current limits",
+  "sourceUrl": "https://deepgram.com/pricing",
+  "officialUrl": "https://deepgram.com/pricing",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

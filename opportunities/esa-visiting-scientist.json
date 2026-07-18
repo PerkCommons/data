@@ -1,0 +1,26 @@
+{
+  "id": "esa-visiting-scientist",
+  "provider": "European Space Agency",
+  "title": "Research Fellowship Programme",
+  "category": "research-opportunities",
+  "subcategories": [
+    "visiting-researcher-programs",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "visiting-researchers"
+  ],
+  "description": "Research Fellowship Programme is a visiting-researcher or visiting-scholar program offering access to a research community or facility administered by European Space Agency.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research affiliation, collaboration, facilities, and program-specific financial support",
+  "sourceUrl": "https://www.esa.int/About_Us/Careers_at_ESA/Post_docs_Research_Fellowship",
+  "officialUrl": "https://www.esa.int/About_Us/Careers_at_ESA/Post_docs_Research_Fellowship",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

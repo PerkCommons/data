@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-visme",
+  "provider": "Visme",
+  "title": "Visme Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "productivity",
+    "design"
+  ],
+  "description": "The all-in-one platform for creating engaging and interactive presentations, visual documents, data visualizations, short videos and other branded content you can be proud of.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Get 3 free months free access to Visme&#39;s Starter plan.",
+  "sourceUrl": "https://education.github.com/pack#visme",
+  "officialUrl": "https://education.github.com/pack#visme",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

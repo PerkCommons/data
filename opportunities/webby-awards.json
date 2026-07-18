@@ -1,0 +1,26 @@
+{
+  "id": "webby-awards",
+  "provider": "International Academy of Digital Arts and Sciences",
+  "title": "The Webby Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "creator-awards",
+    "innovation-awards"
+  ],
+  "tags": [
+    "creative-work",
+    "design"
+  ],
+  "description": "The Webby Awards is a juried creative award accepting eligible work from designers, makers, studios, writers, or digital creators administered by International Academy of Digital Arts and Sciences.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Juried recognition, portfolio visibility, publication, and award-specific exhibition or networking benefits",
+  "sourceUrl": "https://www.webbyawards.com/",
+  "officialUrl": "https://www.webbyawards.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

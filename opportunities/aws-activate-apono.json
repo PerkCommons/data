@@ -1,0 +1,32 @@
+{
+  "id": "aws-activate-apono",
+  "provider": "Apono",
+  "title": "Secure cloud access, built for startups moving fast",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "developer-tooling",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "security-compliance",
+    "engineering",
+    "global-startup-program"
+  ],
+  "description": "Apono eliminates standing privileges across your AWS environment with just-in-time access, automated approvals, and full audit trails - purpose-built for startups that move fast but can't afford security gaps. Apono for Startups provides eligible AWS startup customers with exclusive benefits:",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Secure cloud access, built for startups moving fast",
+  "sourceUrl": "https://startups.aws.com/offers/apono",
+  "officialUrl": "https://startups.aws.com/offers/apono",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cisco-nonprofit-program",
+  "provider": "Cisco",
+  "title": "Cisco Nonprofit Program through TechSoup",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "description": "Cisco Nonprofit Program through TechSoup provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, communications tools, productivity tools, security tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Donated and discounted Cisco networking, collaboration, and security products for eligible nonprofits.",
+  "sourceUrl": "https://www.techsoup.org/cisco",
+  "officialUrl": "https://www.techsoup.org/cisco",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

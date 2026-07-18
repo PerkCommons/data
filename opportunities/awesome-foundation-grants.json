@@ -1,0 +1,26 @@
+{
+  "id": "awesome-foundation-grants",
+  "provider": "The Awesome Foundation",
+  "title": "Awesome Foundation Grants",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Local chapters award small grants for community projects and ideas.",
+  "eligibility": "Applicants propose a project to a participating local chapter and follow that chapter's criteria.",
+  "value": "Chapter-funded microgrant for a selected project",
+  "sourceUrl": "https://www.awesomefoundation.org/en",
+  "officialUrl": "https://www.awesomefoundation.org/en",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

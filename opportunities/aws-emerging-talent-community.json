@@ -1,0 +1,27 @@
+{
+  "id": "aws-emerging-talent-community",
+  "provider": "Amazon Web Services",
+  "title": "AWS Academy Training Benefits",
+  "category": "education-training",
+  "subcategories": [
+    "exam-vouchers",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "certification",
+    "financial-support"
+  ],
+  "description": "AWS Academy Training Benefits is a scholarship, discount, or funded pathway that reduces the cost of professional training and assessment administered by Amazon Web Services.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Eligible learners receive training support and a free or discounted certification assessment",
+  "sourceUrl": "https://aws.amazon.com/training/awsacademy/",
+  "officialUrl": "https://aws.amazon.com/training/awsacademy/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

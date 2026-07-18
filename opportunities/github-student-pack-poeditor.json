@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-poeditor",
+  "provider": "POEditor",
+  "title": "POEditor Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools",
+    "infrastructure-apis"
+  ],
+  "description": "POEditor is a highly scalable localization management platform for teams.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Plus Plan for free for one year.",
+  "sourceUrl": "https://education.github.com/pack#poeditor",
+  "officialUrl": "https://education.github.com/pack#poeditor",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

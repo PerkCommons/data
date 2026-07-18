@@ -1,0 +1,24 @@
+{
+  "id": "james-dyson-award",
+  "provider": "James Dyson Foundation",
+  "title": "James Dyson Award",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The international design award recognizes student and recent-graduate inventions that solve real problems.",
+  "eligibility": "Entrants must meet current country, education, project, and originality requirements.",
+  "value": "National and international monetary awards",
+  "sourceUrl": "https://www.jamesdysonaward.org/",
+  "officialUrl": "https://www.jamesdysonaward.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

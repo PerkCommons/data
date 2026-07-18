@@ -1,0 +1,26 @@
+{
+  "id": "who-internship-programme",
+  "provider": "World Health Organization",
+  "title": "Internship Programme",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "internships",
+    "project-based-experience"
+  ],
+  "tags": [
+    "internships",
+    "early-career"
+  ],
+  "description": "Internship Programme is a structured internship program administered by World Health Organization.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Supervised professional projects, learning, and program-specific compensation or support",
+  "sourceUrl": "https://www.who.int/careers/internship-programme",
+  "officialUrl": "https://www.who.int/careers/internship-programme",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

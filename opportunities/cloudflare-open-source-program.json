@@ -1,0 +1,26 @@
+{
+  "id": "cloudflare-open-source-program",
+  "provider": "Cloudflare",
+  "title": "Cloudflare Open Source Program",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "Cloudflare Open Source Program provides eligible open-source projects and maintainers with software, infrastructure, services, or operational support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Open-source project support under current program terms",
+  "sourceUrl": "https://developers.cloudflare.com/sponsorships/",
+  "officialUrl": "https://developers.cloudflare.com/sponsorships/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

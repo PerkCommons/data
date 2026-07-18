@@ -1,0 +1,29 @@
+{
+  "id": "aws-activate-devrev",
+  "provider": "DevRev",
+  "title": "12 Month of Free Trial and 50% Discount from DevRev",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "developer-tooling",
+    "customer-support-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "sales-marketing",
+    "communication"
+  ],
+  "description": "At DevRev, we help startups like yours become the world’s most customer-centric companies by connecting product teams (Dev) to support (Rev). Our platform unifies your tools and teams through an AI-driven knowledge graph, giving you a real-time, 360-degree view of customer feedback, product development, and team productivity - all in one place.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "12 Month of Free Trial and 50% Discount from DevRev",
+  "sourceUrl": "https://startups.aws.com/offers/devrev",
+  "officialUrl": "https://startups.aws.com/offers/devrev",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

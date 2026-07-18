@@ -1,0 +1,26 @@
+{
+  "id": "focusmate",
+  "provider": "Focusmate",
+  "title": "Virtual Coworking Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "accountability-groups",
+    "peer-communities"
+  ],
+  "tags": [
+    "accountability",
+    "coworking"
+  ],
+  "description": "Virtual Coworking Community is a structured peer-accountability or facilitated focus community administered by Focusmate.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Scheduled focus sessions, peer accountability, and a supportive community routine",
+  "sourceUrl": "https://www.focusmate.com/",
+  "officialUrl": "https://www.focusmate.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

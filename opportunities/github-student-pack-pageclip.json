@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-pageclip",
+  "provider": "Pageclip",
+  "title": "Pageclip Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "education-plans"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "infrastructure-apis"
+  ],
+  "description": "A server for your static websites and HTML forms.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free basic plan while you are a student.",
+  "sourceUrl": "https://education.github.com/pack#pageclip",
+  "officialUrl": "https://education.github.com/pack#pageclip",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shorty-awards",
+  "provider": "Shorty Awards",
+  "title": "Shorty Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "creator-awards",
+    "innovation-awards"
+  ],
+  "tags": [
+    "creative-work",
+    "design"
+  ],
+  "description": "Shorty Awards is a juried creative award accepting eligible work from designers, makers, studios, writers, or digital creators administered by Shorty Awards.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Juried recognition, portfolio visibility, publication, and award-specific exhibition or networking benefits",
+  "sourceUrl": "https://shortyawards.com/",
+  "officialUrl": "https://shortyawards.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

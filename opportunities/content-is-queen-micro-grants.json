@@ -1,0 +1,26 @@
+{
+  "id": "content-is-queen-micro-grants",
+  "provider": "Content is Queen",
+  "title": "Micro-Grants for Podcasters",
+  "category": "creator-media",
+  "subcategories": [
+    "podcast-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "podcast",
+    "audio"
+  ],
+  "description": "Micro-Grants for Podcasters is a funding or supported-development opportunity for eligible podcasts, radio work, or independent audio storytelling administered by Content is Queen.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Audio production funding, development support, training, pitching access, or distribution assistance",
+  "sourceUrl": "https://www.contentisqueen.org/grants",
+  "officialUrl": "https://www.contentisqueen.org/grants",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "nsf-access-allocations",
+  "provider": "National Science Foundation",
+  "title": "ACCESS Allocations",
+  "category": "research-opportunities",
+  "subcategories": [
+    "compute-credits"
+  ],
+  "tags": [
+    "research-compute",
+    "cloud-credits"
+  ],
+  "description": "ACCESS Allocations is a compute-access or cloud-credit program intended to support eligible research workloads administered by National Science Foundation.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Cloud, accelerator, or high-performance-computing resources under program-specific limits",
+  "sourceUrl": "https://allocations.access-ci.org/",
+  "officialUrl": "https://allocations.access-ci.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

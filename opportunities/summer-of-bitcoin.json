@@ -1,0 +1,26 @@
+{
+  "id": "summer-of-bitcoin",
+  "provider": "Summer of Bitcoin",
+  "title": "Summer of Bitcoin",
+  "category": "fellowships",
+  "subcategories": [
+    "technical-fellowships",
+    "open-source-fellowships"
+  ],
+  "tags": [
+    "open-source",
+    "technology"
+  ],
+  "description": "Summer of Bitcoin is an open-source technical fellowship or mentored contribution program administered by Summer of Bitcoin.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Mentoring, practical open-source experience, and program-specific stipend or support",
+  "sourceUrl": "https://www.summerofbitcoin.org/",
+  "officialUrl": "https://www.summerofbitcoin.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

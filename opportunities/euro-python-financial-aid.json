@@ -1,0 +1,28 @@
+{
+  "id": "euro-python-financial-aid",
+  "provider": "EuroPython Society",
+  "title": "EuroPython Financial Aid",
+  "category": "events-conferences",
+  "subcategories": [
+    "conference-scholarships",
+    "travel-grants",
+    "community-tickets",
+    "student-tickets"
+  ],
+  "tags": [
+    "conference-support",
+    "students"
+  ],
+  "description": "EuroPython Financial Aid is a conference attendance-support program offering registration, travel support, or student volunteer benefits under current terms administered by EuroPython Society.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Reduced-cost or supported conference participation, with program-specific registration and travel benefits",
+  "sourceUrl": "https://ep2026.europython.eu/finaid/",
+  "officialUrl": "https://ep2026.europython.eu/finaid/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

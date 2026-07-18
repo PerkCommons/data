@@ -1,0 +1,31 @@
+{
+  "id": "atlassian-community-license",
+  "provider": "Atlassian",
+  "title": "Atlassian Community License",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Atlassian Community License provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Community licensing for eligible charitable nonprofit organizations using qualifying Atlassian cloud products.",
+  "sourceUrl": "https://www.atlassian.com/software/views/community-license-request",
+  "officialUrl": "https://www.atlassian.com/software/views/community-license-request",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

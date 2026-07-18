@@ -1,0 +1,26 @@
+{
+  "id": "harvard-cs50-open-courses",
+  "provider": "Harvard University",
+  "title": "CS50 Open Courses",
+  "category": "education-training",
+  "subcategories": [
+    "courses",
+    "learning-paths"
+  ],
+  "tags": [
+    "online-learning",
+    "self-paced"
+  ],
+  "description": "CS50 Open Courses is an open online learning catalog with structured courses or learning paths administered by Harvard University.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Self-paced lessons, exercises, and subject-specific learning paths",
+  "sourceUrl": "https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science",
+  "officialUrl": "https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

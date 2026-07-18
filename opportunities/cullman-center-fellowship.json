@@ -1,0 +1,25 @@
+{
+  "id": "cullman-center-fellowship",
+  "provider": "New York Public Library",
+  "title": "Cullman Center Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "creator-fellowships"
+  ],
+  "tags": [
+    "creators",
+    "arts"
+  ],
+  "description": "Cullman Center Fellowship is a fellowship for artists, writers, journalists, or other creative practitioners administered by New York Public Library.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Creative time, workspace, mentoring, peer community, or program-specific stipend",
+  "sourceUrl": "https://www.nypl.org/help/about-nypl/fellowships-institutes/center-for-scholars-and-writers/fellowships",
+  "officialUrl": "https://www.nypl.org/help/about-nypl/fellowships-institutes/center-for-scholars-and-writers/fellowships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

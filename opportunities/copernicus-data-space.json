@@ -1,0 +1,25 @@
+{
+  "id": "copernicus-data-space",
+  "provider": "European Union",
+  "title": "Copernicus Data Space Ecosystem",
+  "category": "research-opportunities",
+  "subcategories": [
+    "dataset-access"
+  ],
+  "tags": [
+    "research-data",
+    "datasets"
+  ],
+  "description": "Copernicus Data Space Ecosystem is an official research-data access program or repository with datasets available under its stated access conditions administered by European Union.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Access to curated datasets, documentation, and research-use infrastructure",
+  "sourceUrl": "https://dataspace.copernicus.eu/",
+  "officialUrl": "https://dataspace.copernicus.eu/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

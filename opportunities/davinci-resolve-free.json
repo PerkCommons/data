@@ -1,0 +1,26 @@
+{
+  "id": "davinci-resolve-free",
+  "provider": "Blackmagic Design",
+  "title": "DaVinci Resolve Free",
+  "category": "discounts-perks",
+  "subcategories": [
+    "professional-software",
+    "design-tools"
+  ],
+  "tags": [
+    "design",
+    "free-plan"
+  ],
+  "description": "DaVinci Resolve Free is a no-cost plan or open professional design tool available under its published terms administered by Blackmagic Design.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Professional design capabilities without a required paid subscription",
+  "sourceUrl": "https://www.blackmagicdesign.com/products/davinciresolve",
+  "officialUrl": "https://www.blackmagicdesign.com/products/davinciresolve",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

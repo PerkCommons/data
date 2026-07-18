@@ -1,0 +1,26 @@
+{
+  "id": "accenture-apprenticeships",
+  "provider": "Accenture",
+  "title": "Apprenticeship Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "apprenticeships",
+    "traineeships"
+  ],
+  "tags": [
+    "apprenticeships",
+    "career-change"
+  ],
+  "description": "Apprenticeship Program is a structured apprenticeship or career-entry training program administered by Accenture.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Paid or supported work-based training and role-specific professional experience",
+  "sourceUrl": "https://www.accenture.com/us-en/careers/life-at-accenture/apprenticeships",
+  "officialUrl": "https://www.accenture.com/us-en/careers/life-at-accenture/apprenticeships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

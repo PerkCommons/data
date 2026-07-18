@@ -1,0 +1,26 @@
+{
+  "id": "nasa-tournament-lab",
+  "provider": "NASA",
+  "title": "NASA Tournament Lab Challenges",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "online-hackathons",
+    "data-science-competitions"
+  ],
+  "tags": [
+    "data-science",
+    "online"
+  ],
+  "description": "NASA Tournament Lab Challenges provides online data-science, machine-learning, or algorithmic challenges through NASA.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Challenge datasets, benchmarking, community participation, and competition-specific prizes",
+  "sourceUrl": "https://www.nasa.gov/nasa-tournament-lab/",
+  "officialUrl": "https://www.nasa.gov/nasa-tournament-lab/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

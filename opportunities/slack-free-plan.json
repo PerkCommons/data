@@ -1,0 +1,27 @@
+{
+  "id": "slack-free-plan",
+  "provider": "Slack",
+  "title": "Free Plan",
+  "category": "discounts-perks",
+  "subcategories": [
+    "professional-software",
+    "productivity-tools",
+    "communications-tools"
+  ],
+  "tags": [
+    "productivity",
+    "free-plan"
+  ],
+  "description": "Free Plan is a generally available free plan for professional productivity or communication administered by Slack.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Core collaboration, organization, or communication features without a required paid subscription",
+  "sourceUrl": "https://slack.com/pricing/free",
+  "officialUrl": "https://slack.com/pricing/free",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

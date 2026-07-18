@@ -1,0 +1,27 @@
+{
+  "id": "codepath-courses",
+  "provider": "CodePath",
+  "title": "No-Cost Tech Courses",
+  "category": "education-training",
+  "subcategories": [
+    "bootcamps",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "bootcamp",
+    "tuition-free"
+  ],
+  "description": "No-Cost Tech Courses is a tuition-free or fully supported intensive training program administered by CodePath.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Structured instruction, projects, community support, and no-cost or scholarship-backed tuition",
+  "sourceUrl": "https://www.codepath.org/courses",
+  "officialUrl": "https://www.codepath.org/courses",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

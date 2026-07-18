@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-corent-aeo",
+  "provider": "Corent",
+  "title": "Free Trial: Automate Your SaaS Delivery and Operations with Corent",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "aws-marketplace-offer",
+    "sales-marketing",
+    "cost-optimization"
+  ],
+  "description": "In collaboration with AWS, Corent’s SaaSOps™ is the fastest, most affordable way for startups to SaaSify their application and publish to AWS Marketplace as a transactable SaaS offering. Within days of easy configuration, this offer allows startups to test the results for free!",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Free Trial: Automate Your SaaS Delivery and Operations with Corent",
+  "sourceUrl": "https://startups.aws.com/offers/corent-aeo",
+  "officialUrl": "https://startups.aws.com/offers/corent-aeo",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

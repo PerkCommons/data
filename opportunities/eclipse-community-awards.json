@@ -1,0 +1,26 @@
+{
+  "id": "eclipse-community-awards",
+  "provider": "Eclipse Foundation",
+  "title": "Eclipse Community Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "open-source-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "open-source",
+    "community"
+  ],
+  "description": "Eclipse Community Awards is a nomination or recognition program honoring sustained contribution, leadership, or impact in an open-source community administered by Eclipse Foundation.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Community recognition, public visibility, and acknowledgment of open-source service or leadership",
+  "sourceUrl": "https://www.eclipse.org/org/foundation/eclipseawards/",
+  "officialUrl": "https://www.eclipse.org/org/foundation/eclipseawards/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

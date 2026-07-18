@@ -1,0 +1,26 @@
+{
+  "id": "openuk-awards",
+  "provider": "OpenUK",
+  "title": "OpenUK Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "open-source-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "open-source",
+    "community"
+  ],
+  "description": "OpenUK Awards is a nomination or recognition program honoring sustained contribution, leadership, or impact in an open-source community administered by OpenUK.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Community recognition, public visibility, and acknowledgment of open-source service or leadership",
+  "sourceUrl": "https://openuk.uk/awards/",
+  "officialUrl": "https://openuk.uk/awards/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

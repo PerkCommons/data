@@ -1,0 +1,26 @@
+{
+  "id": "studystream-focus-rooms",
+  "provider": "StudyStream",
+  "title": "Virtual Focus Rooms",
+  "category": "mentorship-community",
+  "subcategories": [
+    "accountability-groups",
+    "peer-communities"
+  ],
+  "tags": [
+    "accountability",
+    "coworking"
+  ],
+  "description": "Virtual Focus Rooms is a structured peer-accountability or facilitated focus community administered by StudyStream.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Scheduled focus sessions, peer accountability, and a supportive community routine",
+  "sourceUrl": "https://www.studystream.live/",
+  "officialUrl": "https://www.studystream.live/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

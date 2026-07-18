@@ -1,0 +1,26 @@
+{
+  "id": "lfx-mentorship",
+  "provider": "Linux Foundation",
+  "title": "LFX Mentorship",
+  "category": "fellowships",
+  "subcategories": [
+    "technical-fellowships",
+    "open-source-fellowships"
+  ],
+  "tags": [
+    "open-source",
+    "technology"
+  ],
+  "description": "LFX Mentorship is an open-source technical fellowship or mentored contribution program administered by Linux Foundation.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Mentoring, practical open-source experience, and program-specific stipend or support",
+  "sourceUrl": "https://lfx.linuxfoundation.org/tools/mentorship/",
+  "officialUrl": "https://lfx.linuxfoundation.org/tools/mentorship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "climate-story-fund-audio",
+  "provider": "Climate Story Unit",
+  "title": "Climate Story Fund",
+  "category": "creator-media",
+  "subcategories": [
+    "podcast-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "podcast",
+    "audio"
+  ],
+  "description": "Climate Story Fund is a funding or supported-development opportunity for eligible podcasts, radio work, or independent audio storytelling administered by Climate Story Unit.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Audio production funding, development support, training, pitching access, or distribution assistance",
+  "sourceUrl": "https://climatestoryunit.org/fund/apply/",
+  "officialUrl": "https://climatestoryunit.org/fund/apply/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

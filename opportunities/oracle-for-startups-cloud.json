@@ -1,0 +1,26 @@
+{
+  "id": "oracle-for-startups-cloud",
+  "provider": "Oracle",
+  "title": "Oracle for Startups",
+  "category": "startup-benefits",
+  "subcategories": [
+    "cloud-credits",
+    "infrastructure-credits"
+  ],
+  "tags": [
+    "cloud",
+    "startup-credits"
+  ],
+  "description": "Oracle for Startups is an official startup cloud program offering eligible companies promotional infrastructure credits and technical or go-to-market support administered by Oracle.",
+  "eligibility": "Companies must meet the provider’s current stage, funding, age, geography, partner-referral, account, and program-specific requirements; ordinary fees may apply outside promotional benefits.",
+  "value": "Provider-specific cloud credits, technical guidance, architecture resources, and startup ecosystem support",
+  "sourceUrl": "https://www.oracle.com/startup/",
+  "officialUrl": "https://www.oracle.com/startup/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

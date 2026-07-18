@@ -1,0 +1,25 @@
+{
+  "id": "firebase-spark-plan",
+  "provider": "Google Firebase",
+  "title": "Spark Plan",
+  "category": "discounts-perks",
+  "subcategories": [
+    "hosting"
+  ],
+  "tags": [
+    "hosting",
+    "free-tier"
+  ],
+  "description": "Spark Plan is a generally available no-cost hosting tier for eligible personal or development use administered by Google Firebase.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Static, application, or cloud hosting within published free-tier limits",
+  "sourceUrl": "https://firebase.google.com/pricing",
+  "officialUrl": "https://firebase.google.com/pricing",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

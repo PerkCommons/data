@@ -1,0 +1,26 @@
+{
+  "id": "accor-live-limitless",
+  "provider": "Accor",
+  "title": "ALL - Accor Live Limitless",
+  "category": "discounts-perks",
+  "subcategories": [
+    "travel-coworking",
+    "memberships"
+  ],
+  "tags": [
+    "travel",
+    "loyalty"
+  ],
+  "description": "ALL - Accor Live Limitless is a free travel loyalty membership with member rates or stay-related benefits administered by Accor.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Member rates, points, upgrades, or other travel benefits under current program terms",
+  "sourceUrl": "https://all.accor.com/loyalty-program/reasonstojoin/index.en.shtml",
+  "officialUrl": "https://all.accor.com/loyalty-program/reasonstojoin/index.en.shtml",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

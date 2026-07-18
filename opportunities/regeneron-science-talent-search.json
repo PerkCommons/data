@@ -1,0 +1,26 @@
+{
+  "id": "regeneron-science-talent-search",
+  "provider": "Society for Science",
+  "title": "Regeneron Science Talent Search",
+  "category": "awards-recognition",
+  "subcategories": [
+    "student-awards",
+    "research-awards"
+  ],
+  "tags": [
+    "students",
+    "research"
+  ],
+  "description": "Regeneron Science Talent Search is a research or academic awards program in which eligible students present or submit original work for recognition administered by Society for Science.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Research recognition, feedback, visibility, and program-specific prizes or advancement opportunities",
+  "sourceUrl": "https://www.societyforscience.org/regeneron-sts/",
+  "officialUrl": "https://www.societyforscience.org/regeneron-sts/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

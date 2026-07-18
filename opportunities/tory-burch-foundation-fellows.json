@@ -1,0 +1,25 @@
+{
+  "id": "tory-burch-foundation-fellows",
+  "provider": "Tory Burch Foundation",
+  "title": "Fellows Program",
+  "category": "fellowships",
+  "subcategories": [
+    "entrepreneurship-fellowships"
+  ],
+  "tags": [
+    "entrepreneurship",
+    "founders"
+  ],
+  "description": "Fellows Program is an entrepreneurship fellowship administered by Tory Burch Foundation.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Founder development, mentoring, peer network, and program-specific funding or support",
+  "sourceUrl": "https://www.toryburchfoundation.org/fellows/",
+  "officialUrl": "https://www.toryburchfoundation.org/fellows/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "web-summit-alpha",
+  "provider": "Web Summit",
+  "title": "ALPHA Startup Programme",
+  "category": "events-conferences",
+  "subcategories": [
+    "startup-showcases",
+    "demo-days",
+    "networking-events"
+  ],
+  "tags": [
+    "startups",
+    "showcase"
+  ],
+  "description": "ALPHA Startup Programme is a startup event program that offers selected companies exhibition, showcase, demo, or investor-networking access administered by Web Summit.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Startup visibility, product demonstrations, investor or partner meetings, and event networking",
+  "sourceUrl": "https://websummit.com/startups/",
+  "officialUrl": "https://websummit.com/startups/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

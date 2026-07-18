@@ -1,0 +1,25 @@
+{
+  "id": "vercel-hobby-plan",
+  "provider": "Vercel",
+  "title": "Hobby Plan",
+  "category": "discounts-perks",
+  "subcategories": [
+    "hosting"
+  ],
+  "tags": [
+    "hosting",
+    "free-tier"
+  ],
+  "description": "Hobby Plan is a generally available no-cost hosting tier for eligible personal or development use administered by Vercel.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Static, application, or cloud hosting within published free-tier limits",
+  "sourceUrl": "https://vercel.com/pricing",
+  "officialUrl": "https://vercel.com/pricing",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ow2-community-awards",
+  "provider": "OW2",
+  "title": "OW2 Community Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "open-source-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "open-source",
+    "community"
+  ],
+  "description": "OW2 Community Awards is a nomination or recognition program honoring sustained contribution, leadership, or impact in an open-source community administered by OW2.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Community recognition, public visibility, and acknowledgment of open-source service or leadership",
+  "sourceUrl": "https://www.ow2con.org/view/2026/Awards",
+  "officialUrl": "https://www.ow2con.org/view/2026/Awards",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

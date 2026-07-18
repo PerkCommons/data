@@ -1,0 +1,26 @@
+{
+  "id": "digitalocean-open-source-credits",
+  "provider": "DigitalOcean",
+  "title": "DigitalOcean Open Source Credits",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "DigitalOcean Open Source Credits provides eligible open-source projects and maintainers with software, infrastructure, services, or operational support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Open-source project support under current program terms",
+  "sourceUrl": "https://www.digitalocean.com/open-source/credits-for-projects",
+  "officialUrl": "https://www.digitalocean.com/open-source/credits-for-projects",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

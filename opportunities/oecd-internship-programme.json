@@ -1,0 +1,26 @@
+{
+  "id": "oecd-internship-programme",
+  "provider": "OECD",
+  "title": "Internship Programme",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "internships",
+    "project-based-experience"
+  ],
+  "tags": [
+    "internships",
+    "early-career"
+  ],
+  "description": "Internship Programme is a structured internship program administered by OECD.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Supervised professional projects, learning, and program-specific compensation or support",
+  "sourceUrl": "https://www.oecd.org/careers/internship-programme/",
+  "officialUrl": "https://www.oecd.org/careers/internship-programme/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

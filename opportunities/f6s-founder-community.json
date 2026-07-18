@@ -1,0 +1,27 @@
+{
+  "id": "f6s-founder-community",
+  "provider": "F6S",
+  "title": "Founder Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "founder-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "founders",
+    "peer-support"
+  ],
+  "description": "Founder Community is a founder community offering peer learning, connections, and access to experienced operators administered by F6S.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Founder peer support, practical knowledge sharing, introductions, and community events",
+  "sourceUrl": "https://www.f6s.com/",
+  "officialUrl": "https://www.f6s.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

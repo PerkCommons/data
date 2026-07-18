@@ -1,0 +1,29 @@
+{
+  "id": "aws-activate-crowdstrike-cs",
+  "provider": "Crowdstrike Cloud Security",
+  "title": "Save up to 60% on CrowdStrike Cloud Security",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "aws-marketplace-offer",
+    "security-compliance"
+  ],
+  "description": "Save on CrowdStrike Falcon Cloud Security for the first year. CrowdStrike Falcon Cloud Security unifies cloud security posture management together with breach protection for cloud workloads and containers for any cloud, in a single platform.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Save up to 60% on CrowdStrike Cloud Security",
+  "sourceUrl": "https://startups.aws.com/offers/crowdstrike-cs",
+  "officialUrl": "https://startups.aws.com/offers/crowdstrike-cs",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

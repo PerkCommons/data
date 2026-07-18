@@ -1,0 +1,27 @@
+{
+  "id": "kubernetes-community",
+  "provider": "Kubernetes",
+  "title": "Kubernetes Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "technical-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "developers",
+    "technical-community"
+  ],
+  "description": "Kubernetes Community is an official technical community with local or online groups, knowledge sharing, and access to experienced practitioners administered by Kubernetes.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Technical events, peer support, practitioner knowledge, and collaboration opportunities",
+  "sourceUrl": "https://kubernetes.io/community/",
+  "officialUrl": "https://kubernetes.io/community/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

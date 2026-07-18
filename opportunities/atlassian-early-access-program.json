@@ -1,0 +1,26 @@
+{
+  "id": "atlassian-early-access-program",
+  "provider": "Atlassian",
+  "title": "Atlassian Forge Early Access Program",
+  "category": "early-access",
+  "subcategories": [
+    "private-betas",
+    "waitlists"
+  ],
+  "tags": [
+    "private-beta",
+    "application"
+  ],
+  "description": "Atlassian Forge Early Access Program is an official application, prerelease, or invitation channel through which selected participants may test unreleased capabilities administered by Atlassian.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Potential invitation to private testing, direct product feedback, and prerelease feature access",
+  "sourceUrl": "https://developer.atlassian.com/platform/forge/whats-coming/",
+  "officialUrl": "https://developer.atlassian.com/platform/forge/whats-coming/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

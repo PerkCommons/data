@@ -1,0 +1,26 @@
+{
+  "id": "steam-client-beta",
+  "provider": "Valve",
+  "title": "Steam Client Beta",
+  "category": "early-access",
+  "subcategories": [
+    "public-betas",
+    "product-testing"
+  ],
+  "tags": [
+    "beta",
+    "product-testing"
+  ],
+  "description": "Steam Client Beta is an official public beta channel that lets participants test prerelease product builds and provide feedback administered by Valve.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Early product access, prerelease testing, and a supported feedback channel",
+  "sourceUrl": "https://help.steampowered.com/en/faqs/view/276C-85A0-C531-AFA3",
+  "officialUrl": "https://help.steampowered.com/en/faqs/view/276C-85A0-C531-AFA3",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

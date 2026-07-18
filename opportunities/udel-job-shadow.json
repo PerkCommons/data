@@ -1,0 +1,26 @@
+{
+  "id": "udel-job-shadow",
+  "provider": "University of Delaware",
+  "title": "Job Shadow Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "externships",
+    "job-shadowing-programs"
+  ],
+  "tags": [
+    "job-shadowing",
+    "career-exploration"
+  ],
+  "description": "Job Shadow Program is a short-term job-shadow or externship program administered by University of Delaware.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Workplace observation, career exploration, and professional networking",
+  "sourceUrl": "https://www.udel.edu/students/career/career-development-support/job-shadow-programs/",
+  "officialUrl": "https://www.udel.edu/students/career/career-development-support/job-shadow-programs/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

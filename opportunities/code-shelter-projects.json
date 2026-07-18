@@ -1,0 +1,27 @@
+{
+  "id": "code-shelter-projects",
+  "provider": "Code Shelter",
+  "title": "Project Shelter",
+  "category": "open-source",
+  "subcategories": [
+    "sponsorships",
+    "fiscal-hosting",
+    "project-grants"
+  ],
+  "tags": [
+    "fiscal-hosting",
+    "project-support"
+  ],
+  "description": "Project Shelter is an open-source project home or fiscal-hosting pathway that provides organizational, financial, or administrative support administered by Code Shelter.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Fiscal stewardship, legal or administrative support, fundraising infrastructure, and project governance services",
+  "sourceUrl": "https://www.codeshelter.co/",
+  "officialUrl": "https://www.codeshelter.co/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tnw-for-startups",
+  "provider": "TNW Conference",
+  "title": "TNW for Startups",
+  "category": "events-conferences",
+  "subcategories": [
+    "startup-showcases",
+    "demo-days",
+    "networking-events"
+  ],
+  "tags": [
+    "startups",
+    "showcase"
+  ],
+  "description": "TNW for Startups is a startup event program that offers selected companies exhibition, showcase, demo, or investor-networking access administered by TNW Conference.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Startup visibility, product demonstrations, investor or partner meetings, and event networking",
+  "sourceUrl": "https://thenextweb.com/conference/startups",
+  "officialUrl": "https://thenextweb.com/conference/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

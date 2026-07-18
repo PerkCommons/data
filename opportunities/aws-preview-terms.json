@@ -1,0 +1,26 @@
+{
+  "id": "aws-preview-terms",
+  "provider": "Amazon Web Services",
+  "title": "AWS Preview Services",
+  "category": "early-access",
+  "subcategories": [
+    "developer-previews",
+    "research-previews"
+  ],
+  "tags": [
+    "developer-preview",
+    "experimental"
+  ],
+  "description": "AWS Preview Services is an official preview channel for developers evaluating experimental APIs, tools, platforms, or technical capabilities administered by Amazon Web Services.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Prerelease technical access, documentation, compatibility testing, and structured feedback opportunities",
+  "sourceUrl": "https://aws.amazon.com/service-terms/",
+  "officialUrl": "https://aws.amazon.com/service-terms/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

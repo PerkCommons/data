@@ -1,0 +1,26 @@
+{
+  "id": "github-public-preview-program",
+  "provider": "GitHub",
+  "title": "GitHub Public Preview Features",
+  "category": "developer-programs",
+  "subcategories": [
+    "developer-preview-programs",
+    "beta-access"
+  ],
+  "tags": [
+    "developers",
+    "preview"
+  ],
+  "description": "GitHub Public Preview Features gives developers access to pre-release software, APIs, SDKs, or platform features for testing and compatibility work.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Access to current developer preview or beta releases",
+  "sourceUrl": "https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview",
+  "officialUrl": "https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

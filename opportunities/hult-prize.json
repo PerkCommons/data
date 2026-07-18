@@ -1,0 +1,24 @@
+{
+  "id": "hult-prize",
+  "provider": "Hult Prize Foundation",
+  "title": "Hult Prize",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "A global student competition supports ventures addressing an annual social-impact challenge.",
+  "eligibility": "Student teams must meet current participation, team, pathway, and venture requirements.",
+  "value": "Venture prize and accelerator support",
+  "sourceUrl": "https://www.hultprize.org/",
+  "officialUrl": "https://www.hultprize.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

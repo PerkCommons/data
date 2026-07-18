@@ -1,0 +1,27 @@
+{
+  "id": "github-student-pack-namecheap",
+  "provider": "Namecheap",
+  "title": "Namecheap Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "virtual-events",
+    "domains"
+  ],
+  "description": "Affordable registration, hosting, and domain management",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "1 year domain name registration on the .me TLD.",
+  "sourceUrl": "https://education.github.com/pack#namecheap",
+  "officialUrl": "https://education.github.com/pack#namecheap",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

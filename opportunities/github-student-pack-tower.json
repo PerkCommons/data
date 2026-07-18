@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-tower",
+  "provider": "Tower",
+  "title": "Tower Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "education-plans"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools"
+  ],
+  "description": "The Git client that brings all of Git and GitHub&#39;s power to the desktop, for Mac and Windows.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free license for Tower Pro while you are a student.",
+  "sourceUrl": "https://education.github.com/pack#tower",
+  "officialUrl": "https://education.github.com/pack#tower",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

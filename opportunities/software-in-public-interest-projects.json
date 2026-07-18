@@ -1,0 +1,27 @@
+{
+  "id": "software-in-public-interest-projects",
+  "provider": "Software in the Public Interest",
+  "title": "Associated Project Program",
+  "category": "open-source",
+  "subcategories": [
+    "sponsorships",
+    "fiscal-hosting",
+    "project-grants"
+  ],
+  "tags": [
+    "fiscal-hosting",
+    "project-support"
+  ],
+  "description": "Associated Project Program is an open-source project home or fiscal-hosting pathway that provides organizational, financial, or administrative support administered by Software in the Public Interest.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Fiscal stewardship, legal or administrative support, fundraising infrastructure, and project governance services",
+  "sourceUrl": "https://www.spi-inc.org/projects/associated-project-howto/",
+  "officialUrl": "https://www.spi-inc.org/projects/associated-project-howto/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

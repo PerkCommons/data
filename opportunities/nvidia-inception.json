@@ -1,0 +1,26 @@
+{
+  "id": "nvidia-inception",
+  "provider": "NVIDIA",
+  "title": "NVIDIA Inception",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "ai-accelerators",
+    "startup-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "NVIDIA Inception is a startup support or accelerator program from NVIDIA for teams building artificial-intelligence products or infrastructure.",
+  "eligibility": "AI startups must satisfy the current product focus, company stage, geography, technical, and selection requirements.",
+  "value": "AI technical support, mentoring, ecosystem access, and program-specific credits or funding",
+  "sourceUrl": "https://www.nvidia.com/en-us/startups/",
+  "officialUrl": "https://www.nvidia.com/en-us/startups/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

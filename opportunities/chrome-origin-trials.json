@@ -1,0 +1,26 @@
+{
+  "id": "chrome-origin-trials",
+  "provider": "Google",
+  "title": "Chrome Origin Trials",
+  "category": "developer-programs",
+  "subcategories": [
+    "developer-preview-programs",
+    "beta-access"
+  ],
+  "tags": [
+    "developers",
+    "preview"
+  ],
+  "description": "Chrome Origin Trials gives developers access to pre-release software, APIs, SDKs, or platform features for testing and compatibility work.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Access to current developer preview or beta releases",
+  "sourceUrl": "https://developer.chrome.com/origintrials/",
+  "officialUrl": "https://developer.chrome.com/origintrials/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

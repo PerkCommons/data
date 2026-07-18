@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-heroku",
+  "provider": "Heroku",
+  "title": "Heroku Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "cloud",
+    "developer-tools"
+  ],
+  "description": "A flexible, easy-to-use platform to deploy, run, and manage your apps.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Enjoy a credit of $13 USD per month for 24 months.",
+  "sourceUrl": "https://education.github.com/pack#heroku",
+  "officialUrl": "https://education.github.com/pack#heroku",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

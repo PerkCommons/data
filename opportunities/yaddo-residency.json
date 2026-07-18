@@ -1,0 +1,25 @@
+{
+  "id": "yaddo-residency",
+  "provider": "Yaddo",
+  "title": "Yaddo Residency",
+  "category": "fellowships",
+  "subcategories": [
+    "creator-fellowships"
+  ],
+  "tags": [
+    "creators",
+    "arts"
+  ],
+  "description": "Yaddo Residency is a fellowship for artists, writers, journalists, or other creative practitioners administered by Yaddo.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Creative time, workspace, mentoring, peer community, or program-specific stipend",
+  "sourceUrl": "https://www.yaddo.org/apply/",
+  "officialUrl": "https://www.yaddo.org/apply/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

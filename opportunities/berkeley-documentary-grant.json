@@ -1,0 +1,25 @@
+{
+  "id": "berkeley-documentary-grant",
+  "provider": "Berkeley Film Foundation",
+  "title": "Documentary Grant Program",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The annual program provides production grants to documentary filmmakers based in the San Francisco Bay Area.",
+  "eligibility": "Primary creators must meet the current residence, project-stage, documentary, and application requirements.",
+  "value": "Documentary production grant for a selected local filmmaker",
+  "sourceUrl": "https://berkeleyfilmfoundation.org/documentary-grant-program",
+  "officialUrl": "https://berkeleyfilmfoundation.org/documentary-grant-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

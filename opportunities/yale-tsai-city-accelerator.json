@@ -1,0 +1,26 @@
+{
+  "id": "yale-tsai-city-accelerator",
+  "provider": "Yale Tsai Center for Innovative Thinking",
+  "title": "Venture Development Programs",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "student-incubators",
+    "university-incubators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Venture Development Programs is a university-connected venture program from Yale Tsai Center for Innovative Thinking that helps eligible student founders develop and test new ventures.",
+  "eligibility": "Teams must meet the current student or university-affiliation, venture-stage, location, and participation requirements.",
+  "value": "University venture training, mentoring, workspace or funding opportunities",
+  "sourceUrl": "https://city.yale.edu/programs",
+  "officialUrl": "https://city.yale.edu/programs",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

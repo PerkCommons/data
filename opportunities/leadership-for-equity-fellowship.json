@@ -1,0 +1,25 @@
+{
+  "id": "leadership-for-equity-fellowship",
+  "provider": "Leadership for Equity",
+  "title": "Sadhana Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "social-impact-fellowships"
+  ],
+  "tags": [
+    "social-impact",
+    "leadership"
+  ],
+  "description": "Sadhana Fellowship is a social-impact leadership fellowship administered by Leadership for Equity.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Leadership development, mentoring, community, and program-specific project support",
+  "sourceUrl": "https://www.leadershipforequity.org/sadhana-teaching-excellence-lab",
+  "officialUrl": "https://www.leadershipforequity.org/sadhana-teaching-excellence-lab",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

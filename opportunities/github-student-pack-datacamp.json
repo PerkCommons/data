@@ -1,0 +1,30 @@
+{
+  "id": "github-student-pack-datacamp",
+  "provider": "DataCamp",
+  "title": "DataCamp Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "education-plans",
+    "free-courses",
+    "academic-resources",
+    "student-memberships"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "learn"
+  ],
+  "description": "DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "DataCamp has partnered with GitHub Education to offer three months of free access when you sign up for a DataCamp subscription with your GitHub student account.",
+  "sourceUrl": "https://education.github.com/pack#datacamp",
+  "officialUrl": "https://education.github.com/pack#datacamp",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

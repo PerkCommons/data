@@ -1,0 +1,27 @@
+{
+  "id": "clickup-free-plan",
+  "provider": "ClickUp",
+  "title": "Free Forever Plan",
+  "category": "discounts-perks",
+  "subcategories": [
+    "professional-software",
+    "productivity-tools",
+    "communications-tools"
+  ],
+  "tags": [
+    "productivity",
+    "free-plan"
+  ],
+  "description": "Free Forever Plan is a generally available free plan for professional productivity or communication administered by ClickUp.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Core collaboration, organization, or communication features without a required paid subscription",
+  "sourceUrl": "https://clickup.com/pricing",
+  "officialUrl": "https://clickup.com/pricing",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

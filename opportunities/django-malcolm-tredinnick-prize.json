@@ -1,0 +1,26 @@
+{
+  "id": "django-malcolm-tredinnick-prize",
+  "provider": "Django Software Foundation",
+  "title": "Malcolm Tredinnick Memorial Prize",
+  "category": "awards-recognition",
+  "subcategories": [
+    "open-source-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "open-source",
+    "community"
+  ],
+  "description": "Malcolm Tredinnick Memorial Prize is a nomination or recognition program honoring sustained contribution, leadership, or impact in an open-source community administered by Django Software Foundation.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Community recognition, public visibility, and acknowledgment of open-source service or leadership",
+  "sourceUrl": "https://www.djangoproject.com/foundation/prizes/",
+  "officialUrl": "https://www.djangoproject.com/foundation/prizes/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}
