@@ -3,6 +3,7 @@
   "provider": "GitHub",
   "title": "GitHub Student Developer Pack",
   "category": "student-benefits",
+  "subcategories": ["student-developer-packs"],
   "tags": ["developer-tools", "education", "students"],
   "description": "A collection of developer tools and learning offers provided to eligible students by GitHub and participating partners.",
   "eligibility": "Students aged 13 or older who are enrolled in a degree- or diploma-granting course and can verify their student status.",

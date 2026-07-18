@@ -3,6 +3,7 @@
   "provider": "Notion",
   "title": "Notion for Education",
   "category": "student-benefits",
+  "subcategories": ["education-plans", "software-discounts"],
   "tags": ["education", "productivity", "students"],
   "description": "An education plan that provides eligible individual students and educators with Notion's Plus plan for personal workspaces.",
   "eligibility": "Students and educators at accredited colleges or universities using an eligible school email address; organizational workspaces are excluded.",
