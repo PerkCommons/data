@@ -1,0 +1,26 @@
+{
+  "id": "mongodb-preview-features",
+  "provider": "MongoDB",
+  "title": "MongoDB Preview Features",
+  "category": "early-access",
+  "subcategories": [
+    "pilot-programs",
+    "early-adopter-programs"
+  ],
+  "tags": [
+    "pilot",
+    "early-adopter"
+  ],
+  "description": "MongoDB Preview Features is an official pilot or early-adopter pathway for organizations and developers evaluating new platform capabilities before general availability administered by MongoDB.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Pilot access, implementation learning, product-team feedback channels, and early deployment experience",
+  "sourceUrl": "https://www.mongodb.com/docs/preview-features/",
+  "officialUrl": "https://www.mongodb.com/docs/preview-features/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "center-for-book-arts-residency",
+  "provider": "Center for Book Arts",
+  "title": "Workspace Artists-in-Residence",
+  "category": "creator-media",
+  "subcategories": [
+    "creator-funds",
+    "design-residencies"
+  ],
+  "tags": [
+    "artists",
+    "residency"
+  ],
+  "description": "Workspace Artists-in-Residence is a funded or supported residency pathway for eligible artists, designers, and creative practitioners developing original work administered by Center for Book Arts.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Dedicated creation time, workspace or accommodation, peer exchange, mentorship, and program-specific financial support",
+  "sourceUrl": "https://centerforbookarts.org/opportunities/workspace-artists-in-residence",
+  "officialUrl": "https://centerforbookarts.org/opportunities/workspace-artists-in-residence",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

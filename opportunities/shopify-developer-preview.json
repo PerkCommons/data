@@ -1,0 +1,26 @@
+{
+  "id": "shopify-developer-preview",
+  "provider": "Shopify",
+  "title": "Shopify Developer Preview",
+  "category": "early-access",
+  "subcategories": [
+    "pilot-programs",
+    "early-adopter-programs"
+  ],
+  "tags": [
+    "pilot",
+    "early-adopter"
+  ],
+  "description": "Shopify Developer Preview is an official pilot or early-adopter pathway for organizations and developers evaluating new platform capabilities before general availability administered by Shopify.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Pilot access, implementation learning, product-team feedback channels, and early deployment experience",
+  "sourceUrl": "https://shopify.dev/docs/api/developer-previews",
+  "officialUrl": "https://shopify.dev/docs/api/developer-previews",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

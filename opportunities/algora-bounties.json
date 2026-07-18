@@ -1,0 +1,26 @@
+{
+  "id": "algora-bounties",
+  "provider": "Algora",
+  "title": "Open Source Bounties",
+  "category": "open-source",
+  "subcategories": [
+    "issue-bounties",
+    "project-grants"
+  ],
+  "tags": [
+    "bounties",
+    "funding"
+  ],
+  "description": "Open Source Bounties is a bounty or open funding platform where eligible open-source work can receive financial rewards administered by Algora.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Issue-level rewards, project funding, or community-backed grants for completed open-source work",
+  "sourceUrl": "https://algora.io/",
+  "officialUrl": "https://algora.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

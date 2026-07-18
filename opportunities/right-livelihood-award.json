@@ -1,0 +1,26 @@
+{
+  "id": "right-livelihood-award",
+  "provider": "Right Livelihood",
+  "title": "Right Livelihood Award",
+  "category": "awards-recognition",
+  "subcategories": [
+    "social-impact-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "social-impact",
+    "community"
+  ],
+  "description": "Right Livelihood Award is a recognition program honoring measurable public benefit, community leadership, environmental action, or social innovation administered by Right Livelihood.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Public recognition, network access, visibility, and award-specific funding or support",
+  "sourceUrl": "https://rightlivelihood.org/get-involved/support-us/nominate/",
+  "officialUrl": "https://rightlivelihood.org/get-involved/support-us/nominate/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

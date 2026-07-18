@@ -1,0 +1,26 @@
+{
+  "id": "lambda-literary-writers-retreat",
+  "provider": "Lambda Literary",
+  "title": "Writers Retreat for Emerging LGBTQ Voices",
+  "category": "creator-media",
+  "subcategories": [
+    "writing-programs",
+    "publishing-support"
+  ],
+  "tags": [
+    "writers",
+    "publishing"
+  ],
+  "description": "Writers Retreat for Emerging LGBTQ Voices is a selective writing-development program offering eligible writers workshops, mentorship, residency time, or routes toward publication administered by Lambda Literary.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Craft development, editorial feedback, literary community access, and program-specific scholarships or publishing connections",
+  "sourceUrl": "https://lambdaliterary.org/writers-retreat/",
+  "officialUrl": "https://lambdaliterary.org/writers-retreat/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "betatesting-tester-community",
+  "provider": "BetaTesting",
+  "title": "BetaTesting Tester Community",
+  "category": "early-access",
+  "subcategories": [
+    "private-betas",
+    "waitlists"
+  ],
+  "tags": [
+    "private-beta",
+    "application"
+  ],
+  "description": "BetaTesting Tester Community is an official application, prerelease, or invitation channel through which selected participants may test unreleased capabilities administered by BetaTesting.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Potential invitation to private testing, direct product feedback, and prerelease feature access",
+  "sourceUrl": "https://betatesting.com/beta-testers",
+  "officialUrl": "https://betatesting.com/beta-testers",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

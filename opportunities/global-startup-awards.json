@@ -1,0 +1,26 @@
+{
+  "id": "global-startup-awards",
+  "provider": "Global Startup Awards",
+  "title": "Global Startup Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "innovation-awards",
+    "founder-awards"
+  ],
+  "tags": [
+    "innovation",
+    "founders"
+  ],
+  "description": "Global Startup Awards is an established awards program recognizing founders, entrepreneurs, products, or organizations responsible for notable innovation administered by Global Startup Awards.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Independent recognition, visibility, peer credibility, and program-specific finalist or winner benefits",
+  "sourceUrl": "https://www.globalstartupawards.com/",
+  "officialUrl": "https://www.globalstartupawards.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

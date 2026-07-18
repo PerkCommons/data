@@ -1,0 +1,28 @@
+{
+  "id": "idealist-volunteer",
+  "provider": "Idealist",
+  "title": "Volunteer Opportunities",
+  "category": "volunteer-service",
+  "subcategories": [
+    "skilled-volunteering",
+    "nonprofit-projects",
+    "pro-bono-work",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "skills-based-volunteering",
+    "nonprofits"
+  ],
+  "description": "Volunteer Opportunities is a skills-based volunteering platform or program that matches professionals with nonprofit projects administered by Idealist.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Remote or flexible pro bono projects that apply professional skills to nonprofit needs",
+  "sourceUrl": "https://www.idealist.org/en/volunteer",
+  "officialUrl": "https://www.idealist.org/en/volunteer",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

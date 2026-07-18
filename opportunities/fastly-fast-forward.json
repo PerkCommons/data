@@ -1,0 +1,26 @@
+{
+  "id": "fastly-fast-forward",
+  "provider": "Fastly",
+  "title": "Fast Forward Program",
+  "category": "open-source",
+  "subcategories": [
+    "maintainer-programs",
+    "infrastructure-support"
+  ],
+  "tags": [
+    "maintainers",
+    "infrastructure"
+  ],
+  "description": "Fast Forward Program is an infrastructure-support program or free service tier specifically available to qualifying open-source projects administered by Fastly.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Hosted infrastructure, testing, documentation, search, observability, or delivery support for open-source maintainers",
+  "sourceUrl": "https://www.fastly.com/fast-forward",
+  "officialUrl": "https://www.fastly.com/fast-forward",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

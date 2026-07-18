@@ -1,0 +1,26 @@
+{
+  "id": "microsoft-learn-student-ambassadors",
+  "provider": "Microsoft",
+  "title": "Microsoft Learn Student Ambassadors",
+  "category": "mentorship-community",
+  "subcategories": [
+    "student-communities",
+    "peer-communities"
+  ],
+  "tags": [
+    "students",
+    "community"
+  ],
+  "description": "Microsoft Learn Student Ambassadors is a student-focused peer community for learning, building projects, and professional connection administered by Microsoft.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Peer support, events, projects, leadership opportunities, and career-oriented community resources",
+  "sourceUrl": "https://mvp.microsoft.com/studentambassadors",
+  "officialUrl": "https://mvp.microsoft.com/studentambassadors",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

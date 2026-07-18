@@ -22,7 +22,7 @@ const groups: Array<{
       ['entrepreneur-first-program','Entrepreneur First','Entrepreneur First Program','https://www.joinef.com/'],
       ['masschallenge-early-stage-accelerator','MassChallenge','Early Stage Accelerator','https://masschallenge.org/programs/early-stage/'],
       ['google-for-startups-startup-school','Google for Startups','Startup School','https://startup.google.com/programs/startup-school/'],
-      ['microsoft-for-startups','Microsoft','Microsoft for Startups','https://www.microsoft.com/en-us/startups'],
+      ['techstars-founder-catalyst','Techstars','Founder Catalyst','https://www.techstars.com/founder-catalyst'],
       ['aws-build-accelerator','Amazon Web Services','AWS Build Accelerator','https://aws.amazon.com/startups/accelerators/'],
       ['startupbootcamp-accelerators','Startupbootcamp','Startupbootcamp Accelerator Programs','https://startupbootcamp.org/startups/accelerators'],
       ['alchemist-accelerator','Alchemist Accelerator','Alchemist Accelerator','https://www.alchemistaccelerator.com/'],

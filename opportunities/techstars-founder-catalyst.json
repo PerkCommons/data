@@ -1,7 +1,7 @@
 {
-  "id": "microsoft-for-startups",
-  "provider": "Microsoft",
-  "title": "Microsoft for Startups",
+  "id": "techstars-founder-catalyst",
+  "provider": "Techstars",
+  "title": "Founder Catalyst",
   "category": "accelerators-incubators",
   "subcategories": [
     "startup-accelerators",
@@ -11,11 +11,11 @@
     "accelerator",
     "entrepreneurship"
   ],
-  "description": "Microsoft for Startups is an early-stage founder program from Microsoft that helps participants validate, launch, or accelerate a startup.",
+  "description": "Founder Catalyst is an early-stage founder program from Techstars that helps participants validate, launch, or accelerate a startup.",
   "eligibility": "Founders must meet the current company-stage, team, geography, commitment, and selection requirements.",
   "value": "Structured early-stage support, mentoring, and founder resources",
-  "sourceUrl": "https://www.microsoft.com/en-us/startups",
-  "officialUrl": "https://www.microsoft.com/en-us/startups",
+  "sourceUrl": "https://www.techstars.com/founder-catalyst",
+  "officialUrl": "https://www.techstars.com/founder-catalyst",
   "status": "limited",
   "submissionType": "maintainer",
   "sponsor": false,

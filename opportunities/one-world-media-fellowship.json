@@ -1,0 +1,26 @@
+{
+  "id": "one-world-media-fellowship",
+  "provider": "One World Media",
+  "title": "Global Short Docs Forum",
+  "category": "creator-media",
+  "subcategories": [
+    "media-fellowships",
+    "journalism-grants"
+  ],
+  "tags": [
+    "journalism",
+    "reporting"
+  ],
+  "description": "Global Short Docs Forum is a fellowship or grant program supporting independent reporting, public-interest journalism, or media development administered by One World Media.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Reporting funds, editorial or research support, professional development, and publication or network access",
+  "sourceUrl": "https://oneworldmedia.org.uk/global-short-docs-forum/",
+  "officialUrl": "https://oneworldmedia.org.uk/global-short-docs-forum/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

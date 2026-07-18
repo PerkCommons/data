@@ -1,0 +1,26 @@
+{
+  "id": "eu-audio-reporting-grant",
+  "provider": "European Commission",
+  "title": "EU Audio Reporting Call",
+  "category": "creator-media",
+  "subcategories": [
+    "podcast-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "podcast",
+    "audio"
+  ],
+  "description": "EU Audio Reporting Call is a funding or supported-development opportunity for eligible podcasts, radio work, or independent audio storytelling administered by European Commission.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Audio production funding, development support, training, pitching access, or distribution assistance",
+  "sourceUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-audio-reporting-0",
+  "officialUrl": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-audio-reporting-0",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

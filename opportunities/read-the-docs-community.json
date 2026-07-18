@@ -1,0 +1,26 @@
+{
+  "id": "read-the-docs-community",
+  "provider": "Read the Docs",
+  "title": "Community Hosting",
+  "category": "open-source",
+  "subcategories": [
+    "maintainer-programs",
+    "infrastructure-support"
+  ],
+  "tags": [
+    "maintainers",
+    "infrastructure"
+  ],
+  "description": "Community Hosting is an infrastructure-support program or free service tier specifically available to qualifying open-source projects administered by Read the Docs.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Hosted infrastructure, testing, documentation, search, observability, or delivery support for open-source maintainers",
+  "sourceUrl": "https://about.readthedocs.com/",
+  "officialUrl": "https://about.readthedocs.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

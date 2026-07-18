@@ -1,0 +1,27 @@
+{
+  "id": "peace-corps-volunteer",
+  "provider": "Peace Corps",
+  "title": "Volunteer Programs",
+  "category": "volunteer-service",
+  "subcategories": [
+    "civic-volunteering",
+    "community-service",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "civic-service",
+    "community"
+  ],
+  "description": "Volunteer Programs is a civic or community-service volunteer program with current opportunities administered by Peace Corps.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Structured service, community impact, training, and role-specific volunteer support",
+  "sourceUrl": "https://www.peacecorps.gov/volunteer/",
+  "officialUrl": "https://www.peacecorps.gov/volunteer/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

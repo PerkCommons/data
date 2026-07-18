@@ -1,0 +1,26 @@
+{
+  "id": "dropbox-early-access",
+  "provider": "Dropbox",
+  "title": "Dropbox Early Access",
+  "category": "early-access",
+  "subcategories": [
+    "private-betas",
+    "waitlists"
+  ],
+  "tags": [
+    "private-beta",
+    "application"
+  ],
+  "description": "Dropbox Early Access is an official application, prerelease, or invitation channel through which selected participants may test unreleased capabilities administered by Dropbox.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Potential invitation to private testing, direct product feedback, and prerelease feature access",
+  "sourceUrl": "https://help.dropbox.com/account-settings/advance-access",
+  "officialUrl": "https://help.dropbox.com/account-settings/advance-access",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

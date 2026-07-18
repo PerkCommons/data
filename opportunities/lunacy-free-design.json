@@ -1,0 +1,26 @@
+{
+  "id": "lunacy-free-design",
+  "provider": "Icons8",
+  "title": "Lunacy",
+  "category": "discounts-perks",
+  "subcategories": [
+    "professional-software",
+    "design-tools"
+  ],
+  "tags": [
+    "design",
+    "free-plan"
+  ],
+  "description": "Lunacy is a no-cost plan or open professional design tool available under its published terms administered by Icons8.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Professional design capabilities without a required paid subscription",
+  "sourceUrl": "https://icons8.com/lunacy",
+  "officialUrl": "https://icons8.com/lunacy",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

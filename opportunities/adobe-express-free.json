@@ -1,0 +1,26 @@
+{
+  "id": "adobe-express-free",
+  "provider": "Adobe",
+  "title": "Adobe Express Free",
+  "category": "discounts-perks",
+  "subcategories": [
+    "professional-software",
+    "design-tools"
+  ],
+  "tags": [
+    "design",
+    "free-plan"
+  ],
+  "description": "Adobe Express Free is a no-cost plan or open professional design tool available under its published terms administered by Adobe.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Professional design capabilities without a required paid subscription",
+  "sourceUrl": "https://www.adobe.com/express/pricing",
+  "officialUrl": "https://www.adobe.com/express/pricing",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

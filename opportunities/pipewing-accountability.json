@@ -1,0 +1,26 @@
+{
+  "id": "pipewing-accountability",
+  "provider": "Pipewing",
+  "title": "Virtual Coworking Accountability",
+  "category": "mentorship-community",
+  "subcategories": [
+    "accountability-groups",
+    "peer-communities"
+  ],
+  "tags": [
+    "accountability",
+    "coworking"
+  ],
+  "description": "Virtual Coworking Accountability is a structured peer-accountability or facilitated focus community administered by Pipewing.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Scheduled focus sessions, peer accountability, and a supportive community routine",
+  "sourceUrl": "https://pipewing.com/",
+  "officialUrl": "https://pipewing.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

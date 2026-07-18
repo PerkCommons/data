@@ -1,0 +1,26 @@
+{
+  "id": "ox-bow-artist-residency",
+  "provider": "Ox-Bow School of Art",
+  "title": "Artist-in-Residence Program",
+  "category": "creator-media",
+  "subcategories": [
+    "creator-funds",
+    "design-residencies"
+  ],
+  "tags": [
+    "artists",
+    "residency"
+  ],
+  "description": "Artist-in-Residence Program is a funded or supported residency pathway for eligible artists, designers, and creative practitioners developing original work administered by Ox-Bow School of Art.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Dedicated creation time, workspace or accommodation, peer exchange, mentorship, and program-specific financial support",
+  "sourceUrl": "https://www.ox-bow.org/be-a-resident",
+  "officialUrl": "https://www.ox-bow.org/be-a-resident",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

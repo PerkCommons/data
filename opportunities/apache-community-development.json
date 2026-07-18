@@ -1,0 +1,26 @@
+{
+  "id": "apache-community-development",
+  "provider": "Apache Software Foundation",
+  "title": "Community Development Newcomer Resources",
+  "category": "open-source",
+  "subcategories": [
+    "contributor-programs",
+    "mentorship-programs"
+  ],
+  "tags": [
+    "contributors",
+    "mentorship"
+  ],
+  "description": "Community Development Newcomer Resources is an official newcomer or contributor pathway with community guidance and mentoring resources administered by Apache Software Foundation.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Contributor onboarding, community guidance, mentored tasks, and practical open-source experience",
+  "sourceUrl": "https://community.apache.org/newbiefaq.html",
+  "officialUrl": "https://community.apache.org/newbiefaq.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

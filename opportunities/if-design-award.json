@@ -1,0 +1,26 @@
+{
+  "id": "if-design-award",
+  "provider": "iF Design",
+  "title": "iF Design Award",
+  "category": "awards-recognition",
+  "subcategories": [
+    "creator-awards",
+    "innovation-awards"
+  ],
+  "tags": [
+    "creative-work",
+    "design"
+  ],
+  "description": "iF Design Award is a juried creative award accepting eligible work from designers, makers, studios, writers, or digital creators administered by iF Design.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Juried recognition, portfolio visibility, publication, and award-specific exhibition or networking benefits",
+  "sourceUrl": "https://ifdesign.com/en/if-design-award-and-jury",
+  "officialUrl": "https://ifdesign.com/en/if-design-award-and-jury",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

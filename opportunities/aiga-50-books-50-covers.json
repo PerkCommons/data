@@ -1,0 +1,26 @@
+{
+  "id": "aiga-50-books-50-covers",
+  "provider": "AIGA",
+  "title": "50 Books | 50 Covers",
+  "category": "awards-recognition",
+  "subcategories": [
+    "creator-awards",
+    "innovation-awards"
+  ],
+  "tags": [
+    "creative-work",
+    "design"
+  ],
+  "description": "50 Books | 50 Covers is a juried creative award accepting eligible work from designers, makers, studios, writers, or digital creators administered by AIGA.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Juried recognition, portfolio visibility, publication, and award-specific exhibition or networking benefits",
+  "sourceUrl": "https://www.aiga.org/professional-development/competitions-campaigns/50-books-50-covers",
+  "officialUrl": "https://www.aiga.org/professional-development/competitions-campaigns/50-books-50-covers",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

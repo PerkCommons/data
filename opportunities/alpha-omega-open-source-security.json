@@ -1,0 +1,26 @@
+{
+  "id": "alpha-omega-open-source-security",
+  "provider": "OpenSSF Alpha-Omega",
+  "title": "Open Source Security Funding",
+  "category": "open-source",
+  "subcategories": [
+    "issue-bounties",
+    "project-grants"
+  ],
+  "tags": [
+    "bounties",
+    "funding"
+  ],
+  "description": "Open Source Security Funding is a bounty or open funding platform where eligible open-source work can receive financial rewards administered by OpenSSF Alpha-Omega.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Issue-level rewards, project funding, or community-backed grants for completed open-source work",
+  "sourceUrl": "https://alpha-omega.dev/",
+  "officialUrl": "https://alpha-omega.dev/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

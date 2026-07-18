@@ -1,0 +1,27 @@
+{
+  "id": "americorps-volunteer",
+  "provider": "AmeriCorps",
+  "title": "Volunteer and Service Opportunities",
+  "category": "volunteer-service",
+  "subcategories": [
+    "civic-volunteering",
+    "community-service",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "civic-service",
+    "community"
+  ],
+  "description": "Volunteer and Service Opportunities is a civic or community-service volunteer program with current opportunities administered by AmeriCorps.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Structured service, community impact, training, and role-specific volunteer support",
+  "sourceUrl": "https://americorps.gov/serve/fit-finder",
+  "officialUrl": "https://americorps.gov/serve/fit-finder",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

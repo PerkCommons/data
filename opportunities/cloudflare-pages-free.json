@@ -1,0 +1,25 @@
+{
+  "id": "cloudflare-pages-free",
+  "provider": "Cloudflare",
+  "title": "Pages Free Plan",
+  "category": "discounts-perks",
+  "subcategories": [
+    "hosting"
+  ],
+  "tags": [
+    "hosting",
+    "free-tier"
+  ],
+  "description": "Pages Free Plan is a generally available no-cost hosting tier for eligible personal or development use administered by Cloudflare.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Static, application, or cloud hosting within published free-tier limits",
+  "sourceUrl": "https://pages.cloudflare.com/",
+  "officialUrl": "https://pages.cloudflare.com/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

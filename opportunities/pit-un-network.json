@@ -1,0 +1,27 @@
+{
+  "id": "pit-un-network",
+  "provider": "New America",
+  "title": "Public Interest Technology University Network",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "civic-tech-programs",
+    "public-interest-technology",
+    "community-development-programs"
+  ],
+  "tags": [
+    "civic-tech",
+    "public-interest"
+  ],
+  "description": "Public Interest Technology University Network is an open network, cohort, or support program through which practitioners collaborate on public-interest technology and community capacity administered by New America.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Peer learning, civic-technology resources, collaboration, program visibility, and community-development support",
+  "sourceUrl": "https://pit-un.org/",
+  "officialUrl": "https://pit-un.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

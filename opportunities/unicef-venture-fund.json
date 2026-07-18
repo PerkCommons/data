@@ -1,0 +1,27 @@
+{
+  "id": "unicef-venture-fund",
+  "provider": "UNICEF",
+  "title": "UNICEF Venture Fund",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "humanitarian-programs",
+    "health-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "humanitarian",
+    "health"
+  ],
+  "description": "UNICEF Venture Fund is a challenge, fund, or innovation-support pathway for teams developing humanitarian, global-health, or community resilience solutions administered by UNICEF.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Program-specific grants or investment, technical assistance, field partnerships, validation, and scaling support",
+  "sourceUrl": "https://www.unicef.org/innovation/venturefund",
+  "officialUrl": "https://www.unicef.org/innovation/venturefund",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

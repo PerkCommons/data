@@ -1,0 +1,26 @@
+{
+  "id": "colorstack-community",
+  "provider": "ColorStack",
+  "title": "Student Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "student-communities",
+    "peer-communities"
+  ],
+  "tags": [
+    "students",
+    "community"
+  ],
+  "description": "Student Community is a student-focused peer community for learning, building projects, and professional connection administered by ColorStack.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Peer support, events, projects, leadership opportunities, and career-oriented community resources",
+  "sourceUrl": "https://www.colorstack.org/",
+  "officialUrl": "https://www.colorstack.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

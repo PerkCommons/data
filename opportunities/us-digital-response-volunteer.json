@@ -1,0 +1,27 @@
+{
+  "id": "us-digital-response-volunteer",
+  "provider": "US Digital Response",
+  "title": "Volunteer",
+  "category": "volunteer-service",
+  "subcategories": [
+    "civic-volunteering",
+    "community-service",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "civic-service",
+    "community"
+  ],
+  "description": "Volunteer is a civic or community-service volunteer program with current opportunities administered by US Digital Response.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Structured service, community impact, training, and role-specific volunteer support",
+  "sourceUrl": "https://www.usdigitalresponse.org/volunteer",
+  "officialUrl": "https://www.usdigitalresponse.org/volunteer",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

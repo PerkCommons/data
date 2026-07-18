@@ -1,0 +1,25 @@
+{
+  "id": "netlify-free-plan",
+  "provider": "Netlify",
+  "title": "Free Plan",
+  "category": "discounts-perks",
+  "subcategories": [
+    "hosting"
+  ],
+  "tags": [
+    "hosting",
+    "free-tier"
+  ],
+  "description": "Free Plan is a generally available no-cost hosting tier for eligible personal or development use administered by Netlify.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Static, application, or cloud hosting within published free-tier limits",
+  "sourceUrl": "https://www.netlify.com/pricing/",
+  "officialUrl": "https://www.netlify.com/pricing/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

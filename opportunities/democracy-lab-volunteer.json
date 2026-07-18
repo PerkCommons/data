@@ -1,0 +1,27 @@
+{
+  "id": "democracy-lab-volunteer",
+  "provider": "DemocracyLab",
+  "title": "Volunteer for Civic Tech Projects",
+  "category": "volunteer-service",
+  "subcategories": [
+    "civic-volunteering",
+    "community-service",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "civic-service",
+    "community"
+  ],
+  "description": "Volunteer for Civic Tech Projects is a civic or community-service volunteer program with current opportunities administered by DemocracyLab.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Structured service, community impact, training, and role-specific volunteer support",
+  "sourceUrl": "https://www.democracylab.org/projects",
+  "officialUrl": "https://www.democracylab.org/projects",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

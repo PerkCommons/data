@@ -1,0 +1,26 @@
+{
+  "id": "grafana-champions",
+  "provider": "Grafana Labs",
+  "title": "Grafana Champions",
+  "category": "developer-programs",
+  "subcategories": [
+    "ambassador-programs"
+  ],
+  "tags": [
+    "observability",
+    "community",
+    "open-source"
+  ],
+  "description": "Grafana Champions recognizes community experts who share knowledge, mentor others, organize events, and contribute to the Grafana open-source ecosystem.",
+  "eligibility": "Applicants should contribute to the Grafana community at least four times per year and participate regularly in the program community.",
+  "value": "Public recognition, community collaboration, event invitations, a private community channel, and program-specific benefits",
+  "sourceUrl": "https://grafana.com/community/champions/",
+  "officialUrl": "https://grafana.com/community/champions/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

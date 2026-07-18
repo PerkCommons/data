@@ -1,0 +1,26 @@
+{
+  "id": "pulitzer-center-rainforest-journalism-fund",
+  "provider": "Pulitzer Center",
+  "title": "Rainforest Journalism Fund",
+  "category": "creator-media",
+  "subcategories": [
+    "media-fellowships",
+    "journalism-grants"
+  ],
+  "tags": [
+    "journalism",
+    "reporting"
+  ],
+  "description": "Rainforest Journalism Fund is a fellowship or grant program supporting independent reporting, public-interest journalism, or media development administered by Pulitzer Center.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Reporting funds, editorial or research support, professional development, and publication or network access",
+  "sourceUrl": "https://pulitzercenter.org/rainforest-journalism-fund",
+  "officialUrl": "https://pulitzercenter.org/rainforest-journalism-fund",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "photopea-free-editor",
+  "provider": "Photopea",
+  "title": "Free Online Photo Editor",
+  "category": "discounts-perks",
+  "subcategories": [
+    "professional-software",
+    "design-tools"
+  ],
+  "tags": [
+    "design",
+    "free-plan"
+  ],
+  "description": "Free Online Photo Editor is a no-cost plan or open professional design tool available under its published terms administered by Photopea.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Professional design capabilities without a required paid subscription",
+  "sourceUrl": "https://www.photopea.com/",
+  "officialUrl": "https://www.photopea.com/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

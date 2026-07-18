@@ -1,0 +1,27 @@
+{
+  "id": "wfp-innovation-accelerator",
+  "provider": "World Food Programme",
+  "title": "WFP Innovation Accelerator",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "humanitarian-programs",
+    "health-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "humanitarian",
+    "health"
+  ],
+  "description": "WFP Innovation Accelerator is a challenge, fund, or innovation-support pathway for teams developing humanitarian, global-health, or community resilience solutions administered by World Food Programme.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Program-specific grants or investment, technical assistance, field partnerships, validation, and scaling support",
+  "sourceUrl": "https://innovation.wfp.org/apply",
+  "officialUrl": "https://innovation.wfp.org/apply",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

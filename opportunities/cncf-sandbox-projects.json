@@ -1,0 +1,27 @@
+{
+  "id": "cncf-sandbox-projects",
+  "provider": "Cloud Native Computing Foundation",
+  "title": "Sandbox Project Applications",
+  "category": "open-source",
+  "subcategories": [
+    "sponsorships",
+    "fiscal-hosting",
+    "project-grants"
+  ],
+  "tags": [
+    "fiscal-hosting",
+    "project-support"
+  ],
+  "description": "Sandbox Project Applications is an open-source project home or fiscal-hosting pathway that provides organizational, financial, or administrative support administered by Cloud Native Computing Foundation.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Fiscal stewardship, legal or administrative support, fundraising infrastructure, and project governance services",
+  "sourceUrl": "https://github.com/cncf/sandbox",
+  "officialUrl": "https://github.com/cncf/sandbox",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

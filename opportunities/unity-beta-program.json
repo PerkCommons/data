@@ -1,0 +1,26 @@
+{
+  "id": "unity-beta-program",
+  "provider": "Unity Technologies",
+  "title": "Unity Beta Program",
+  "category": "early-access",
+  "subcategories": [
+    "developer-previews",
+    "research-previews"
+  ],
+  "tags": [
+    "developer-preview",
+    "experimental"
+  ],
+  "description": "Unity Beta Program is an official preview channel for developers evaluating experimental APIs, tools, platforms, or technical capabilities administered by Unity Technologies.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Prerelease technical access, documentation, compatibility testing, and structured feedback opportunities",
+  "sourceUrl": "https://unity.com/releases/editor/beta",
+  "officialUrl": "https://unity.com/releases/editor/beta",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

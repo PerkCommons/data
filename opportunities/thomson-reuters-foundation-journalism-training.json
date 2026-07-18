@@ -1,0 +1,26 @@
+{
+  "id": "thomson-reuters-foundation-journalism-training",
+  "provider": "Thomson Reuters Foundation",
+  "title": "Journalism Training and Mentoring",
+  "category": "creator-media",
+  "subcategories": [
+    "media-fellowships",
+    "journalism-grants"
+  ],
+  "tags": [
+    "journalism",
+    "reporting"
+  ],
+  "description": "Journalism Training and Mentoring is a fellowship or grant program supporting independent reporting, public-interest journalism, or media development administered by Thomson Reuters Foundation.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Reporting funds, editorial or research support, professional development, and publication or network access",
+  "sourceUrl": "https://www.trust.org/media-development/",
+  "officialUrl": "https://www.trust.org/media-development/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

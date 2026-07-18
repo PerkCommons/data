@@ -1,0 +1,26 @@
+{
+  "id": "fedora-join-sig",
+  "provider": "Fedora Project",
+  "title": "Fedora Join Special Interest Group",
+  "category": "open-source",
+  "subcategories": [
+    "contributor-programs",
+    "mentorship-programs"
+  ],
+  "tags": [
+    "contributors",
+    "mentorship"
+  ],
+  "description": "Fedora Join Special Interest Group is an official newcomer or contributor pathway with community guidance and mentoring resources administered by Fedora Project.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Contributor onboarding, community guidance, mentored tasks, and practical open-source experience",
+  "sourceUrl": "https://docs.fedoraproject.org/en-US/fedora-join/",
+  "officialUrl": "https://docs.fedoraproject.org/en-US/fedora-join/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

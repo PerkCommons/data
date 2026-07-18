@@ -1,0 +1,25 @@
+{
+  "id": "pythonanywhere-free-account",
+  "provider": "PythonAnywhere",
+  "title": "Beginner Account",
+  "category": "discounts-perks",
+  "subcategories": [
+    "hosting"
+  ],
+  "tags": [
+    "hosting",
+    "free-tier"
+  ],
+  "description": "Beginner Account is a generally available no-cost hosting tier for eligible personal or development use administered by PythonAnywhere.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Static, application, or cloud hosting within published free-tier limits",
+  "sourceUrl": "https://www.pythonanywhere.com/pricing/",
+  "officialUrl": "https://www.pythonanywhere.com/pricing/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

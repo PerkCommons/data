@@ -1,0 +1,26 @@
+{
+  "id": "art-omi-residencies",
+  "provider": "Art Omi",
+  "title": "Art Omi Residencies",
+  "category": "creator-media",
+  "subcategories": [
+    "creator-funds",
+    "design-residencies"
+  ],
+  "tags": [
+    "artists",
+    "residency"
+  ],
+  "description": "Art Omi Residencies is a funded or supported residency pathway for eligible artists, designers, and creative practitioners developing original work administered by Art Omi.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Dedicated creation time, workspace or accommodation, peer exchange, mentorship, and program-specific financial support",
+  "sourceUrl": "https://artomi.org/residencies/",
+  "officialUrl": "https://artomi.org/residencies/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gophercon-call-for-speakers",
+  "provider": "GopherCon",
+  "title": "GopherCon Speaker Program",
+  "category": "events-conferences",
+  "subcategories": [
+    "speaker-opportunities",
+    "networking-events"
+  ],
+  "tags": [
+    "call-for-proposals",
+    "conferences"
+  ],
+  "description": "GopherCon Speaker Program is a professional or community conference with an open call for speakers and participant networking administered by GopherCon.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "A public speaking pathway, audience reach, peer exchange, and conference networking",
+  "sourceUrl": "https://www.gophercon.com/",
+  "officialUrl": "https://www.gophercon.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

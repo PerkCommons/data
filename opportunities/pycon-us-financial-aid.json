@@ -1,0 +1,28 @@
+{
+  "id": "pycon-us-financial-aid",
+  "provider": "Python Software Foundation",
+  "title": "PyCon US Financial Aid",
+  "category": "events-conferences",
+  "subcategories": [
+    "conference-scholarships",
+    "travel-grants",
+    "community-tickets",
+    "student-tickets"
+  ],
+  "tags": [
+    "conference-support",
+    "students"
+  ],
+  "description": "PyCon US Financial Aid is a conference attendance-support program offering registration, travel support, or student volunteer benefits under current terms administered by Python Software Foundation.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Reduced-cost or supported conference participation, with program-specific registration and travel benefits",
+  "sourceUrl": "https://us.pycon.org/2026/attend/information/",
+  "officialUrl": "https://us.pycon.org/2026/attend/information/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

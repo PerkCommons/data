@@ -1,0 +1,26 @@
+{
+  "id": "caveday",
+  "provider": "Caveday",
+  "title": "Facilitated Focus Sessions",
+  "category": "mentorship-community",
+  "subcategories": [
+    "accountability-groups",
+    "peer-communities"
+  ],
+  "tags": [
+    "accountability",
+    "coworking"
+  ],
+  "description": "Facilitated Focus Sessions is a structured peer-accountability or facilitated focus community administered by Caveday.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Scheduled focus sessions, peer accountability, and a supportive community routine",
+  "sourceUrl": "https://www.caveday.org/",
+  "officialUrl": "https://www.caveday.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

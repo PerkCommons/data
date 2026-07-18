@@ -1,0 +1,27 @@
+{
+  "id": "indie-hackers-community",
+  "provider": "Indie Hackers",
+  "title": "Founder Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "founder-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "founders",
+    "peer-support"
+  ],
+  "description": "Founder Community is a founder community offering peer learning, connections, and access to experienced operators administered by Indie Hackers.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Founder peer support, practical knowledge sharing, introductions, and community events",
+  "sourceUrl": "https://www.indiehackers.com/",
+  "officialUrl": "https://www.indiehackers.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

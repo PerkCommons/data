@@ -1,0 +1,27 @@
+{
+  "id": "gsma-humanitarian-innovation-fund",
+  "provider": "GSMA",
+  "title": "Innovation Fund for Humanitarian Challenges",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "humanitarian-programs",
+    "health-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "humanitarian",
+    "health"
+  ],
+  "description": "Innovation Fund for Humanitarian Challenges is a challenge, fund, or innovation-support pathway for teams developing humanitarian, global-health, or community resilience solutions administered by GSMA.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Program-specific grants or investment, technical assistance, field partnerships, validation, and scaling support",
+  "sourceUrl": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/",
+  "officialUrl": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

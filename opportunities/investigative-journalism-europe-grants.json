@@ -1,0 +1,26 @@
+{
+  "id": "investigative-journalism-europe-grants",
+  "provider": "Investigative Journalism for Europe",
+  "title": "IJ4EU Grants",
+  "category": "creator-media",
+  "subcategories": [
+    "media-fellowships",
+    "journalism-grants"
+  ],
+  "tags": [
+    "journalism",
+    "reporting"
+  ],
+  "description": "IJ4EU Grants is a fellowship or grant program supporting independent reporting, public-interest journalism, or media development administered by Investigative Journalism for Europe.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Reporting funds, editorial or research support, professional development, and publication or network access",
+  "sourceUrl": "https://www.investigativejournalismforeu.net/grants/",
+  "officialUrl": "https://www.investigativejournalismforeu.net/grants/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

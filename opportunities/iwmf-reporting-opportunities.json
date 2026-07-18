@@ -1,0 +1,26 @@
+{
+  "id": "iwmf-reporting-opportunities",
+  "provider": "International Women’s Media Foundation",
+  "title": "Reporting Opportunities",
+  "category": "creator-media",
+  "subcategories": [
+    "media-fellowships",
+    "journalism-grants"
+  ],
+  "tags": [
+    "journalism",
+    "reporting"
+  ],
+  "description": "Reporting Opportunities is a fellowship or grant program supporting independent reporting, public-interest journalism, or media development administered by International Women’s Media Foundation.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Reporting funds, editorial or research support, professional development, and publication or network access",
+  "sourceUrl": "https://www.iwmf.org/our-programs/",
+  "officialUrl": "https://www.iwmf.org/our-programs/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

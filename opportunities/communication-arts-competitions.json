@@ -1,0 +1,26 @@
+{
+  "id": "communication-arts-competitions",
+  "provider": "Communication Arts",
+  "title": "Communication Arts Competitions",
+  "category": "awards-recognition",
+  "subcategories": [
+    "creator-awards",
+    "innovation-awards"
+  ],
+  "tags": [
+    "creative-work",
+    "design"
+  ],
+  "description": "Communication Arts Competitions is a juried creative award accepting eligible work from designers, makers, studios, writers, or digital creators administered by Communication Arts.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Juried recognition, portfolio visibility, publication, and award-specific exhibition or networking benefits",
+  "sourceUrl": "https://www.commarts.com/competitions",
+  "officialUrl": "https://www.commarts.com/competitions",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "unfpa-equalizer-accelerator",
+  "provider": "UNFPA",
+  "title": "Equity 2030 Alliance",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "humanitarian-programs",
+    "health-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "humanitarian",
+    "health"
+  ],
+  "description": "Equity 2030 Alliance is a challenge, fund, or innovation-support pathway for teams developing humanitarian, global-health, or community resilience solutions administered by UNFPA.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Program-specific grants or investment, technical assistance, field partnerships, validation, and scaling support",
+  "sourceUrl": "https://www.unfpa.org/equity-2030-alliance",
+  "officialUrl": "https://www.unfpa.org/equity-2030-alliance",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

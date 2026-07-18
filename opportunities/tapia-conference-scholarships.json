@@ -1,0 +1,28 @@
+{
+  "id": "tapia-conference-scholarships",
+  "provider": "CMD-IT",
+  "title": "Tapia Conference Scholarships",
+  "category": "events-conferences",
+  "subcategories": [
+    "conference-scholarships",
+    "travel-grants",
+    "community-tickets",
+    "student-tickets"
+  ],
+  "tags": [
+    "conference-support",
+    "students"
+  ],
+  "description": "Tapia Conference Scholarships is a conference attendance-support program offering registration, travel support, or student volunteer benefits under current terms administered by CMD-IT.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Reduced-cost or supported conference participation, with program-specific registration and travel benefits",
+  "sourceUrl": "https://tapiaconference.cmd-it.org/participate/scholarships/",
+  "officialUrl": "https://tapiaconference.cmd-it.org/participate/scholarships/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

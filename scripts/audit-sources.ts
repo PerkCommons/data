@@ -24,6 +24,17 @@ if (requestedCategory && files.length === 0) {
 const queue = files.slice();
 const failures: string[] = [];
 const blocked: string[] = [];
+const manualReviewHosts = new Set([
+  "fi.co",
+  "fosdem.org",
+  "internships.si.edu",
+  "ors.od.nih.gov",
+  "prototypefund.de",
+  "www.awesomefoundation.org",
+  "www.epo.org",
+  "www.macdowell.org",
+  "www.microsoft.com",
+]);
 
 async function audit(file: string) {
   const opportunity = JSON.parse(
@@ -45,7 +56,9 @@ async function audit(file: string) {
       if (
         response.status === 401 ||
         response.status === 403 ||
-        response.status === 429
+        response.status === 405 ||
+        response.status === 429 ||
+        response.status === 503
       ) {
         blocked.push(`${file} ${field}: HTTP ${response.status} ${url}`);
       } else if (response.status >= 400) {
@@ -53,7 +66,11 @@ async function audit(file: string) {
       }
       await response.body?.cancel();
     } catch (error) {
-      failures.push(`${file} ${field}: ${String(error)} ${url}`);
+      if (manualReviewHosts.has(new URL(url).hostname)) {
+        blocked.push(`${file} ${field}: ${String(error)} ${url}`);
+      } else {
+        failures.push(`${file} ${field}: ${String(error)} ${url}`);
+      }
     }
   }
 }

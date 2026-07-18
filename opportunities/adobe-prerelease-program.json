@@ -1,0 +1,26 @@
+{
+  "id": "adobe-prerelease-program",
+  "provider": "Adobe",
+  "title": "Adobe Prerelease Program",
+  "category": "early-access",
+  "subcategories": [
+    "private-betas",
+    "waitlists"
+  ],
+  "tags": [
+    "private-beta",
+    "application"
+  ],
+  "description": "Adobe Prerelease Program is an official application, prerelease, or invitation channel through which selected participants may test unreleased capabilities administered by Adobe.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Potential invitation to private testing, direct product feedback, and prerelease feature access",
+  "sourceUrl": "https://www.adobeprerelease.com/",
+  "officialUrl": "https://www.adobeprerelease.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

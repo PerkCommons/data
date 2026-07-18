@@ -1,0 +1,26 @@
+{
+  "id": "ieee-students-community",
+  "provider": "IEEE",
+  "title": "IEEE Students Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "student-communities",
+    "peer-communities"
+  ],
+  "tags": [
+    "students",
+    "community"
+  ],
+  "description": "IEEE Students Community is a student-focused peer community for learning, building projects, and professional connection administered by IEEE.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Peer support, events, projects, leadership opportunities, and career-oriented community resources",
+  "sourceUrl": "https://students.ieee.org/",
+  "officialUrl": "https://students.ieee.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

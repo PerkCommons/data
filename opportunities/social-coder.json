@@ -1,0 +1,28 @@
+{
+  "id": "social-coder",
+  "provider": "Social Coder",
+  "title": "Volunteer Software Projects",
+  "category": "volunteer-service",
+  "subcategories": [
+    "skilled-volunteering",
+    "nonprofit-projects",
+    "pro-bono-work",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "skills-based-volunteering",
+    "nonprofits"
+  ],
+  "description": "Volunteer Software Projects is a skills-based volunteering platform or program that matches professionals with nonprofit projects administered by Social Coder.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Remote or flexible pro bono projects that apply professional skills to nonprofit needs",
+  "sourceUrl": "https://socialcoder.org/",
+  "officialUrl": "https://socialcoder.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

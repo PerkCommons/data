@@ -1,0 +1,27 @@
+{
+  "id": "remarkable-accelerator",
+  "provider": "Remarkable",
+  "title": "Remarkable Accelerator",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "accessibility-programs",
+    "education-impact-programs",
+    "health-impact-programs"
+  ],
+  "tags": [
+    "accessibility",
+    "inclusive-design"
+  ],
+  "description": "Remarkable Accelerator is an education, leadership, funding, or innovation program advancing accessibility, disability inclusion, or inclusive health and learning administered by Remarkable.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Accessible-design skills, leadership development, expert networks, funding or acceleration, and implementation resources",
+  "sourceUrl": "https://remarkable.org/accelerator/",
+  "officialUrl": "https://remarkable.org/accelerator/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

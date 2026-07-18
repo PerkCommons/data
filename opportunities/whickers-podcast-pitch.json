@@ -1,0 +1,26 @@
+{
+  "id": "whickers-podcast-pitch",
+  "provider": "The Whickers and Sheffield DocFest",
+  "title": "Podcast Pitch",
+  "category": "creator-media",
+  "subcategories": [
+    "podcast-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "podcast",
+    "audio"
+  ],
+  "description": "Podcast Pitch is a funding or supported-development opportunity for eligible podcasts, radio work, or independent audio storytelling administered by The Whickers and Sheffield DocFest.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Audio production funding, development support, training, pitching access, or distribution assistance",
+  "sourceUrl": "https://www.sheffdocfest.com/composition/whickers-podcast-pitch",
+  "officialUrl": "https://www.sheffdocfest.com/composition/whickers-podcast-pitch",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

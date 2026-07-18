@@ -1,0 +1,27 @@
+{
+  "id": "green-software-foundation-community",
+  "provider": "Green Software Foundation",
+  "title": "Green Software Community",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "climate-programs",
+    "education-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "climate",
+    "learning"
+  ],
+  "description": "Green Software Community is a cohort, training, or community program helping participants build practical climate solutions and mobilize local action administered by Green Software Foundation.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Climate education, project development, peer community, facilitation resources, and program-specific implementation support",
+  "sourceUrl": "https://wiki.greensoftware.foundation/Meetup-Network-159456c07cab807daaa6e9d60ca1096b",
+  "officialUrl": "https://wiki.greensoftware.foundation/Meetup-Network-159456c07cab807daaa6e9d60ca1096b",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

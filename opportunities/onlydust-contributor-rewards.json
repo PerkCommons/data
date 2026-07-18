@@ -1,0 +1,26 @@
+{
+  "id": "onlydust-contributor-rewards",
+  "provider": "OnlyDust",
+  "title": "Open Source Contributor Rewards",
+  "category": "open-source",
+  "subcategories": [
+    "issue-bounties",
+    "project-grants"
+  ],
+  "tags": [
+    "bounties",
+    "funding"
+  ],
+  "description": "Open Source Contributor Rewards is a bounty or open funding platform where eligible open-source work can receive financial rewards administered by OnlyDust.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Issue-level rewards, project funding, or community-backed grants for completed open-source work",
+  "sourceUrl": "https://www.onlydust.com/",
+  "officialUrl": "https://www.onlydust.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

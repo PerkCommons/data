@@ -1,0 +1,27 @@
+{
+  "id": "founder-university-community",
+  "provider": "Founder University",
+  "title": "Founder University Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "founder-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "founders",
+    "peer-support"
+  ],
+  "description": "Founder University Community is a founder community offering peer learning, connections, and access to experienced operators administered by Founder University.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Founder peer support, practical knowledge sharing, introductions, and community events",
+  "sourceUrl": "https://www.founder.university/",
+  "officialUrl": "https://www.founder.university/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

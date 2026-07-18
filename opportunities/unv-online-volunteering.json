@@ -1,0 +1,28 @@
+{
+  "id": "unv-online-volunteering",
+  "provider": "United Nations Volunteers",
+  "title": "Online Volunteering",
+  "category": "volunteer-service",
+  "subcategories": [
+    "skilled-volunteering",
+    "nonprofit-projects",
+    "pro-bono-work",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "skills-based-volunteering",
+    "nonprofits"
+  ],
+  "description": "Online Volunteering is a skills-based volunteering platform or program that matches professionals with nonprofit projects administered by United Nations Volunteers.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Remote or flexible pro bono projects that apply professional skills to nonprofit needs",
+  "sourceUrl": "https://www.unv.org/become-online-volunteer",
+  "officialUrl": "https://www.unv.org/become-online-volunteer",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

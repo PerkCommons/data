@@ -1,0 +1,27 @@
+{
+  "id": "climate-reality-leadership-corps",
+  "provider": "The Climate Reality Project",
+  "title": "Climate Reality Leadership Corps",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "climate-programs",
+    "education-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "climate",
+    "learning"
+  ],
+  "description": "Climate Reality Leadership Corps is a cohort, training, or community program helping participants build practical climate solutions and mobilize local action administered by The Climate Reality Project.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Climate education, project development, peer community, facilitation resources, and program-specific implementation support",
+  "sourceUrl": "https://www.climaterealityproject.org/training",
+  "officialUrl": "https://www.climaterealityproject.org/training",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

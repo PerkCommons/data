@@ -1,0 +1,27 @@
+{
+  "id": "rust-user-groups",
+  "provider": "Rust Foundation",
+  "title": "Rust Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "technical-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "developers",
+    "technical-community"
+  ],
+  "description": "Rust Community is an official technical community with local or online groups, knowledge sharing, and access to experienced practitioners administered by Rust Foundation.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Technical events, peer support, practitioner knowledge, and collaboration opportunities",
+  "sourceUrl": "https://www.rust-lang.org/community",
+  "officialUrl": "https://www.rust-lang.org/community",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

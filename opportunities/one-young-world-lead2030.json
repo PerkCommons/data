@@ -1,0 +1,27 @@
+{
+  "id": "one-young-world-lead2030",
+  "provider": "One Young World",
+  "title": "Lead2030 Challenge",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "climate-programs",
+    "education-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "climate",
+    "learning"
+  ],
+  "description": "Lead2030 Challenge is a cohort, training, or community program helping participants build practical climate solutions and mobilize local action administered by One Young World.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Climate education, project development, peer community, facilitation resources, and program-specific implementation support",
+  "sourceUrl": "https://www.oneyoungworld.com/lead2030",
+  "officialUrl": "https://www.oneyoungworld.com/lead2030",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

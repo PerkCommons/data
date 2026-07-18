@@ -1,0 +1,26 @@
+{
+  "id": "ces-innovation-awards",
+  "provider": "Consumer Technology Association",
+  "title": "CES Innovation Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "innovation-awards",
+    "founder-awards"
+  ],
+  "tags": [
+    "innovation",
+    "founders"
+  ],
+  "description": "CES Innovation Awards is an established awards program recognizing founders, entrepreneurs, products, or organizations responsible for notable innovation administered by Consumer Technology Association.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Independent recognition, visibility, peer credibility, and program-specific finalist or winner benefits",
+  "sourceUrl": "https://www.ces.tech/innovation-awards/",
+  "officialUrl": "https://www.ces.tech/innovation-awards/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

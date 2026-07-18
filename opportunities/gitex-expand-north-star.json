@@ -1,0 +1,27 @@
+{
+  "id": "gitex-expand-north-star",
+  "provider": "GITEX GLOBAL",
+  "title": "Expand North Star",
+  "category": "events-conferences",
+  "subcategories": [
+    "startup-showcases",
+    "demo-days",
+    "networking-events"
+  ],
+  "tags": [
+    "startups",
+    "showcase"
+  ],
+  "description": "Expand North Star is a startup event program that offers selected companies exhibition, showcase, demo, or investor-networking access administered by GITEX GLOBAL.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Startup visibility, product demonstrations, investor or partner meetings, and event networking",
+  "sourceUrl": "https://www.expandnorthstar.com/",
+  "officialUrl": "https://www.expandnorthstar.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

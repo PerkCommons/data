@@ -1,0 +1,27 @@
+{
+  "id": "smithsonian-digital-volunteers",
+  "provider": "Smithsonian Institution",
+  "title": "Digital Volunteers",
+  "category": "volunteer-service",
+  "subcategories": [
+    "civic-volunteering",
+    "community-service",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "civic-service",
+    "community"
+  ],
+  "description": "Digital Volunteers is a civic or community-service volunteer program with current opportunities administered by Smithsonian Institution.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Structured service, community impact, training, and role-specific volunteer support",
+  "sourceUrl": "https://transcription.si.edu/",
+  "officialUrl": "https://transcription.si.edu/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "code-club-volunteers",
+  "provider": "Raspberry Pi Foundation",
+  "title": "Code Club Volunteer",
+  "category": "volunteer-service",
+  "subcategories": [
+    "open-source-volunteering",
+    "mentorship-volunteering",
+    "skilled-volunteering",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "open-source",
+    "mentoring"
+  ],
+  "description": "Code Club Volunteer is an open-source, coding, or digital-skills community that invites volunteers to contribute or mentor others administered by Raspberry Pi Foundation.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Contributor experience, community impact, mentoring practice, and reusable open work",
+  "sourceUrl": "https://codeclub.org/en",
+  "officialUrl": "https://codeclub.org/en",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

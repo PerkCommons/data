@@ -1,0 +1,26 @@
+{
+  "id": "european-inventor-award",
+  "provider": "European Patent Office",
+  "title": "European Inventor Award",
+  "category": "awards-recognition",
+  "subcategories": [
+    "innovation-awards",
+    "founder-awards"
+  ],
+  "tags": [
+    "innovation",
+    "founders"
+  ],
+  "description": "European Inventor Award is an established awards program recognizing founders, entrepreneurs, products, or organizations responsible for notable innovation administered by European Patent Office.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Independent recognition, visibility, peer credibility, and program-specific finalist or winner benefits",
+  "sourceUrl": "https://www.epo.org/en/news-events/european-inventor-award",
+  "officialUrl": "https://www.epo.org/en/news-events/european-inventor-award",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

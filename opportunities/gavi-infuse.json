@@ -1,0 +1,27 @@
+{
+  "id": "gavi-infuse",
+  "provider": "Gavi, the Vaccine Alliance",
+  "title": "INFUSE",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "humanitarian-programs",
+    "health-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "humanitarian",
+    "health"
+  ],
+  "description": "INFUSE is a challenge, fund, or innovation-support pathway for teams developing humanitarian, global-health, or community resilience solutions administered by Gavi, the Vaccine Alliance.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Program-specific grants or investment, technical assistance, field partnerships, validation, and scaling support",
+  "sourceUrl": "https://www.gavi.org/investing-gavi/infuse",
+  "officialUrl": "https://www.gavi.org/investing-gavi/infuse",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "akademie-schloss-solitude-fellowship",
+  "provider": "Akademie Schloss Solitude",
+  "title": "Solitude Fellowship",
+  "category": "creator-media",
+  "subcategories": [
+    "creator-funds",
+    "design-residencies"
+  ],
+  "tags": [
+    "artists",
+    "residency"
+  ],
+  "description": "Solitude Fellowship is a funded or supported residency pathway for eligible artists, designers, and creative practitioners developing original work administered by Akademie Schloss Solitude.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Dedicated creation time, workspace or accommodation, peer exchange, mentorship, and program-specific financial support",
+  "sourceUrl": "https://www.akademie-solitude.de/en/fellowship/solitude-fellowship/",
+  "officialUrl": "https://www.akademie-solitude.de/en/fellowship/solitude-fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "indigo-design-award",
+  "provider": "Indigo Design Award",
+  "title": "Indigo Design Award",
+  "category": "awards-recognition",
+  "subcategories": [
+    "creator-awards",
+    "innovation-awards"
+  ],
+  "tags": [
+    "creative-work",
+    "design"
+  ],
+  "description": "Indigo Design Award is a juried creative award accepting eligible work from designers, makers, studios, writers, or digital creators administered by Indigo Design Award.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Juried recognition, portfolio visibility, publication, and award-specific exhibition or networking benefits",
+  "sourceUrl": "https://www.indigoaward.com/",
+  "officialUrl": "https://www.indigoaward.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

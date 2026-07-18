@@ -1,0 +1,28 @@
+{
+  "id": "coderdojo-volunteers",
+  "provider": "CoderDojo",
+  "title": "Volunteer",
+  "category": "volunteer-service",
+  "subcategories": [
+    "open-source-volunteering",
+    "mentorship-volunteering",
+    "skilled-volunteering",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "open-source",
+    "mentoring"
+  ],
+  "description": "Volunteer is an open-source, coding, or digital-skills community that invites volunteers to contribute or mentor others administered by CoderDojo.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Contributor experience, community impact, mentoring practice, and reusable open work",
+  "sourceUrl": "https://coderdojo.com/en/volunteer/",
+  "officialUrl": "https://coderdojo.com/en/volunteer/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

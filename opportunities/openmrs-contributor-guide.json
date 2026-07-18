@@ -1,0 +1,26 @@
+{
+  "id": "openmrs-contributor-guide",
+  "provider": "OpenMRS",
+  "title": "Contributor Guide",
+  "category": "open-source",
+  "subcategories": [
+    "contributor-programs",
+    "mentorship-programs"
+  ],
+  "tags": [
+    "contributors",
+    "mentorship"
+  ],
+  "description": "Contributor Guide is an official newcomer or contributor pathway with community guidance and mentoring resources administered by OpenMRS.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Contributor onboarding, community guidance, mentored tasks, and practical open-source experience",
+  "sourceUrl": "https://openmrs.org/get-involved/",
+  "officialUrl": "https://openmrs.org/get-involved/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

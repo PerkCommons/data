@@ -1,0 +1,26 @@
+{
+  "id": "hot-docs-blue-ice-fund",
+  "provider": "Hot Docs",
+  "title": "Hot Docs-Blue Ice Docs Fund",
+  "category": "creator-media",
+  "subcategories": [
+    "film-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "film",
+    "documentary"
+  ],
+  "description": "Hot Docs-Blue Ice Docs Fund is a selective fund supporting eligible independent film or documentary projects at specified stages of development, production, or completion administered by Hot Docs.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Project funding, creative or editorial support, industry access, and program-specific distribution resources",
+  "sourceUrl": "https://hotdocs.ca/industry/film-funds",
+  "officialUrl": "https://hotdocs.ca/industry/film-funds",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

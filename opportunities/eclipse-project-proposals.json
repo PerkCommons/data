@@ -1,0 +1,27 @@
+{
+  "id": "eclipse-project-proposals",
+  "provider": "Eclipse Foundation",
+  "title": "New Project Proposals",
+  "category": "open-source",
+  "subcategories": [
+    "sponsorships",
+    "fiscal-hosting",
+    "project-grants"
+  ],
+  "tags": [
+    "fiscal-hosting",
+    "project-support"
+  ],
+  "description": "New Project Proposals is an open-source project home or fiscal-hosting pathway that provides organizational, financial, or administrative support administered by Eclipse Foundation.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Fiscal stewardship, legal or administrative support, fundraising infrastructure, and project governance services",
+  "sourceUrl": "https://www.eclipse.org/projects/handbook/#starting",
+  "officialUrl": "https://www.eclipse.org/projects/handbook/#starting",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

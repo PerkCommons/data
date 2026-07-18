@@ -1,0 +1,26 @@
+{
+  "id": "fosdem-call-for-participation",
+  "provider": "FOSDEM",
+  "title": "Call for Participation",
+  "category": "events-conferences",
+  "subcategories": [
+    "speaker-opportunities",
+    "networking-events"
+  ],
+  "tags": [
+    "call-for-proposals",
+    "conferences"
+  ],
+  "description": "Call for Participation is a professional or community conference with an open call for speakers and participant networking administered by FOSDEM.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "A public speaking pathway, audience reach, peer exchange, and conference networking",
+  "sourceUrl": "https://fosdem.org/2026/news/2025-09-21-call-for-participation/",
+  "officialUrl": "https://fosdem.org/2026/news/2025-09-21-call-for-participation/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

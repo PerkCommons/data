@@ -1,0 +1,26 @@
+{
+  "id": "inkscape-free",
+  "provider": "Inkscape Project",
+  "title": "Inkscape",
+  "category": "discounts-perks",
+  "subcategories": [
+    "professional-software",
+    "design-tools"
+  ],
+  "tags": [
+    "design",
+    "free-plan"
+  ],
+  "description": "Inkscape is a no-cost plan or open professional design tool available under its published terms administered by Inkscape Project.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Professional design capabilities without a required paid subscription",
+  "sourceUrl": "https://inkscape.org/",
+  "officialUrl": "https://inkscape.org/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

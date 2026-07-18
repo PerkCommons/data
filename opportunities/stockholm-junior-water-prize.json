@@ -1,0 +1,26 @@
+{
+  "id": "stockholm-junior-water-prize",
+  "provider": "Stockholm International Water Institute",
+  "title": "Stockholm Junior Water Prize",
+  "category": "awards-recognition",
+  "subcategories": [
+    "student-awards",
+    "research-awards"
+  ],
+  "tags": [
+    "students",
+    "research"
+  ],
+  "description": "Stockholm Junior Water Prize is a research or academic awards program in which eligible students present or submit original work for recognition administered by Stockholm International Water Institute.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Research recognition, feedback, visibility, and program-specific prizes or advancement opportunities",
+  "sourceUrl": "https://siwi.org/stockholm-junior-water-prize/",
+  "officialUrl": "https://siwi.org/stockholm-junior-water-prize/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

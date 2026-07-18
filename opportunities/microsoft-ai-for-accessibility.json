@@ -1,0 +1,27 @@
+{
+  "id": "microsoft-ai-for-accessibility",
+  "provider": "Microsoft",
+  "title": "AI for Accessibility",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "accessibility-programs",
+    "education-impact-programs",
+    "health-impact-programs"
+  ],
+  "tags": [
+    "accessibility",
+    "inclusive-design"
+  ],
+  "description": "AI for Accessibility is an education, leadership, funding, or innovation program advancing accessibility, disability inclusion, or inclusive health and learning administered by Microsoft.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Accessible-design skills, leadership development, expert networks, funding or acceleration, and implementation resources",
+  "sourceUrl": "https://www.microsoft.com/ai/ai-for-accessibility",
+  "officialUrl": "https://www.microsoft.com/ai/ai-for-accessibility",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

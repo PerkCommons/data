@@ -1,0 +1,28 @@
+{
+  "id": "openstreetmap-contributors",
+  "provider": "OpenStreetMap",
+  "title": "Contribute to OpenStreetMap",
+  "category": "volunteer-service",
+  "subcategories": [
+    "open-source-volunteering",
+    "mentorship-volunteering",
+    "skilled-volunteering",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "open-source",
+    "mentoring"
+  ],
+  "description": "Contribute to OpenStreetMap is an open-source, coding, or digital-skills community that invites volunteers to contribute or mentor others administered by OpenStreetMap.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Contributor experience, community impact, mentoring practice, and reusable open work",
+  "sourceUrl": "https://www.openstreetmap.org/help",
+  "officialUrl": "https://www.openstreetmap.org/help",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

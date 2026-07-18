@@ -1,0 +1,28 @@
+{
+  "id": "mozilla-contributors",
+  "provider": "Mozilla",
+  "title": "Contribute to Mozilla",
+  "category": "volunteer-service",
+  "subcategories": [
+    "open-source-volunteering",
+    "mentorship-volunteering",
+    "skilled-volunteering",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "open-source",
+    "mentoring"
+  ],
+  "description": "Contribute to Mozilla is an open-source, coding, or digital-skills community that invites volunteers to contribute or mentor others administered by Mozilla.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Contributor experience, community impact, mentoring practice, and reusable open work",
+  "sourceUrl": "https://www.mozilla.org/en-US/contribute/",
+  "officialUrl": "https://www.mozilla.org/en-US/contribute/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

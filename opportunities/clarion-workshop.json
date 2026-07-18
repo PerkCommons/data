@@ -1,0 +1,26 @@
+{
+  "id": "clarion-workshop",
+  "provider": "Clarion Foundation",
+  "title": "Clarion Science Fiction and Fantasy Writers’ Workshop",
+  "category": "creator-media",
+  "subcategories": [
+    "writing-programs",
+    "publishing-support"
+  ],
+  "tags": [
+    "writers",
+    "publishing"
+  ],
+  "description": "Clarion Science Fiction and Fantasy Writers’ Workshop is a selective writing-development program offering eligible writers workshops, mentorship, residency time, or routes toward publication administered by Clarion Foundation.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Craft development, editorial feedback, literary community access, and program-specific scholarships or publishing connections",
+  "sourceUrl": "https://clarion.ucsd.edu/",
+  "officialUrl": "https://clarion.ucsd.edu/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

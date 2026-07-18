@@ -1,0 +1,27 @@
+{
+  "id": "who-eureka-innovation-space",
+  "provider": "World Health Organization",
+  "title": "Eurêka Innovation Space Call",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "humanitarian-programs",
+    "health-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "humanitarian",
+    "health"
+  ],
+  "description": "Eurêka Innovation Space Call is a challenge, fund, or innovation-support pathway for teams developing humanitarian, global-health, or community resilience solutions administered by World Health Organization.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Program-specific grants or investment, technical assistance, field partnerships, validation, and scaling support",
+  "sourceUrl": "https://www.who.int/news-room/articles-detail/call-for-proposals--co-host-eur-ka-at-who-headquarters",
+  "officialUrl": "https://www.who.int/news-room/articles-detail/call-for-proposals--co-host-eur-ka-at-who-headquarters",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

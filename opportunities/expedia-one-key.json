@@ -1,0 +1,26 @@
+{
+  "id": "expedia-one-key",
+  "provider": "Expedia Group",
+  "title": "One Key",
+  "category": "discounts-perks",
+  "subcategories": [
+    "travel-coworking",
+    "memberships"
+  ],
+  "tags": [
+    "travel",
+    "loyalty"
+  ],
+  "description": "One Key is a free travel loyalty membership with member rates or stay-related benefits administered by Expedia Group.",
+  "eligibility": "Users must meet the current account, location, use, purchase, and program-specific requirements.",
+  "value": "Member rates, points, upgrades, or other travel benefits under current program terms",
+  "sourceUrl": "https://www.expedia.com/welcome-one-key",
+  "officialUrl": "https://www.expedia.com/welcome-one-key",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "score-business-mentoring",
+  "provider": "SCORE",
+  "title": "Free Business Mentoring",
+  "category": "mentorship-community",
+  "subcategories": [
+    "mentorship-programs",
+    "office-hours",
+    "expert-networks"
+  ],
+  "tags": [
+    "mentorship",
+    "expert-guidance"
+  ],
+  "description": "Free Business Mentoring is a mentorship network where eligible members can request individual guidance or expert sessions administered by SCORE.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "One-to-one mentoring, expert guidance, and scheduled advice sessions",
+  "sourceUrl": "https://www.score.org/find-mentor",
+  "officialUrl": "https://www.score.org/find-mentor",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

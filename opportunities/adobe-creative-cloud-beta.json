@@ -1,0 +1,26 @@
+{
+  "id": "adobe-creative-cloud-beta",
+  "provider": "Adobe",
+  "title": "Creative Cloud Beta Apps",
+  "category": "early-access",
+  "subcategories": [
+    "private-betas",
+    "waitlists"
+  ],
+  "tags": [
+    "private-beta",
+    "application"
+  ],
+  "description": "Creative Cloud Beta Apps is an official application, prerelease, or invitation channel through which selected participants may test unreleased capabilities administered by Adobe.",
+  "eligibility": "Access depends on the current program, account, device, geography, capacity, confidentiality, and testing requirements; preview features may be unstable.",
+  "value": "Potential invitation to private testing, direct product feedback, and prerelease feature access",
+  "sourceUrl": "https://helpx.adobe.com/creative-cloud/beta.html",
+  "officialUrl": "https://helpx.adobe.com/creative-cloud/beta.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

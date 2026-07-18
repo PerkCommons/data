@@ -1,0 +1,26 @@
+{
+  "id": "kundiman-retreat",
+  "provider": "Kundiman",
+  "title": "Kundiman Retreat",
+  "category": "creator-media",
+  "subcategories": [
+    "writing-programs",
+    "publishing-support"
+  ],
+  "tags": [
+    "writers",
+    "publishing"
+  ],
+  "description": "Kundiman Retreat is a selective writing-development program offering eligible writers workshops, mentorship, residency time, or routes toward publication administered by Kundiman.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Craft development, editorial feedback, literary community access, and program-specific scholarships or publishing connections",
+  "sourceUrl": "https://www.kundiman.org/retreat",
+  "officialUrl": "https://www.kundiman.org/retreat",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "drupal-aaron-winborn-award",
+  "provider": "Drupal Association",
+  "title": "Aaron Winborn Award",
+  "category": "awards-recognition",
+  "subcategories": [
+    "open-source-awards",
+    "community-awards"
+  ],
+  "tags": [
+    "open-source",
+    "community"
+  ],
+  "description": "Aaron Winborn Award is a nomination or recognition program honoring sustained contribution, leadership, or impact in an open-source community administered by Drupal Association.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Community recognition, public visibility, and acknowledgment of open-source service or leadership",
+  "sourceUrl": "https://www.drupal.org/community/cwg/aaron-winborn-award",
+  "officialUrl": "https://www.drupal.org/community/cwg/aaron-winborn-award",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

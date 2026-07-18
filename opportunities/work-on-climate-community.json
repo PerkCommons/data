@@ -1,0 +1,27 @@
+{
+  "id": "work-on-climate-community",
+  "provider": "Work on Climate",
+  "title": "Work on Climate Community",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "climate-programs",
+    "education-impact-programs",
+    "community-development-programs"
+  ],
+  "tags": [
+    "climate",
+    "learning"
+  ],
+  "description": "Work on Climate Community is a cohort, training, or community program helping participants build practical climate solutions and mobilize local action administered by Work on Climate.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Climate education, project development, peer community, facilitation resources, and program-specific implementation support",
+  "sourceUrl": "https://workonclimate.org/",
+  "officialUrl": "https://workonclimate.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "g3ict-smart-cities-for-all",
+  "provider": "G3ict",
+  "title": "Smart Cities for All",
+  "category": "social-impact-civic-tech",
+  "subcategories": [
+    "accessibility-programs",
+    "education-impact-programs",
+    "health-impact-programs"
+  ],
+  "tags": [
+    "accessibility",
+    "inclusive-design"
+  ],
+  "description": "Smart Cities for All is an education, leadership, funding, or innovation program advancing accessibility, disability inclusion, or inclusive health and learning administered by G3ict.",
+  "eligibility": "Applicants or participants must meet the current mission alignment, project stage, location, cohort timing, and program-specific requirements.",
+  "value": "Accessible-design skills, leadership development, expert networks, funding or acceleration, and implementation resources",
+  "sourceUrl": "https://smartcities4all.org/",
+  "officialUrl": "https://smartcities4all.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

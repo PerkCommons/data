@@ -1,0 +1,26 @@
+{
+  "id": "global-undergraduate-awards",
+  "provider": "The Global Undergraduate Awards",
+  "title": "Global Undergraduate Awards",
+  "category": "awards-recognition",
+  "subcategories": [
+    "student-awards",
+    "research-awards"
+  ],
+  "tags": [
+    "students",
+    "research"
+  ],
+  "description": "Global Undergraduate Awards is a research or academic awards program in which eligible students present or submit original work for recognition administered by The Global Undergraduate Awards.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Research recognition, feedback, visibility, and program-specific prizes or advancement opportunities",
+  "sourceUrl": "https://undergraduateawards.com/",
+  "officialUrl": "https://undergraduateawards.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

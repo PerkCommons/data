@@ -1,0 +1,26 @@
+{
+  "id": "acm-student-research-competition",
+  "provider": "Association for Computing Machinery",
+  "title": "ACM Student Research Competition",
+  "category": "awards-recognition",
+  "subcategories": [
+    "student-awards",
+    "research-awards"
+  ],
+  "tags": [
+    "students",
+    "research"
+  ],
+  "description": "ACM Student Research Competition is a research or academic awards program in which eligible students present or submit original work for recognition administered by Association for Computing Machinery.",
+  "eligibility": "Candidates must meet the current nomination or entry window, geography, age, work ownership, fee, and program-specific requirements.",
+  "value": "Research recognition, feedback, visibility, and program-specific prizes or advancement opportunities",
+  "sourceUrl": "https://src.acm.org/",
+  "officialUrl": "https://src.acm.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

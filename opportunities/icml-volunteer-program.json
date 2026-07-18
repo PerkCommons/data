@@ -1,0 +1,28 @@
+{
+  "id": "icml-volunteer-program",
+  "provider": "International Conference on Machine Learning",
+  "title": "ICML Volunteer and Financial Aid Program",
+  "category": "events-conferences",
+  "subcategories": [
+    "conference-scholarships",
+    "travel-grants",
+    "community-tickets",
+    "student-tickets"
+  ],
+  "tags": [
+    "conference-support",
+    "students"
+  ],
+  "description": "ICML Volunteer and Financial Aid Program is a conference attendance-support program offering registration, travel support, or student volunteer benefits under current terms administered by International Conference on Machine Learning.",
+  "eligibility": "Applicants must meet the current event, role, age, location, deadline, and program-specific requirements.",
+  "value": "Reduced-cost or supported conference participation, with program-specific registration and travel benefits",
+  "sourceUrl": "https://icml.cc/Conferences/2026/FinancialAid",
+  "officialUrl": "https://icml.cc/Conferences/2026/FinancialAid",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "screen-australia-documentary-funding",
+  "provider": "Screen Australia",
+  "title": "Documentary Funding",
+  "category": "creator-media",
+  "subcategories": [
+    "film-grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "film",
+    "documentary"
+  ],
+  "description": "Documentary Funding is a selective fund supporting eligible independent film or documentary projects at specified stages of development, production, or completion administered by Screen Australia.",
+  "eligibility": "Applicants must meet the current discipline, career stage, geography, project ownership, application window, and program-specific requirements.",
+  "value": "Project funding, creative or editorial support, industry access, and program-specific distribution resources",
+  "sourceUrl": "https://www.screenaustralia.gov.au/funding-and-support/documentary",
+  "officialUrl": "https://www.screenaustralia.gov.au/funding-and-support/documentary",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

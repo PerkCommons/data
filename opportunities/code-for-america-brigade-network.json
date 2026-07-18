@@ -1,0 +1,27 @@
+{
+  "id": "code-for-america-brigade-network",
+  "provider": "Code for America",
+  "title": "Brigade Network",
+  "category": "volunteer-service",
+  "subcategories": [
+    "civic-volunteering",
+    "community-service",
+    "remote-volunteering"
+  ],
+  "tags": [
+    "civic-service",
+    "community"
+  ],
+  "description": "Brigade Network is a civic or community-service volunteer program with current opportunities administered by Code for America.",
+  "eligibility": "Volunteers must meet the current age, location, skills, availability, screening, and program-specific requirements.",
+  "value": "Structured service, community impact, training, and role-specific volunteer support",
+  "sourceUrl": "https://codeforamerica.org/programs/network/",
+  "officialUrl": "https://codeforamerica.org/programs/network/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "product-hunt-makers",
+  "provider": "Product Hunt",
+  "title": "Maker Community",
+  "category": "mentorship-community",
+  "subcategories": [
+    "founder-communities",
+    "peer-communities",
+    "expert-networks"
+  ],
+  "tags": [
+    "founders",
+    "peer-support"
+  ],
+  "description": "Maker Community is a founder community offering peer learning, connections, and access to experienced operators administered by Product Hunt.",
+  "eligibility": "Participants must meet the current membership, age, location, profession, conduct, and program-specific requirements.",
+  "value": "Founder peer support, practical knowledge sharing, introductions, and community events",
+  "sourceUrl": "https://www.producthunt.com/launch",
+  "officialUrl": "https://www.producthunt.com/launch",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

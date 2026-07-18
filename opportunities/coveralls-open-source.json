@@ -1,0 +1,26 @@
+{
+  "id": "coveralls-open-source",
+  "provider": "Coveralls",
+  "title": "Open Source Coverage",
+  "category": "open-source",
+  "subcategories": [
+    "maintainer-programs",
+    "infrastructure-support"
+  ],
+  "tags": [
+    "maintainers",
+    "infrastructure"
+  ],
+  "description": "Open Source Coverage is an infrastructure-support program or free service tier specifically available to qualifying open-source projects administered by Coveralls.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Hosted infrastructure, testing, documentation, search, observability, or delivery support for open-source maintainers",
+  "sourceUrl": "https://coveralls.io/",
+  "officialUrl": "https://coveralls.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

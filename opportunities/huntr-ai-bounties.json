@@ -1,0 +1,26 @@
+{
+  "id": "huntr-ai-bounties",
+  "provider": "Protect AI",
+  "title": "Huntr AI/ML Bug Bounties",
+  "category": "open-source",
+  "subcategories": [
+    "issue-bounties",
+    "project-grants"
+  ],
+  "tags": [
+    "bounties",
+    "funding"
+  ],
+  "description": "Huntr AI/ML Bug Bounties is a bounty or open funding platform where eligible open-source work can receive financial rewards administered by Protect AI.",
+  "eligibility": "Projects or contributors must meet the current open-source license, governance, activity, location, and program-specific requirements.",
+  "value": "Issue-level rewards, project funding, or community-backed grants for completed open-source work",
+  "sourceUrl": "https://huntr.com/",
+  "officialUrl": "https://huntr.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}
