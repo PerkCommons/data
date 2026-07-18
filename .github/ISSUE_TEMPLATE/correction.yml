@@ -1,12 +1,12 @@
-name: Report a listing correction
+name: Report an opportunity correction
 description: Report outdated, inaccurate, or unsafe published data.
 title: "[Correction]: "
 labels: [correction]
 body:
   - type: input
-    id: listing
+    id: opportunity
     attributes:
-      label: Listing ID or URL
+      label: Opportunity ID or URL
     validations:
       required: true
   - type: textarea
