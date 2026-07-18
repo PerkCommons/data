@@ -1,0 +1,18 @@
+{
+  "id": "openai-researcher-access-program",
+  "provider": "OpenAI",
+  "title": "OpenAI Researcher Access Program",
+  "category": "research-opportunities",
+  "subcategories": ["compute-credits"],
+  "tags": ["api-credits", "ai-research", "responsible-ai"],
+  "description": "The OpenAI Researcher Access Program provides subsidized API access for research into responsible AI deployment, risk mitigation, and the societal impact of AI systems.",
+  "eligibility": "Researchers with an active affiliation to an academic or research institution, and nonprofits conducting research, may apply from countries supported by the OpenAI API.",
+  "value": "Up to $1,000 in OpenAI API credits valid for 12 months",
+  "sourceUrl": "https://grants.openai.com/prog/openai_researcher_access_program/",
+  "officialUrl": "https://grants.openai.com/prog/openai_researcher_access_program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["OpenAI API-supported countries"]
+}

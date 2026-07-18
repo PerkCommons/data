@@ -1,0 +1,18 @@
+{
+  "id": "anthropic-external-researcher-access-program",
+  "provider": "Anthropic",
+  "title": "Anthropic External Researcher Access Program",
+  "category": "research-opportunities",
+  "subcategories": ["compute-credits"],
+  "tags": ["api-credits", "ai-safety", "alignment-research"],
+  "description": "Anthropic's External Researcher Access Program lowers the cost of priority AI safety and alignment research by providing selected researchers with free Claude API credits.",
+  "eligibility": "Researchers working on AI safety and alignment topics that Anthropic considers high priority may apply from countries where Claude API access is available.",
+  "value": "$1,000 in Claude API credits for accepted applications, with higher awards possible in rare cases",
+  "sourceUrl": "https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program",
+  "officialUrl": "https://support.claude.com/en/articles/9125743-what-is-the-external-researcher-access-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Claude API-supported countries"]
+}

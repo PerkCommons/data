@@ -1,0 +1,18 @@
+{
+  "id": "openai-for-startups",
+  "provider": "OpenAI",
+  "title": "OpenAI for Startups",
+  "category": "startup-benefits",
+  "subcategories": ["infrastructure-credits", "developer-tooling"],
+  "tags": ["api-credits", "artificial-intelligence", "venture-backed"],
+  "description": "OpenAI for Startups provides technical resources, community programming, and potential API benefits to startups building and scaling products with OpenAI.",
+  "eligibility": "Startup resources are broadly available, while free API credits and additional benefits generally require a referral from a participating venture-capital partner and OpenAI approval.",
+  "value": "Resources and, for eligible partner-backed startups, API credits, rate-limit upgrades, technical support, and events",
+  "sourceUrl": "https://openai.com/business/why-openai/startups/",
+  "officialUrl": "https://openai.com/business/why-openai/startups/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global"]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "openai-codex-for-open-source",
+  "provider": "OpenAI",
+  "title": "Codex for Open Source",
+  "category": "developer-programs",
+  "subcategories": ["api-credits", "open-source-programs", "maintainer-support"],
+  "tags": ["codex", "open-source", "maintainers"],
+  "description": "Codex for Open Source supports maintainers of important public open-source projects with coding, review, security, and automation resources.",
+  "eligibility": "Primary or core maintainers of active public open-source projects with meaningful usage, adoption, or ecosystem importance may apply and are reviewed on a rolling basis.",
+  "value": "Six months of ChatGPT Pro with Codex, conditional Codex Security access, and potential API credits",
+  "sourceUrl": "https://openai.com/form/codex-for-oss/",
+  "officialUrl": "https://openai.com/form/codex-for-oss/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global"]
+}

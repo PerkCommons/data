@@ -1,0 +1,18 @@
+{
+  "id": "openai-vc-partnerships",
+  "provider": "OpenAI",
+  "title": "OpenAI VC Partnerships",
+  "category": "startup-benefits",
+  "subcategories": ["infrastructure-credits", "developer-tooling"],
+  "tags": ["venture-capital", "portfolio-benefits", "api-credits"],
+  "description": "OpenAI's VC partnership program enables selected venture-capital firms to offer OpenAI resources and benefits to eligible portfolio companies building with AI.",
+  "eligibility": "Venture-capital firms backing startups that actively build with AI may apply; acceptance and portfolio-company benefits are determined by OpenAI.",
+  "value": "Potential API credits, usage-tier upgrades, events, and resources for eligible portfolio companies",
+  "sourceUrl": "https://openai.com/form/vc-partnerships-application/",
+  "officialUrl": "https://openai.com/form/vc-partnerships-application/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global"]
+}
