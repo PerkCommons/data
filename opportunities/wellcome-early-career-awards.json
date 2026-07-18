@@ -1,0 +1,26 @@
+{
+  "id": "wellcome-early-career-awards",
+  "provider": "Wellcome",
+  "title": "Early-Career Awards",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Awards fund early-career researchers ready to develop an independent research identity in eligible health-related fields.",
+  "eligibility": "Applicants and administering organizations must meet Wellcome's current career-stage, location, and research-remit rules.",
+  "value": "Salary and research expenses for an eligible project",
+  "sourceUrl": "https://wellcome.org/research-funding/schemes/early-career-awards",
+  "officialUrl": "https://wellcome.org/research-funding/schemes/early-career-awards",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

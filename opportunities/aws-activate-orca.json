@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-orca",
+  "provider": "Orca",
+  "title": "Move at the speed of the cloud without compromising on Security & Compliance. FREE for 45 days, with a special business offer included.",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "security-compliance"
+  ],
+  "description": "Orca Security provides comprehensive cloud security and compliance for AWS without the gaps in coverage, alert fatigue, and operational cost of agents. Find critical attack vectors before your adversaries without having to cobble together disparate tools.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Move at the speed of the cloud without compromising on Security & Compliance. FREE for 45 days, with a special business offer included.",
+  "sourceUrl": "https://startups.aws.com/offers/orca",
+  "officialUrl": "https://startups.aws.com/offers/orca",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

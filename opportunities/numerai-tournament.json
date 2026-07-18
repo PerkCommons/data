@@ -1,0 +1,26 @@
+{
+  "id": "numerai-tournament",
+  "provider": "Numerai",
+  "title": "Numerai Tournament",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "online-hackathons",
+    "data-science-competitions"
+  ],
+  "tags": [
+    "data-science",
+    "online"
+  ],
+  "description": "Numerai Tournament provides online data-science, machine-learning, or algorithmic challenges through Numerai.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Challenge datasets, benchmarking, community participation, and competition-specific prizes",
+  "sourceUrl": "https://numer.ai/tournament",
+  "officialUrl": "https://numer.ai/tournament",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

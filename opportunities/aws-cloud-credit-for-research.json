@@ -1,0 +1,25 @@
+{
+  "id": "aws-cloud-credit-for-research",
+  "provider": "Amazon Web Services",
+  "title": "Cloud Credit for Research",
+  "category": "research-opportunities",
+  "subcategories": [
+    "compute-credits"
+  ],
+  "tags": [
+    "research-compute",
+    "cloud-credits"
+  ],
+  "description": "Cloud Credit for Research is a compute-access or cloud-credit program intended to support eligible research workloads administered by Amazon Web Services.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Cloud, accelerator, or high-performance-computing resources under program-specific limits",
+  "sourceUrl": "https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/",
+  "officialUrl": "https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

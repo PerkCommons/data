@@ -1,0 +1,26 @@
+{
+  "id": "ibm-tech-reentry",
+  "provider": "IBM",
+  "title": "Tech Re-Entry Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "returnships",
+    "traineeships"
+  ],
+  "tags": [
+    "returnships",
+    "career-reentry"
+  ],
+  "description": "Tech Re-Entry Program is a structured return-to-work program for experienced professionals after a career break administered by IBM.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Re-entry training, paid project work, mentoring, and potential pathways to continuing roles",
+  "sourceUrl": "https://www.ibm.com/us-en/careers/tech-re-entry",
+  "officialUrl": "https://www.ibm.com/us-en/careers/tech-re-entry",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

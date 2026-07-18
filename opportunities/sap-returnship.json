@@ -1,0 +1,26 @@
+{
+  "id": "sap-returnship",
+  "provider": "SAP",
+  "title": "SAP Returnship Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "returnships",
+    "traineeships"
+  ],
+  "tags": [
+    "returnships",
+    "career-reentry"
+  ],
+  "description": "SAP Returnship Program is a structured return-to-work program for experienced professionals after a career break administered by SAP.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Re-entry training, paid project work, mentoring, and potential pathways to continuing roles",
+  "sourceUrl": "https://jobs.sap.com/go/Returnship/9268401/",
+  "officialUrl": "https://jobs.sap.com/go/Returnship/9268401/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

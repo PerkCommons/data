@@ -1,0 +1,25 @@
+{
+  "id": "esa-earth-observation-data",
+  "provider": "European Space Agency",
+  "title": "Earth Observation Data Access",
+  "category": "research-opportunities",
+  "subcategories": [
+    "dataset-access"
+  ],
+  "tags": [
+    "research-data",
+    "datasets"
+  ],
+  "description": "Earth Observation Data Access is an official research-data access program or repository with datasets available under its stated access conditions administered by European Space Agency.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Access to curated datasets, documentation, and research-use infrastructure",
+  "sourceUrl": "https://earth.esa.int/eogateway/catalog",
+  "officialUrl": "https://earth.esa.int/eogateway/catalog",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

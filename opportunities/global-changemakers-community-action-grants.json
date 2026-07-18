@@ -1,0 +1,26 @@
+{
+  "id": "global-changemakers-community-action-grants",
+  "provider": "Global Changemakers",
+  "title": "Community Action Grants",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Grants support youth-led projects addressing challenges in their communities.",
+  "eligibility": "Young changemakers must satisfy the current program, training, age, and project requirements.",
+  "value": "Project grant and support for selected youth-led action",
+  "sourceUrl": "https://www.global-changemakers.net/grants",
+  "officialUrl": "https://www.global-changemakers.net/grants",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "janelia-visiting-scientist",
+  "provider": "HHMI Janelia Research Campus",
+  "title": "Visiting Scientist Program",
+  "category": "research-opportunities",
+  "subcategories": [
+    "visiting-researcher-programs",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "visiting-researchers"
+  ],
+  "description": "Visiting Scientist Program is a visiting-researcher or visiting-scholar program offering access to a research community or facility administered by HHMI Janelia Research Campus.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research affiliation, collaboration, facilities, and program-specific financial support",
+  "sourceUrl": "https://www.janelia.org/you-janelia/visiting-scientists",
+  "officialUrl": "https://www.janelia.org/you-janelia/visiting-scientists",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

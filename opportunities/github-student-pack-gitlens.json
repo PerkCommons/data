@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-gitlens",
+  "provider": "GitLens",
+  "title": "GitLens Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "education-plans"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools"
+  ],
+  "description": "GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as long as you’re a student.",
+  "sourceUrl": "https://education.github.com/pack#gitlens",
+  "officialUrl": "https://education.github.com/pack#gitlens",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

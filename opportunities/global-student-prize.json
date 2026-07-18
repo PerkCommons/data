@@ -1,0 +1,24 @@
+{
+  "id": "global-student-prize",
+  "provider": "Chegg.org and Varkey Foundation",
+  "title": "Global Student Prize",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The annual award recognizes an exceptional student making a real impact on learning and society.",
+  "eligibility": "Applicants or nominees must meet the current age, enrollment, and impact criteria.",
+  "value": "Global monetary prize for the selected student",
+  "sourceUrl": "https://globalteacherprize.org/pages/eligibility-criteria-1",
+  "officialUrl": "https://globalteacherprize.org/pages/eligibility-criteria-1",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

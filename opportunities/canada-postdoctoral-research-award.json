@@ -1,0 +1,26 @@
+{
+  "id": "canada-postdoctoral-research-award",
+  "provider": "Government of Canada",
+  "title": "Canada Postdoctoral Research Award",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The harmonized federal award funds postdoctoral research across health, natural sciences, engineering, social sciences, and humanities.",
+  "eligibility": "Applicants must meet the current degree timing, position, agency, research, and application requirements.",
+  "value": "Two-year postdoctoral research award",
+  "sourceUrl": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program",
+  "officialUrl": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

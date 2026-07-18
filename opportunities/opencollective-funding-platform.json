@@ -1,0 +1,25 @@
+{
+  "id": "opencollective-funding-platform",
+  "provider": "Open Collective",
+  "title": "Open Collective",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Open Collective helps transparent groups and open-source projects collect and manage money through a fiscal host or independent entity.",
+  "eligibility": "Collectives must select an available fiscal setup and comply with host, payment, and transparency requirements.",
+  "value": "Transparent donations, sponsorships, budgets, and expense management",
+  "sourceUrl": "https://opencollective.com/",
+  "officialUrl": "https://opencollective.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

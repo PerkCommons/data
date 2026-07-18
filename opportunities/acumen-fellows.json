@@ -1,0 +1,25 @@
+{
+  "id": "acumen-fellows",
+  "provider": "Acumen Academy",
+  "title": "Acumen Fellows Program",
+  "category": "fellowships",
+  "subcategories": [
+    "entrepreneurship-fellowships"
+  ],
+  "tags": [
+    "entrepreneurship",
+    "founders"
+  ],
+  "description": "Acumen Fellows Program is an entrepreneurship fellowship administered by Acumen Academy.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Founder development, mentoring, peer network, and program-specific funding or support",
+  "sourceUrl": "https://acumenacademy.org/fellowship/",
+  "officialUrl": "https://acumenacademy.org/fellowship/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

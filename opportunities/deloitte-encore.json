@@ -1,0 +1,26 @@
+{
+  "id": "deloitte-encore",
+  "provider": "Deloitte",
+  "title": "Encore Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "returnships",
+    "traineeships"
+  ],
+  "tags": [
+    "returnships",
+    "career-reentry"
+  ],
+  "description": "Encore Program is a structured return-to-work program for experienced professionals after a career break administered by Deloitte.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Re-entry training, paid project work, mentoring, and potential pathways to continuing roles",
+  "sourceUrl": "https://www.deloitte.com/us/en/careers/join-deloitte/encore-program.html",
+  "officialUrl": "https://www.deloitte.com/us/en/careers/join-deloitte/encore-program.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

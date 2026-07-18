@@ -1,0 +1,30 @@
+{
+  "id": "aws-activate-upwind",
+  "provider": "Upwind",
+  "title": "Startups of the Future Need the Future of Security: Runtime + Realtime by Upwind Security.",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "security-compliance",
+    "aws-marketplace-offer",
+    "global-startup-program"
+  ],
+  "description": "Protect what matters as it runs. Upwind delivers real-time, runtime-first cloud security designed for startups fast-moving, cloud-native teams. Gain deep context, catch threats instantly, and secure your entire environment without slowing innovation.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Startups of the Future Need the Future of Security: Runtime + Realtime by Upwind Security.",
+  "sourceUrl": "https://startups.aws.com/offers/upwind",
+  "officialUrl": "https://startups.aws.com/offers/upwind",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

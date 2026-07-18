@@ -1,0 +1,26 @@
+{
+  "id": "linkedin-reach",
+  "provider": "LinkedIn",
+  "title": "REACH Apprenticeship Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "apprenticeships",
+    "traineeships"
+  ],
+  "tags": [
+    "apprenticeships",
+    "career-change"
+  ],
+  "description": "REACH Apprenticeship Program is a structured apprenticeship or career-entry training program administered by LinkedIn.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Paid or supported work-based training and role-specific professional experience",
+  "sourceUrl": "https://careers.linkedin.com/reach",
+  "officialUrl": "https://careers.linkedin.com/reach",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

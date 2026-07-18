@@ -1,0 +1,25 @@
+{
+  "id": "google-tpu-research-cloud",
+  "provider": "Google",
+  "title": "TPU Research Cloud",
+  "category": "research-opportunities",
+  "subcategories": [
+    "compute-credits"
+  ],
+  "tags": [
+    "research-compute",
+    "cloud-credits"
+  ],
+  "description": "TPU Research Cloud is a compute-access or cloud-credit program intended to support eligible research workloads administered by Google.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Cloud, accelerator, or high-performance-computing resources under program-specific limits",
+  "sourceUrl": "https://sites.research.google/trc/about/",
+  "officialUrl": "https://sites.research.google/trc/about/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

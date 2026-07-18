@@ -1,0 +1,30 @@
+{
+  "id": "aws-activate-ptc",
+  "provider": "PTC",
+  "title": "Onshape Program for Startups and Entrepreneurs",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "developer-tooling",
+    "analytics-observability",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "engineering"
+  ],
+  "description": "Are you a fast-moving, high-tech startup eager to modernize the product development process across global teams? Discover how the Onshape Startup Program offered at no cost by PTC, AWS strategic partner in product engineering, can help you design better products faster, eliminate bottlenecks earlier, streamline collaboration, and save precious time and money. Onshape, is the only cloud-native product development platform that is built on AWS and delivers full-featured CAD, rendering, simulation,",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Onshape Program for Startups and Entrepreneurs",
+  "sourceUrl": "https://startups.aws.com/offers/ptc",
+  "officialUrl": "https://startups.aws.com/offers/ptc",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

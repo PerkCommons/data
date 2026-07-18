@@ -1,0 +1,25 @@
+{
+  "id": "global-health-corps-fellowship",
+  "provider": "Global Health Corps",
+  "title": "Africa Leadership Accelerator",
+  "category": "fellowships",
+  "subcategories": [
+    "social-impact-fellowships"
+  ],
+  "tags": [
+    "social-impact",
+    "leadership"
+  ],
+  "description": "Africa Leadership Accelerator is a social-impact leadership fellowship administered by Global Health Corps.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Leadership development, mentoring, community, and program-specific project support",
+  "sourceUrl": "https://ghcorps.org/africa-leadership-accelerator-overview/",
+  "officialUrl": "https://ghcorps.org/africa-leadership-accelerator-overview/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

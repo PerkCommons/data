@@ -1,0 +1,26 @@
+{
+  "id": "aws-build-accelerator",
+  "provider": "Amazon Web Services",
+  "title": "AWS Build Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "startup-accelerators",
+    "pre-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "AWS Build Accelerator is an early-stage founder program from Amazon Web Services that helps participants validate, launch, or accelerate a startup.",
+  "eligibility": "Founders must meet the current company-stage, team, geography, commitment, and selection requirements.",
+  "value": "Structured early-stage support, mentoring, and founder resources",
+  "sourceUrl": "https://aws.amazon.com/startups/accelerators/",
+  "officialUrl": "https://aws.amazon.com/startups/accelerators/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arxiv-submission-access",
+  "provider": "arXiv",
+  "title": "arXiv Submission Access",
+  "category": "research-opportunities",
+  "subcategories": [
+    "publication-support"
+  ],
+  "tags": [
+    "publishing",
+    "open-access"
+  ],
+  "description": "arXiv Submission Access is a publication-support, fee-waiver, or research-communication program for eligible authors administered by arXiv.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Publishing guidance, access support, fee assistance, or research dissemination infrastructure",
+  "sourceUrl": "https://info.arxiv.org/help/submit/index.html",
+  "officialUrl": "https://info.arxiv.org/help/submit/index.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

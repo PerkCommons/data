@@ -1,0 +1,26 @@
+{
+  "id": "software-carpentry-workshops",
+  "provider": "The Carpentries",
+  "title": "Software Carpentry Workshops",
+  "category": "education-training",
+  "subcategories": [
+    "workshops",
+    "courses"
+  ],
+  "tags": [
+    "workshops",
+    "practical-learning"
+  ],
+  "description": "Software Carpentry Workshops is a practical workshop program with guided, hands-on learning materials or sessions administered by The Carpentries.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Hands-on instruction, reusable workshop materials, and guided practice",
+  "sourceUrl": "https://software-carpentry.org/workshops/",
+  "officialUrl": "https://software-carpentry.org/workshops/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

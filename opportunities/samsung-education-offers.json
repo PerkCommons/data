@@ -1,0 +1,26 @@
+{
+  "id": "samsung-education-offers",
+  "provider": "Samsung",
+  "title": "Samsung Education Offers Program",
+  "category": "student-benefits",
+  "subcategories": [
+    "hardware-discounts"
+  ],
+  "tags": [
+    "students",
+    "education-pricing",
+    "hardware"
+  ],
+  "description": "Samsung's education purchasing program provides eligible students and educators with special pricing on selected hardware and related products.",
+  "eligibility": "Eligible students or educators who satisfy the provider's current verification, product, and regional requirements.",
+  "value": "Education offers provide eligible students and educators with savings on selected Samsung products.",
+  "sourceUrl": "https://www.samsung.com/us/shop/offer-program/education/",
+  "officialUrl": "https://www.samsung.com/us/shop/offer-program/education/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "US"
+  ]
+}

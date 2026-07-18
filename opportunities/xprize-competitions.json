@@ -1,0 +1,24 @@
+{
+  "id": "xprize-competitions",
+  "provider": "XPRIZE Foundation",
+  "title": "XPRIZE Competitions",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "XPRIZE runs large incentive competitions that award teams for achieving defined technical or social-impact goals.",
+  "eligibility": "Teams must register for a current prize and meet its rules, milestones, and judging requirements.",
+  "value": "Prize purse varies by active competition",
+  "sourceUrl": "https://www.xprize.org/prizes",
+  "officialUrl": "https://www.xprize.org/prizes",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "github-student-pack-honeybadger",
+  "provider": "Honeybadger",
+  "title": "Honeybadger Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "security-analytics"
+  ],
+  "description": "The web developer&#39;s secret weapon: exception, uptime, and cron monitoring that&#39;s so awesome, you&#39;ll wish your site had more errors.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free Small account for 1 year.",
+  "sourceUrl": "https://education.github.com/pack#honeybadger",
+  "officialUrl": "https://education.github.com/pack#honeybadger",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

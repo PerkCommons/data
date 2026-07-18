@@ -1,0 +1,25 @@
+{
+  "id": "belfer-technology-geopolitics-fellowship",
+  "provider": "Harvard Kennedy School Belfer Center",
+  "title": "Technology and Geopolitics Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "policy-fellowships"
+  ],
+  "tags": [
+    "policy",
+    "public-interest"
+  ],
+  "description": "Technology and Geopolitics Fellowship is a policy fellowship administered by Harvard Kennedy School Belfer Center.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Policy placement, research time, training, mentoring, or a program-specific stipend",
+  "sourceUrl": "https://www.belfercenter.org/fellowship/technology-and-geopolitics",
+  "officialUrl": "https://www.belfercenter.org/fellowship/technology-and-geopolitics",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

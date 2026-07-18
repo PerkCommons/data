@@ -1,0 +1,25 @@
+{
+  "id": "social-change-initiative-fellowship",
+  "provider": "Social Change Initiative",
+  "title": "Fellowship Programme",
+  "category": "fellowships",
+  "subcategories": [
+    "social-impact-fellowships"
+  ],
+  "tags": [
+    "social-impact",
+    "leadership"
+  ],
+  "description": "Fellowship Programme is a social-impact leadership fellowship administered by Social Change Initiative.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Leadership development, mentoring, community, and program-specific project support",
+  "sourceUrl": "https://www.socialchangeinitiative.com/fellowships",
+  "officialUrl": "https://www.socialchangeinitiative.com/fellowships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

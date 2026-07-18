@@ -1,0 +1,26 @@
+{
+  "id": "morgan-stanley-return-to-work",
+  "provider": "Morgan Stanley",
+  "title": "Return to Work Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "returnships",
+    "traineeships"
+  ],
+  "tags": [
+    "returnships",
+    "career-reentry"
+  ],
+  "description": "Return to Work Program is a structured return-to-work program for experienced professionals after a career break administered by Morgan Stanley.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Re-entry training, paid project work, mentoring, and potential pathways to continuing roles",
+  "sourceUrl": "https://www.morganstanley.com/people-opportunities/return-to-work",
+  "officialUrl": "https://www.morganstanley.com/people-opportunities/return-to-work",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

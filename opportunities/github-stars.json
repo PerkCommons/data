@@ -1,0 +1,25 @@
+{
+  "id": "github-stars",
+  "provider": "GitHub",
+  "title": "GitHub Stars",
+  "category": "developer-programs",
+  "subcategories": [
+    "ambassador-programs"
+  ],
+  "tags": [
+    "developers",
+    "ambassador"
+  ],
+  "description": "GitHub Stars recognizes experienced technical community contributors and provides resources for advocacy, education, and peer support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Community recognition, program resources, and contributor opportunities",
+  "sourceUrl": "https://stars.github.com/",
+  "officialUrl": "https://stars.github.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

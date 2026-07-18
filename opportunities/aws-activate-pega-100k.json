@@ -1,0 +1,30 @@
+{
+  "id": "aws-activate-pega-100k",
+  "provider": "Pega",
+  "title": "Launchpad.io | Up to $100K Launchpad.io Units",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "developer-tooling"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "engineering",
+    "devops"
+  ],
+  "description": "For every dollar in AWS Activate credits a startup receives, Launchpad.io will provide a 1:1 match in Launchpad.io units - up to $100,000 - to use within 12 months from sign-up date. For example, a startup receiving $5,000 in AWS credits would also receive $5,000 in Launchpad.io units.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Launchpad.io | Up to $100K Launchpad.io Units",
+  "sourceUrl": "https://startups.aws.com/offers/pega-100k",
+  "officialUrl": "https://startups.aws.com/offers/pega-100k",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

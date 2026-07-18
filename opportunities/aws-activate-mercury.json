@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-mercury",
+  "provider": "mercury",
+  "title": "Get $750 free when you deposit $50k within 90 days",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "banking-finance"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "banking",
+    "finance"
+  ],
+  "description": "Mercury is the fintech ambitious companies use for banking and all their financial workflows. With a powerful bank account at the center of their operations, companies can make better financial decisions.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Get $750 free when you deposit $50k within 90 days",
+  "sourceUrl": "https://startups.aws.com/offers/mercury",
+  "officialUrl": "https://startups.aws.com/offers/mercury",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

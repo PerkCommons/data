@@ -1,0 +1,26 @@
+{
+  "id": "slush-100",
+  "provider": "Slush",
+  "title": "Slush 100",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "startup-competitions",
+    "pitch-competitions"
+  ],
+  "tags": [
+    "startups",
+    "pitch"
+  ],
+  "description": "Slush 100 is a startup competition from Slush in which selected founders pitch their ventures to judges, investors, or a conference audience.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Pitch exposure and competition-specific funding, prizes, or investor access",
+  "sourceUrl": "https://slush.org/audience/startups/startups",
+  "officialUrl": "https://slush.org/audience/startups/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

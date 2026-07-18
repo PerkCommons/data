@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-clerk",
+  "provider": "Clerk",
+  "title": "Clerk Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "infrastructure-apis",
+    "developer-tools"
+  ],
+  "description": "Clerk provides authentication, user management, billing, and much more. Flexible APIs and prebuilt components allow you to launch SaaS billing apps and B2B auth quickly and securely.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free Pro plan while you&#39;re a student.",
+  "sourceUrl": "https://education.github.com/pack#clerk",
+  "officialUrl": "https://education.github.com/pack#clerk",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

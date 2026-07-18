@@ -1,0 +1,25 @@
+{
+  "id": "assemblyai-developer-free-tier",
+  "provider": "AssemblyAI",
+  "title": "AssemblyAI Developer Free Tier",
+  "category": "developer-programs",
+  "subcategories": [
+    "api-credits"
+  ],
+  "tags": [
+    "developers",
+    "api"
+  ],
+  "description": "AssemblyAI Developer Free Tier provides developers with free usage, credits, or a no-cost allowance for building with the provider's APIs.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Developer API credits or free usage under current limits",
+  "sourceUrl": "https://www.assemblyai.com/pricing",
+  "officialUrl": "https://www.assemblyai.com/pricing",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

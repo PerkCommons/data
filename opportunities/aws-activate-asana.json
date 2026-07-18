@@ -1,0 +1,27 @@
+{
+  "id": "aws-activate-asana",
+  "provider": "Asana",
+  "title": "90% off of an Asana Annual Subscription",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "productivity",
+    "crm"
+  ],
+  "description": "One hub to manage work and scale your startup. Sign up now to take advantag e of 90% off of Asana Starter or Advanced annual subscriptions for your first year, to help you organize work in one place, so you have more focus time, more collaboration, and more opportunities to grow.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "90% off of an Asana Annual Subscription",
+  "sourceUrl": "https://startups.aws.com/offers/asana",
+  "officialUrl": "https://startups.aws.com/offers/asana",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

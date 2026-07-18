@@ -1,0 +1,32 @@
+{
+  "id": "aws-activate-aikido-security",
+  "provider": "Aikido Security",
+  "title": "Aikido for Startups (30% discount)",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "developer-tooling",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "security-compliance",
+    "engineering",
+    "global-startup-program"
+  ],
+  "description": "Aikido Security is the developer-first application security platform for cloud-native startups, helping teams secure code, cloud, containers, runtime, APIs, and AI-generated development workflows in one unified platform. Designed for fast-moving engineering teams, Aikido reduces security tool sprawl, cuts alert noise, and helps developers ship secure software faster without slowing innovation. Aikido for Startups provides eligible AWS Startup customers with exclusive benefits:",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Aikido for Startups (30% discount)",
+  "sourceUrl": "https://startups.aws.com/offers/aikido-security",
+  "officialUrl": "https://startups.aws.com/offers/aikido-security",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

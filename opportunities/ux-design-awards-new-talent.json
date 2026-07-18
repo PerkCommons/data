@@ -1,0 +1,25 @@
+{
+  "id": "ux-design-awards-new-talent",
+  "provider": "International Design Center Berlin",
+  "title": "UX Design Awards New Talent",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "design-competitions"
+  ],
+  "tags": [
+    "design",
+    "awards"
+  ],
+  "description": "UX Design Awards New Talent is a recurring design competition from International Design Center Berlin that accepts work under its current disciplines and entry rules.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Jury review, recognition, showcase, and competition-specific awards",
+  "sourceUrl": "https://ux-design-awards.com/enter",
+  "officialUrl": "https://ux-design-awards.com/enter",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-student-pack-appfigures",
+  "provider": "Appfigures",
+  "title": "Appfigures Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "marketing"
+  ],
+  "description": "App Store analytics, optimization, and intelligence.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "\"Free access to universal analytics and performance reports for one year.",
+  "sourceUrl": "https://education.github.com/pack#appfigures",
+  "officialUrl": "https://education.github.com/pack#appfigures",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

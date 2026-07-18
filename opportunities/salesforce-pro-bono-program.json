@@ -1,0 +1,25 @@
+{
+  "id": "salesforce-pro-bono-program",
+  "provider": "Salesforce",
+  "title": "Salesforce Pro Bono Program",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-consulting"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-consulting"
+  ],
+  "description": "Salesforce Pro Bono Program provides eligible nonprofit or social-impact organizations with nonprofit consulting under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Salesforce employee expertise for eligible nonprofit implementation and technology projects.",
+  "sourceUrl": "https://www.salesforce.org/pro-bono-program/",
+  "officialUrl": "https://www.salesforce.org/pro-bono-program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

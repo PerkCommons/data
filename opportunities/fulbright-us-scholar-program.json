@@ -1,0 +1,26 @@
+{
+  "id": "fulbright-us-scholar-program",
+  "provider": "Fulbright Scholar Program",
+  "title": "Fulbright U.S. Scholar Program",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Awards support eligible U.S. scholars and professionals teaching or conducting research abroad.",
+  "eligibility": "Applicants must meet the citizenship, experience, discipline, destination, and award-specific criteria.",
+  "value": "Funded international teaching or research award",
+  "sourceUrl": "https://fulbrightscholars.org/us-scholar-awards",
+  "officialUrl": "https://fulbrightscholars.org/us-scholar-awards",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

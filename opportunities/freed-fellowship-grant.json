@@ -1,0 +1,26 @@
+{
+  "id": "freed-fellowship-grant",
+  "provider": "The Freed Fellowship",
+  "title": "Freed Fellowship Grant",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Monthly grants and feedback support selected small-business owners.",
+  "eligibility": "Small-business owners must submit the current application and meet the organizer's terms.",
+  "value": "Monthly business microgrant and feedback",
+  "sourceUrl": "https://www.freedfellowship.com/grant",
+  "officialUrl": "https://www.freedfellowship.com/grant",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

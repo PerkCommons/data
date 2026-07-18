@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-browserstack",
+  "provider": "BrowserStack",
+  "title": "BrowserStack Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "hardware-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools"
+  ],
+  "description": "Test your web apps with BrowserStack&#39;s Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free Automate Mobile Plan for 1 parallel and 1 user for 1 year.",
+  "sourceUrl": "https://education.github.com/pack#browserstack",
+  "officialUrl": "https://education.github.com/pack#browserstack",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "paypal-nonprofit-rates",
+  "provider": "PayPal",
+  "title": "PayPal Nonprofit Payment Rates",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "fundraising-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "fundraising-tools"
+  ],
+  "description": "PayPal Nonprofit Payment Rates provides eligible nonprofit or social-impact organizations with nonprofit discounts, fundraising tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Nonprofit payment-processing rates and donation tools for confirmed charitable organizations.",
+  "sourceUrl": "https://www.paypal.com/us/business/charity-nonprofit-solutions",
+  "officialUrl": "https://www.paypal.com/us/business/charity-nonprofit-solutions",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

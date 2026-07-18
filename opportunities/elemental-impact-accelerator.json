@@ -1,0 +1,26 @@
+{
+  "id": "elemental-impact-accelerator",
+  "provider": "Elemental Impact",
+  "title": "Elemental Portfolio Program",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "climate-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Elemental Portfolio Program is an accelerator from Elemental Impact for ventures developing climate, sustainability, or environmental-impact solutions.",
+  "eligibility": "Ventures must meet the current climate focus, company stage, technology, geography, and cohort requirements.",
+  "value": "Climate venture mentoring, partnerships, technical support, and program-specific funding",
+  "sourceUrl": "https://elementalimpact.com/apply/",
+  "officialUrl": "https://elementalimpact.com/apply/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "salesforce-power-of-us",
+  "provider": "Salesforce",
+  "title": "Salesforce Power of Us Program",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "fundraising-tools",
+    "productivity-tools",
+    "nonprofit-consulting"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "fundraising-tools",
+    "productivity-tools",
+    "nonprofit-consulting"
+  ],
+  "description": "Salesforce Power of Us Program provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, cloud credits, fundraising tools, productivity tools, nonprofit consulting under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Donated or discounted Salesforce nonprofit technology, learning resources, and ecosystem support.",
+  "sourceUrl": "https://www.salesforce.org/nonprofit/",
+  "officialUrl": "https://www.salesforce.org/nonprofit/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

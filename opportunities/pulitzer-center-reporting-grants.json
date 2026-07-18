@@ -1,0 +1,25 @@
+{
+  "id": "pulitzer-center-reporting-grants",
+  "provider": "Pulitzer Center",
+  "title": "Reporting Grants",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Reporting grants support journalists pursuing consequential stories across the Pulitzer Center's focus areas.",
+  "eligibility": "Journalists and newsrooms must apply to a current opportunity and meet its editorial and geographic criteria.",
+  "value": "Reporting expenses and editorial support",
+  "sourceUrl": "https://pulitzercenter.org/opportunities/reporting-grants-fellowships",
+  "officialUrl": "https://pulitzercenter.org/opportunities/reporting-grants-fellowships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

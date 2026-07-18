@@ -1,0 +1,26 @@
+{
+  "id": "aicrowd-challenges",
+  "provider": "AIcrowd",
+  "title": "AIcrowd Challenges",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "online-hackathons",
+    "data-science-competitions"
+  ],
+  "tags": [
+    "data-science",
+    "online"
+  ],
+  "description": "AIcrowd Challenges provides online data-science, machine-learning, or algorithmic challenges through AIcrowd.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Challenge datasets, benchmarking, community participation, and competition-specific prizes",
+  "sourceUrl": "https://www.aicrowd.com/challenges",
+  "officialUrl": "https://www.aicrowd.com/challenges",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ucf-knight-shadow",
+  "provider": "University of Central Florida",
+  "title": "Knight Shadow Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "externships",
+    "job-shadowing-programs"
+  ],
+  "tags": [
+    "job-shadowing",
+    "career-exploration"
+  ],
+  "description": "Knight Shadow Program is a short-term job-shadow or externship program administered by University of Central Florida.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Workplace observation, career exploration, and professional networking",
+  "sourceUrl": "https://career.ucf.edu/experiential-opportunities/",
+  "officialUrl": "https://career.ucf.edu/experiential-opportunities/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

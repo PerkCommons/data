@@ -1,0 +1,26 @@
+{
+  "id": "ias-memberships",
+  "provider": "Institute for Advanced Study",
+  "title": "Memberships and Visiting Positions",
+  "category": "research-opportunities",
+  "subcategories": [
+    "visiting-researcher-programs",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "visiting-researchers"
+  ],
+  "description": "Memberships and Visiting Positions is a visiting-researcher or visiting-scholar program offering access to a research community or facility administered by Institute for Advanced Study.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research affiliation, collaboration, facilities, and program-specific financial support",
+  "sourceUrl": "https://www.ias.edu/apply",
+  "officialUrl": "https://www.ias.edu/apply",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

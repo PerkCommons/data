@@ -1,0 +1,26 @@
+{
+  "id": "nato-internship-programme",
+  "provider": "NATO",
+  "title": "NATO Internship Programme",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "internships",
+    "project-based-experience"
+  ],
+  "tags": [
+    "internships",
+    "early-career"
+  ],
+  "description": "NATO Internship Programme is a structured internship program administered by NATO.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Supervised professional projects, learning, and program-specific compensation or support",
+  "sourceUrl": "https://www.nato.int/cps/en/natohq/71157.htm",
+  "officialUrl": "https://www.nato.int/cps/en/natohq/71157.htm",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

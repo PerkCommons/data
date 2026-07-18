@@ -1,0 +1,26 @@
+{
+  "id": "inspire-brands-spark-accelerator",
+  "provider": "Inspire Brands Foundation",
+  "title": "SPARK Nonprofit Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "nonprofit-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "SPARK Nonprofit Accelerator is a capacity-building accelerator from Inspire Brands Foundation for nonprofits, NGOs, or other mission-driven organizations working toward measurable social impact.",
+  "eligibility": "Mission-driven organizations must satisfy the current legal-status, impact, stage, location, and cohort requirements.",
+  "value": "Cohort training, expert support, peer learning, and program-specific resources",
+  "sourceUrl": "https://foundation.inspirebrands.com/spark-apply/",
+  "officialUrl": "https://foundation.inspirebrands.com/spark-apply/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

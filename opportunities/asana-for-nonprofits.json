@@ -1,0 +1,29 @@
+{
+  "id": "asana-for-nonprofits",
+  "provider": "Asana",
+  "title": "Asana for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Asana for Nonprofits provides eligible nonprofit or social-impact organizations with nonprofit discounts, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Discounted Asana work-management plans and nonprofit-focused resources under current terms.",
+  "sourceUrl": "https://asana.com/industry/nonprofit",
+  "officialUrl": "https://asana.com/industry/nonprofit",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

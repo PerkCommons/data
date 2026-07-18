@@ -1,0 +1,25 @@
+{
+  "id": "young-leaders-for-sdgs",
+  "provider": "United Nations",
+  "title": "Young Leaders for the Sustainable Development Goals",
+  "category": "fellowships",
+  "subcategories": [
+    "social-impact-fellowships"
+  ],
+  "tags": [
+    "social-impact",
+    "leadership"
+  ],
+  "description": "Young Leaders for the Sustainable Development Goals is a social-impact leadership fellowship administered by United Nations.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Leadership development, mentoring, community, and program-specific project support",
+  "sourceUrl": "https://www.un.org/youthenvoy/young-leaders-for-the-sdgs/",
+  "officialUrl": "https://www.un.org/youthenvoy/young-leaders-for-the-sdgs/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

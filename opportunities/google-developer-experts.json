@@ -1,0 +1,25 @@
+{
+  "id": "google-developer-experts",
+  "provider": "Google",
+  "title": "Google Developer Experts",
+  "category": "developer-programs",
+  "subcategories": [
+    "ambassador-programs"
+  ],
+  "tags": [
+    "developers",
+    "ambassador"
+  ],
+  "description": "Google Developer Experts recognizes experienced technical community contributors and provides resources for advocacy, education, and peer support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Community recognition, program resources, and contributor opportunities",
+  "sourceUrl": "https://developers.google.com/community/experts",
+  "officialUrl": "https://developers.google.com/community/experts",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

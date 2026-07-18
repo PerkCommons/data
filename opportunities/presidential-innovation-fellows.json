@@ -1,0 +1,25 @@
+{
+  "id": "presidential-innovation-fellows",
+  "provider": "U.S. General Services Administration",
+  "title": "Presidential Innovation Fellows",
+  "category": "fellowships",
+  "subcategories": [
+    "policy-fellowships"
+  ],
+  "tags": [
+    "policy",
+    "public-interest"
+  ],
+  "description": "Presidential Innovation Fellows is a policy fellowship administered by U.S. General Services Administration.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Policy placement, research time, training, mentoring, or a program-specific stipend",
+  "sourceUrl": "https://presidentialinnovationfellows.gov/",
+  "officialUrl": "https://presidentialinnovationfellows.gov/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

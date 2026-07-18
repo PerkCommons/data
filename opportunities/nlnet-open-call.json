@@ -1,0 +1,27 @@
+{
+  "id": "nlnet-open-call",
+  "provider": "NLnet Foundation",
+  "title": "NLnet Open Call",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support",
+    "developer-grants"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "NLnet Open Call funds or supports selected open-source developers, maintainers, and public-interest technology projects.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Grant funding or structured maintainer support subject to selection",
+  "sourceUrl": "https://nlnet.nl/propose/",
+  "officialUrl": "https://nlnet.nl/propose/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

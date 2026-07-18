@@ -1,0 +1,26 @@
+{
+  "id": "ysa-youth-service-zone-grants",
+  "provider": "Youth Service America",
+  "title": "Youth Service Grants",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Youth Service America publishes grant opportunities for youth-led service and community projects.",
+  "eligibility": "Young people, educators, and organizations must meet the requirements of the current grant call.",
+  "value": "Small grant for an eligible youth-led service project",
+  "sourceUrl": "https://ysa.org/grants/",
+  "officialUrl": "https://ysa.org/grants/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

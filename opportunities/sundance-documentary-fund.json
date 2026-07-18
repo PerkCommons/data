@@ -1,0 +1,25 @@
+{
+  "id": "sundance-documentary-fund",
+  "provider": "Sundance Institute",
+  "title": "Documentary Fund",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The Documentary Fund supports nonfiction filmmakers through development, production, and post-production grants.",
+  "eligibility": "Independent nonfiction projects must meet the current application stage, creative, and eligibility criteria.",
+  "value": "Documentary project grant and creative support",
+  "sourceUrl": "https://www.sundance.org/programs/documentary-film/",
+  "officialUrl": "https://www.sundance.org/programs/documentary-film/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

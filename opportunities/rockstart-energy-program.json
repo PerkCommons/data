@@ -1,0 +1,26 @@
+{
+  "id": "rockstart-energy-program",
+  "provider": "Rockstart",
+  "title": "Energy Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "climate-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Energy Accelerator is an accelerator from Rockstart for ventures developing climate, sustainability, or environmental-impact solutions.",
+  "eligibility": "Ventures must meet the current climate focus, company stage, technology, geography, and cohort requirements.",
+  "value": "Climate venture mentoring, partnerships, technical support, and program-specific funding",
+  "sourceUrl": "https://rockstart.com/energy/",
+  "officialUrl": "https://rockstart.com/energy/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

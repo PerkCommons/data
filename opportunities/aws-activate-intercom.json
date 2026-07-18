@@ -1,0 +1,29 @@
+{
+  "id": "aws-activate-intercom",
+  "provider": "Intercom",
+  "title": "Intercom for startups (for free)",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "customer-support-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "communication",
+    "sales-marketing"
+  ],
+  "description": "Join our Startup Partner Program to receive 12 months free on Intercom’s complete AI-first customer service platform. Nurture genuine relationships and build a scalable automated support infrastructure.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Intercom for startups (for free)",
+  "sourceUrl": "https://startups.aws.com/offers/intercom",
+  "officialUrl": "https://startups.aws.com/offers/intercom",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

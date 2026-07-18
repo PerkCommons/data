@@ -1,0 +1,26 @@
+{
+  "id": "global-greengrants-fund",
+  "provider": "Global Greengrants Fund",
+  "title": "Grassroots Environmental Grants",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Small grants support grassroots environmental justice organizations and movements around the world.",
+  "eligibility": "Grassroots groups are identified through the fund's regional adviser networks rather than an open global application.",
+  "value": "Flexible small grant for selected grassroots environmental work",
+  "sourceUrl": "https://www.greengrants.org/what-we-do/grantmaking/",
+  "officialUrl": "https://www.greengrants.org/what-we-do/grantmaking/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

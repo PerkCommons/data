@@ -1,0 +1,26 @@
+{
+  "id": "microsoft-leap",
+  "provider": "Microsoft",
+  "title": "Microsoft Leap",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "apprenticeships",
+    "traineeships"
+  ],
+  "tags": [
+    "apprenticeships",
+    "career-change"
+  ],
+  "description": "Microsoft Leap is a structured apprenticeship or career-entry training program administered by Microsoft.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Paid or supported work-based training and role-specific professional experience",
+  "sourceUrl": "https://leap.microsoft.com/",
+  "officialUrl": "https://leap.microsoft.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

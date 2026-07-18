@@ -1,0 +1,26 @@
+{
+  "id": "atlassian-open-source-license",
+  "provider": "Atlassian",
+  "title": "Atlassian Open Source License",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "Atlassian Open Source License provides eligible open-source projects and maintainers with software, infrastructure, services, or operational support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Open-source project support under current program terms",
+  "sourceUrl": "https://www.atlassian.com/software/views/open-source-license-request",
+  "officialUrl": "https://www.atlassian.com/software/views/open-source-license-request",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "nih-dbgap",
+  "provider": "National Institutes of Health",
+  "title": "Database of Genotypes and Phenotypes",
+  "category": "research-opportunities",
+  "subcategories": [
+    "dataset-access"
+  ],
+  "tags": [
+    "research-data",
+    "datasets"
+  ],
+  "description": "Database of Genotypes and Phenotypes is an official research-data access program or repository with datasets available under its stated access conditions administered by National Institutes of Health.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Access to curated datasets, documentation, and research-use infrastructure",
+  "sourceUrl": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/about.html",
+  "officialUrl": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/about.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

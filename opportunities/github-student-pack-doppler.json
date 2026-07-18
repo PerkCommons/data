@@ -1,0 +1,30 @@
+{
+  "id": "github-student-pack-doppler",
+  "provider": "Doppler",
+  "title": "Doppler Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "student-memberships"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "infrastructure-apis",
+    "security-analytics",
+    "developer-tools"
+  ],
+  "description": "A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free Doppler Team subscription while the user is an active student.",
+  "sourceUrl": "https://education.github.com/pack#doppler",
+  "officialUrl": "https://education.github.com/pack#doppler",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

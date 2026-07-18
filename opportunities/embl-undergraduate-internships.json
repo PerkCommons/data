@@ -1,0 +1,27 @@
+{
+  "id": "embl-undergraduate-internships",
+  "provider": "European Molecular Biology Laboratory",
+  "title": "Undergraduate Internships",
+  "category": "research-opportunities",
+  "subcategories": [
+    "research-internships",
+    "research-assistantships",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "internships"
+  ],
+  "description": "Undergraduate Internships is a supervised research internship with project work in an academic or scientific environment administered by European Molecular Biology Laboratory.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research experience, supervision, and program-specific funding or support",
+  "sourceUrl": "https://www.embl.org/about/info/undergraduates/",
+  "officialUrl": "https://www.embl.org/about/info/undergraduates/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

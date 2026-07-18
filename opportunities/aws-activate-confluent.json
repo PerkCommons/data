@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-confluent",
+  "provider": "Confluent",
+  "title": "Up to $20,000 in Confluent Cloud credits",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "analytics-observability"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "analytics"
+  ],
+  "description": "The Confluent for Startups program combines up to one year of Confluent Cloud alongside technical help to get you up and running with our simple, fully-managed service.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Up to $20,000 in Confluent Cloud credits",
+  "sourceUrl": "https://startups.aws.com/offers/confluent",
+  "officialUrl": "https://startups.aws.com/offers/confluent",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

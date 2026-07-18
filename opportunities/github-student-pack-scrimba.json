@@ -1,0 +1,30 @@
+{
+  "id": "github-student-pack-scrimba",
+  "provider": "Scrimba",
+  "title": "Scrimba Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "learn",
+    "developer-tools"
+  ],
+  "description": "Scrimba is an interactive learning platform for frontend developers.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro...",
+  "sourceUrl": "https://education.github.com/pack#scrimba",
+  "officialUrl": "https://education.github.com/pack#scrimba",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

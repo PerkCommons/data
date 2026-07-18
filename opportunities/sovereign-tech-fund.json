@@ -1,0 +1,27 @@
+{
+  "id": "sovereign-tech-fund",
+  "provider": "Sovereign Tech Agency",
+  "title": "Sovereign Tech Fund",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support",
+    "developer-grants"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "Sovereign Tech Fund funds or supports selected open-source developers, maintainers, and public-interest technology projects.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Grant funding or structured maintainer support subject to selection",
+  "sourceUrl": "https://www.sovereign.tech/programs/fund",
+  "officialUrl": "https://www.sovereign.tech/programs/fund",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

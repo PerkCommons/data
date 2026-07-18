@@ -1,0 +1,26 @@
+{
+  "id": "nvidia-developer-program",
+  "provider": "NVIDIA",
+  "title": "NVIDIA Developer Program",
+  "category": "developer-programs",
+  "subcategories": [
+    "developer-preview-programs",
+    "beta-access"
+  ],
+  "tags": [
+    "developers",
+    "preview"
+  ],
+  "description": "NVIDIA Developer Program gives developers access to pre-release software, APIs, SDKs, or platform features for testing and compatibility work.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Access to current developer preview or beta releases",
+  "sourceUrl": "https://developer.nvidia.com/developer-program",
+  "officialUrl": "https://developer.nvidia.com/developer-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

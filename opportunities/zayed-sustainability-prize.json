@@ -1,0 +1,24 @@
+{
+  "id": "zayed-sustainability-prize",
+  "provider": "Zayed Sustainability Prize",
+  "title": "Zayed Sustainability Prize",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The prize recognizes organizations and schools delivering sustainable solutions across several impact categories.",
+  "eligibility": "Applicants must meet the category-specific organization, impact, innovation, and submission criteria.",
+  "value": "Monetary prize and global recognition",
+  "sourceUrl": "https://zayedsustainabilityprize.com/",
+  "officialUrl": "https://zayedsustainabilityprize.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

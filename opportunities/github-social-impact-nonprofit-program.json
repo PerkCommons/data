@@ -1,0 +1,33 @@
+{
+  "id": "github-social-impact-nonprofit-program",
+  "provider": "GitHub",
+  "title": "GitHub Social Impact Nonprofit Program",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "cloud-credits",
+    "productivity-tools",
+    "security-tools"
+  ],
+  "description": "GitHub Social Impact Nonprofit Program provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, cloud credits, productivity tools, security tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "GitHub technology and social-impact resources available to eligible nonprofit organizations.",
+  "sourceUrl": "https://socialimpact.github.com/",
+  "officialUrl": "https://socialimpact.github.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

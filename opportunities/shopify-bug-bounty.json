@@ -1,0 +1,25 @@
+{
+  "id": "shopify-bug-bounty",
+  "provider": "Shopify",
+  "title": "Shopify Bug Bounty Program",
+  "category": "developer-programs",
+  "subcategories": [
+    "bug-bounty-programs"
+  ],
+  "tags": [
+    "developers",
+    "bounty"
+  ],
+  "description": "Shopify Bug Bounty Program rewards eligible security researchers for responsibly disclosing qualifying vulnerabilities within the published scope.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Bounty awards for qualifying vulnerability reports",
+  "sourceUrl": "https://hackerone.com/shopify",
+  "officialUrl": "https://hackerone.com/shopify",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

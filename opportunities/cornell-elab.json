@@ -1,0 +1,26 @@
+{
+  "id": "cornell-elab",
+  "provider": "Cornell University",
+  "title": "eLab Student Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "student-incubators",
+    "university-incubators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "eLab Student Accelerator is a university-connected venture program from Cornell University that helps eligible student founders develop and test new ventures.",
+  "eligibility": "Teams must meet the current student or university-affiliation, venture-stage, location, and participation requirements.",
+  "value": "University venture training, mentoring, workspace or funding opportunities",
+  "sourceUrl": "https://www.elabstartup.com/",
+  "officialUrl": "https://www.elabstartup.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-jetbrains",
+  "provider": "JetBrains",
+  "title": "JetBrains Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "student-memberships"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools"
+  ],
+  "description": "Professional desktop IDEs: IntelliJ IDEA, PyCharm, and more.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "A free subscription for students, to be renewed annually.",
+  "sourceUrl": "https://education.github.com/pack#jetbrains",
+  "officialUrl": "https://education.github.com/pack#jetbrains",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

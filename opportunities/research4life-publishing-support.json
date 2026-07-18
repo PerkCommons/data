@@ -1,0 +1,25 @@
+{
+  "id": "research4life-publishing-support",
+  "provider": "Research4Life",
+  "title": "Author and Publishing Resources",
+  "category": "research-opportunities",
+  "subcategories": [
+    "publication-support"
+  ],
+  "tags": [
+    "publishing",
+    "open-access"
+  ],
+  "description": "Author and Publishing Resources is a publication-support, fee-waiver, or research-communication program for eligible authors administered by Research4Life.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Publishing guidance, access support, fee assistance, or research dissemination infrastructure",
+  "sourceUrl": "https://www.research4life.org/training/authorship-skills/",
+  "officialUrl": "https://www.research4life.org/training/authorship-skills/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

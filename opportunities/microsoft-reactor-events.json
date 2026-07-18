@@ -1,0 +1,26 @@
+{
+  "id": "microsoft-reactor-events",
+  "provider": "Microsoft Reactor",
+  "title": "Live Training Events",
+  "category": "education-training",
+  "subcategories": [
+    "workshops",
+    "courses"
+  ],
+  "tags": [
+    "workshops",
+    "practical-learning"
+  ],
+  "description": "Live Training Events is a practical workshop program with guided, hands-on learning materials or sessions administered by Microsoft Reactor.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Hands-on instruction, reusable workshop materials, and guided practice",
+  "sourceUrl": "https://developer.microsoft.com/en-us/reactor/",
+  "officialUrl": "https://developer.microsoft.com/en-us/reactor/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

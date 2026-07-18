@@ -1,0 +1,26 @@
+{
+  "id": "third-derivative-accelerator",
+  "provider": "Third Derivative",
+  "title": "Climate Tech Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "climate-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Climate Tech Accelerator is an accelerator from Third Derivative for ventures developing climate, sustainability, or environmental-impact solutions.",
+  "eligibility": "Ventures must meet the current climate focus, company stage, technology, geography, and cohort requirements.",
+  "value": "Climate venture mentoring, partnerships, technical support, and program-specific funding",
+  "sourceUrl": "https://www.third-derivative.org/startups",
+  "officialUrl": "https://www.third-derivative.org/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

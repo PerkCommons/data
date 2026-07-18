@@ -1,0 +1,31 @@
+{
+  "id": "adobe-nonprofit-program",
+  "provider": "Adobe",
+  "title": "Adobe Nonprofit Program",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Adobe Nonprofit Program provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Adobe nonprofit offers for eligible organizations creating documents, campaigns, and digital content.",
+  "sourceUrl": "https://www.adobe.com/nonprofits.html",
+  "officialUrl": "https://www.adobe.com/nonprofits.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

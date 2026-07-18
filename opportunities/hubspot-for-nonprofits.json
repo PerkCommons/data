@@ -1,0 +1,31 @@
+{
+  "id": "hubspot-for-nonprofits",
+  "provider": "HubSpot",
+  "title": "HubSpot for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "HubSpot for Nonprofits provides eligible nonprofit or social-impact organizations with nonprofit discounts, fundraising tools, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Nonprofit pricing and CRM resources for fundraising, outreach, and supporter management.",
+  "sourceUrl": "https://www.hubspot.com/nonprofits",
+  "officialUrl": "https://www.hubspot.com/nonprofits",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

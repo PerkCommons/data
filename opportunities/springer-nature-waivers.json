@@ -1,0 +1,25 @@
+{
+  "id": "springer-nature-waivers",
+  "provider": "Springer Nature",
+  "title": "Open Access Waivers and Discounts",
+  "category": "research-opportunities",
+  "subcategories": [
+    "publication-support"
+  ],
+  "tags": [
+    "publishing",
+    "open-access"
+  ],
+  "description": "Open Access Waivers and Discounts is a publication-support, fee-waiver, or research-communication program for eligible authors administered by Springer Nature.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Publishing guidance, access support, fee assistance, or research dissemination infrastructure",
+  "sourceUrl": "https://support.springernature.com/en/support/solutions/articles/6000211135",
+  "officialUrl": "https://support.springernature.com/en/support/solutions/articles/6000211135",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

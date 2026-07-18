@@ -1,0 +1,27 @@
+{
+  "id": "techsoup-digital-lift",
+  "provider": "TechSoup",
+  "title": "TechSoup Digital Lift",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-consulting",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-consulting",
+    "productivity-tools"
+  ],
+  "description": "TechSoup Digital Lift provides eligible nonprofit or social-impact organizations with nonprofit consulting, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Technology guidance and digital-capacity support for participating nonprofit organizations.",
+  "sourceUrl": "https://www.techsoup.org/digital-lift",
+  "officialUrl": "https://www.techsoup.org/digital-lift",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

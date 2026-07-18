@@ -1,0 +1,26 @@
+{
+  "id": "circleci-open-source-plan",
+  "provider": "CircleCI",
+  "title": "CircleCI Open Source Plan",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "CircleCI Open Source Plan provides eligible open-source projects and maintainers with software, infrastructure, services, or operational support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Open-source project support under current program terms",
+  "sourceUrl": "https://circleci.com/open-source/",
+  "officialUrl": "https://circleci.com/open-source/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

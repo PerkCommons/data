@@ -1,0 +1,25 @@
+{
+  "id": "issuehunt",
+  "provider": "IssueHunt",
+  "title": "IssueHunt",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "IssueHunt connects funded issues and open-source contributors, allowing work on eligible issues to receive bounties.",
+  "eligibility": "Projects and contributors must use supported repositories and comply with current bounty and payment rules.",
+  "value": "Issue bounty or project sponsorship",
+  "sourceUrl": "https://issuehunt.io/",
+  "officialUrl": "https://issuehunt.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

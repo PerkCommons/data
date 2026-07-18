@@ -1,0 +1,26 @@
+{
+  "id": "openlearn-free-courses",
+  "provider": "The Open University",
+  "title": "OpenLearn Free Courses",
+  "category": "education-training",
+  "subcategories": [
+    "courses",
+    "learning-paths"
+  ],
+  "tags": [
+    "online-learning",
+    "self-paced"
+  ],
+  "description": "OpenLearn Free Courses is an open online learning catalog with structured courses or learning paths administered by The Open University.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Self-paced lessons, exercises, and subject-specific learning paths",
+  "sourceUrl": "https://www.open.edu/openlearn/free-courses/full-catalogue",
+  "officialUrl": "https://www.open.edu/openlearn/free-courses/full-catalogue",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

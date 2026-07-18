@@ -1,0 +1,31 @@
+{
+  "id": "donorbox-nonprofit-fundraising",
+  "provider": "Donorbox",
+  "title": "Donorbox Nonprofit Fundraising",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "fundraising-tools",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Donorbox Nonprofit Fundraising provides eligible nonprofit or social-impact organizations with nonprofit discounts, fundraising tools, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Fundraising forms and donor-management tools with current nonprofit pricing.",
+  "sourceUrl": "https://donorbox.org/nonprofit-blog/donorbox-pricing/",
+  "officialUrl": "https://donorbox.org/nonprofit-blog/donorbox-pricing/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

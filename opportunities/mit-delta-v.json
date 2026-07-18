@@ -1,0 +1,26 @@
+{
+  "id": "mit-delta-v",
+  "provider": "MIT Martin Trust Center",
+  "title": "MIT delta v",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "student-incubators",
+    "university-incubators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "MIT delta v is a university-connected venture program from MIT Martin Trust Center that helps eligible student founders develop and test new ventures.",
+  "eligibility": "Teams must meet the current student or university-affiliation, venture-stage, location, and participation requirements.",
+  "value": "University venture training, mentoring, workspace or funding opportunities",
+  "sourceUrl": "https://entrepreneurship.mit.edu/accelerator/",
+  "officialUrl": "https://entrepreneurship.mit.edu/accelerator/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

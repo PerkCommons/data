@@ -1,0 +1,26 @@
+{
+  "id": "nih-visiting-program",
+  "provider": "National Institutes of Health",
+  "title": "NIH Visiting Program",
+  "category": "research-opportunities",
+  "subcategories": [
+    "visiting-researcher-programs",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "visiting-researchers"
+  ],
+  "description": "NIH Visiting Program is a visiting-researcher or visiting-scholar program offering access to a research community or facility administered by National Institutes of Health.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research affiliation, collaboration, facilities, and program-specific financial support",
+  "sourceUrl": "https://ors.od.nih.gov/pes/dis/VisitingScientists/Pages/default.aspx",
+  "officialUrl": "https://ors.od.nih.gov/pes/dis/VisitingScientists/Pages/default.aspx",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fast-forward-accelerator",
+  "provider": "Fast Forward",
+  "title": "Tech Nonprofit Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "nonprofit-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Tech Nonprofit Accelerator is a capacity-building accelerator from Fast Forward for nonprofits, NGOs, or other mission-driven organizations working toward measurable social impact.",
+  "eligibility": "Mission-driven organizations must satisfy the current legal-status, impact, stage, location, and cohort requirements.",
+  "value": "Cohort training, expert support, peer learning, and program-specific resources",
+  "sourceUrl": "https://www.ffwd.org/accelerator/",
+  "officialUrl": "https://www.ffwd.org/accelerator/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

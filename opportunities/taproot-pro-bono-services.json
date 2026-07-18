@@ -1,0 +1,25 @@
+{
+  "id": "taproot-pro-bono-services",
+  "provider": "Taproot Foundation",
+  "title": "Taproot Pro Bono Services for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-consulting"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-consulting"
+  ],
+  "description": "Taproot Pro Bono Services for Nonprofits provides eligible nonprofit or social-impact organizations with nonprofit consulting under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Connections to skilled pro bono consultants for eligible nonprofit capacity-building projects.",
+  "sourceUrl": "https://taprootfoundation.org/nonprofits/",
+  "officialUrl": "https://taprootfoundation.org/nonprofits/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

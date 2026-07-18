@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-polypane",
+  "provider": "Polypane",
+  "title": "Polypane Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "design",
+    "developer-tools"
+  ],
+  "description": "A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "You&#39;ll get free use of Polypane&#39;s individual plan for 1 year.",
+  "sourceUrl": "https://education.github.com/pack#polypane",
+  "officialUrl": "https://education.github.com/pack#polypane",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

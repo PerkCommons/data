@@ -1,0 +1,30 @@
+{
+  "id": "github-student-pack-microsoft",
+  "provider": "Microsoft Azure",
+  "title": "Microsoft Azure Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "cloud",
+    "virtual-events"
+  ],
+  "description": "Access to Microsoft Azure cloud services and learning resources – no credit card required",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free access to 25+ Microsoft Azure cloud services plus $100 in Azure credit. For students aged 18+.",
+  "sourceUrl": "https://education.github.com/pack#microsoft",
+  "officialUrl": "https://education.github.com/pack#microsoft",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

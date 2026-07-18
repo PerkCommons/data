@@ -1,0 +1,26 @@
+{
+  "id": "embl-ebi-arise-fellowship",
+  "provider": "EMBL-EBI",
+  "title": "ARISE Fellowship Programme",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "ARISE fellowships train researchers and engineers developing research infrastructures for the life sciences.",
+  "eligibility": "Applicants must satisfy the call's degree, experience, mobility, and project requirements.",
+  "value": "Funded fellowship, training, and research-infrastructure placement",
+  "sourceUrl": "https://www.embl.org/about/info/arise/",
+  "officialUrl": "https://www.embl.org/about/info/arise/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

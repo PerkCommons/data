@@ -1,0 +1,26 @@
+{
+  "id": "cleantech-open-accelerator",
+  "provider": "Cleantech Open",
+  "title": "Cleantech Open Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "climate-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Cleantech Open Accelerator is an accelerator from Cleantech Open for ventures developing climate, sustainability, or environmental-impact solutions.",
+  "eligibility": "Ventures must meet the current climate focus, company stage, technology, geography, and cohort requirements.",
+  "value": "Climate venture mentoring, partnerships, technical support, and program-specific funding",
+  "sourceUrl": "https://www.cleantechopen.org/en/page/2026-cto-accelerator-en",
+  "officialUrl": "https://www.cleantechopen.org/en/page/2026-cto-accelerator-en",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "semrush-academy-certificates",
+  "provider": "Semrush Academy",
+  "title": "Free Marketing Certifications",
+  "category": "education-training",
+  "subcategories": [
+    "certifications",
+    "learning-paths"
+  ],
+  "tags": [
+    "credentials",
+    "professional-learning"
+  ],
+  "description": "Free Marketing Certifications is a training and credential pathway with an official assessment or verifiable certificate administered by Semrush Academy.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Role-based learning and an official certificate, badge, or certification pathway",
+  "sourceUrl": "https://www.semrush.com/academy/",
+  "officialUrl": "https://www.semrush.com/academy/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

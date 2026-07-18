@@ -1,0 +1,26 @@
+{
+  "id": "stanford-venture-studio",
+  "provider": "Stanford Graduate School of Business",
+  "title": "Venture Studio",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "student-incubators",
+    "university-incubators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Venture Studio is a university-connected venture program from Stanford Graduate School of Business that helps eligible student founders develop and test new ventures.",
+  "eligibility": "Teams must meet the current student or university-affiliation, venture-stage, location, and participation requirements.",
+  "value": "University venture training, mentoring, workspace or funding opportunities",
+  "sourceUrl": "https://www.gsb.stanford.edu/experience/learning/entrepreneurship/venture-studio",
+  "officialUrl": "https://www.gsb.stanford.edu/experience/learning/entrepreneurship/venture-studio",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

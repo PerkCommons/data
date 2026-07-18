@@ -1,0 +1,25 @@
+{
+  "id": "open-collective-open-source-collective",
+  "provider": "Open Source Collective",
+  "title": "Open Source Collective Fiscal Hosting",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Open Source Collective provides fiscal hosting so qualifying open-source projects can receive and manage community funding.",
+  "eligibility": "Open-source projects must apply and meet the collective's public-benefit, governance, licensing, and reporting requirements.",
+  "value": "Fiscal hosting and transparent community funding",
+  "sourceUrl": "https://oscollective.org/",
+  "officialUrl": "https://oscollective.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

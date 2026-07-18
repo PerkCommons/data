@@ -1,0 +1,26 @@
+{
+  "id": "wikimedia-rapid-fund",
+  "provider": "Wikimedia Foundation",
+  "title": "Wikimedia Rapid Fund",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "microgrants",
+    "community-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Rapid Fund supports short-term, low-cost projects that benefit Wikimedia communities.",
+  "eligibility": "Individuals, groups, and organizations must propose eligible Wikimedia movement work in a supported region.",
+  "value": "Rapid project funding under the current regional limits",
+  "sourceUrl": "https://meta.wikimedia.org/wiki/Grants:Project/Rapid",
+  "officialUrl": "https://meta.wikimedia.org/wiki/Grants:Project/Rapid",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "utm-job-shadow-program",
+  "provider": "University of Toronto Mississauga",
+  "title": "Job Shadow Program",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "externships",
+    "job-shadowing-programs"
+  ],
+  "tags": [
+    "job-shadowing",
+    "career-exploration"
+  ],
+  "description": "Job Shadow Program is a short-term job-shadow or externship program administered by University of Toronto Mississauga.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Workplace observation, career exploration, and professional networking",
+  "sourceUrl": "https://www.utm.utoronto.ca/careers/career-exploration/job-shadow-program/job-shadow-program-information-students",
+  "officialUrl": "https://www.utm.utoronto.ca/careers/career-exploration/job-shadow-program/job-shadow-program-information-students",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

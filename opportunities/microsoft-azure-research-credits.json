@@ -1,0 +1,25 @@
+{
+  "id": "microsoft-azure-research-credits",
+  "provider": "Microsoft Research",
+  "title": "Azure Research Credits",
+  "category": "research-opportunities",
+  "subcategories": [
+    "compute-credits"
+  ],
+  "tags": [
+    "research-compute",
+    "cloud-credits"
+  ],
+  "description": "Azure Research Credits is a compute-access or cloud-credit program intended to support eligible research workloads administered by Microsoft Research.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Cloud, accelerator, or high-performance-computing resources under program-specific limits",
+  "sourceUrl": "https://www.microsoft.com/en-us/research/academic-program/microsoft-azure-for-research/",
+  "officialUrl": "https://www.microsoft.com/en-us/research/academic-program/microsoft-azure-for-research/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

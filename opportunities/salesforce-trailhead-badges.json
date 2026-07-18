@@ -1,0 +1,26 @@
+{
+  "id": "salesforce-trailhead-badges",
+  "provider": "Salesforce",
+  "title": "Trailhead Credentials",
+  "category": "education-training",
+  "subcategories": [
+    "certifications",
+    "learning-paths"
+  ],
+  "tags": [
+    "credentials",
+    "professional-learning"
+  ],
+  "description": "Trailhead Credentials is a training and credential pathway with an official assessment or verifiable certificate administered by Salesforce.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Role-based learning and an official certificate, badge, or certification pathway",
+  "sourceUrl": "https://trailhead.salesforce.com/content/learn/modules/salesforce-credentials-quick-look/get-familiar-with-salesforce-credentials-on-trailhead",
+  "officialUrl": "https://trailhead.salesforce.com/content/learn/modules/salesforce-credentials-quick-look/get-familiar-with-salesforce-credentials-on-trailhead",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

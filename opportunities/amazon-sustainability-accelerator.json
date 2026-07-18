@@ -1,0 +1,26 @@
+{
+  "id": "amazon-sustainability-accelerator",
+  "provider": "Amazon",
+  "title": "Amazon Sustainability Accelerator: Climate Tech",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "climate-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Amazon Sustainability Accelerator: Climate Tech is an accelerator from Amazon for ventures developing climate, sustainability, or environmental-impact solutions.",
+  "eligibility": "Ventures must meet the current climate focus, company stage, technology, geography, and cohort requirements.",
+  "value": "Climate venture mentoring, partnerships, technical support, and program-specific funding",
+  "sourceUrl": "https://sustainability.aboutamazon.com/sustainability-accelerator-climate-tech",
+  "officialUrl": "https://sustainability.aboutamazon.com/sustainability-accelerator-climate-tech",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

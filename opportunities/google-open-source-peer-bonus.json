@@ -1,0 +1,27 @@
+{
+  "id": "google-open-source-peer-bonus",
+  "provider": "Google",
+  "title": "Google Open Source Peer Bonus",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support",
+    "developer-grants"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "Google Open Source Peer Bonus funds or supports selected open-source developers, maintainers, and public-interest technology projects.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Grant funding or structured maintainer support subject to selection",
+  "sourceUrl": "https://opensource.google/documentation/reference/peer-bonus",
+  "officialUrl": "https://opensource.google/documentation/reference/peer-bonus",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

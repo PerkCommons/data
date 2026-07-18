@@ -1,0 +1,30 @@
+{
+  "id": "aws-activate-porter",
+  "provider": "Porter",
+  "title": "Porter | DevOps Automation & One-Click SOC2 Compliance",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "developer-tooling",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "engineering",
+    "security-compliance"
+  ],
+  "description": "Looking to run your infra for free? Redeem this promotion for new Porter customers! Porter is the easiest way to deploy and scale your applications on AWS. Connect your own cloud account, and Porter will provision and manage the underlying infrastructure for you - simply point at your repository and Porter will handle the rest, from building your application to autoscaling it. Under the hood, Porter manages the same kind of infrastructure that growth-stage companies use and allows you to scale w",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Porter | DevOps Automation & One-Click SOC2 Compliance",
+  "sourceUrl": "https://startups.aws.com/offers/porter",
+  "officialUrl": "https://startups.aws.com/offers/porter",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

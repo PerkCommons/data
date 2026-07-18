@@ -1,0 +1,25 @@
+{
+  "id": "sundance-institute-fellowships",
+  "provider": "Sundance Institute",
+  "title": "Artist Programs and Fellowships",
+  "category": "fellowships",
+  "subcategories": [
+    "creator-fellowships"
+  ],
+  "tags": [
+    "creators",
+    "arts"
+  ],
+  "description": "Artist Programs and Fellowships is a fellowship for artists, writers, journalists, or other creative practitioners administered by Sundance Institute.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Creative time, workspace, mentoring, peer community, or program-specific stipend",
+  "sourceUrl": "https://www.sundance.org/apply/",
+  "officialUrl": "https://www.sundance.org/apply/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

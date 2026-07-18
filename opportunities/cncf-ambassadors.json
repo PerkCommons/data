@@ -1,0 +1,25 @@
+{
+  "id": "cncf-ambassadors",
+  "provider": "Cloud Native Computing Foundation",
+  "title": "CNCF Ambassadors",
+  "category": "developer-programs",
+  "subcategories": [
+    "ambassador-programs"
+  ],
+  "tags": [
+    "developers",
+    "ambassador"
+  ],
+  "description": "CNCF Ambassadors recognizes experienced technical community contributors and provides resources for advocacy, education, and peer support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Community recognition, program resources, and contributor opportunities",
+  "sourceUrl": "https://www.cncf.io/people/ambassadors/",
+  "officialUrl": "https://www.cncf.io/people/ambassadors/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "google-career-certificate-scholarships",
+  "provider": "Google",
+  "title": "Career Certificate Scholarships",
+  "category": "education-training",
+  "subcategories": [
+    "exam-vouchers",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "certification",
+    "financial-support"
+  ],
+  "description": "Career Certificate Scholarships is a scholarship, discount, or funded pathway that reduces the cost of professional training and assessment administered by Google.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Eligible learners receive training support and a free or discounted certification assessment",
+  "sourceUrl": "https://grow.google/certificates/",
+  "officialUrl": "https://grow.google/certificates/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

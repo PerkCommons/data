@@ -1,0 +1,31 @@
+{
+  "id": "slack-for-nonprofits",
+  "provider": "Slack",
+  "title": "Slack for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Slack for Nonprofits provides eligible nonprofit or social-impact organizations with software donations, nonprofit discounts, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Free or discounted Slack plan upgrades for qualifying nonprofit workspaces.",
+  "sourceUrl": "https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount",
+  "officialUrl": "https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

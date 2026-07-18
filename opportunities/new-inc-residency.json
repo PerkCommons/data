@@ -1,0 +1,26 @@
+{
+  "id": "new-inc-residency",
+  "provider": "New Museum",
+  "title": "NEW INC",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "residencies",
+    "project-based-experience"
+  ],
+  "tags": [
+    "residencies",
+    "creative-technology"
+  ],
+  "description": "NEW INC is a project-based professional or artist residency administered by New Museum.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Dedicated project time, facilities, mentoring, public presentation, or program-specific funding",
+  "sourceUrl": "https://www.newinc.org/apply",
+  "officialUrl": "https://www.newinc.org/apply",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

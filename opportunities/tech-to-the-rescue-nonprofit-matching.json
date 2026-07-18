@@ -1,0 +1,25 @@
+{
+  "id": "tech-to-the-rescue-nonprofit-matching",
+  "provider": "Tech To The Rescue",
+  "title": "Tech To The Rescue Nonprofit Matching",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-consulting"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-consulting"
+  ],
+  "description": "Tech To The Rescue Nonprofit Matching provides eligible nonprofit or social-impact organizations with nonprofit consulting under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Connections between eligible nonprofits and technology companies offering pro bono digital support.",
+  "sourceUrl": "https://www.techtotherescue.org/",
+  "officialUrl": "https://www.techtotherescue.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

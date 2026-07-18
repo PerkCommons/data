@@ -1,0 +1,26 @@
+{
+  "id": "techcrunch-startup-battlefield",
+  "provider": "TechCrunch",
+  "title": "Startup Battlefield",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "startup-competitions",
+    "pitch-competitions"
+  ],
+  "tags": [
+    "startups",
+    "pitch"
+  ],
+  "description": "Startup Battlefield is a startup competition from TechCrunch in which selected founders pitch their ventures to judges, investors, or a conference audience.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Pitch exposure and competition-specific funding, prizes, or investor access",
+  "sourceUrl": "https://techcrunch.com/startup-battlefield/",
+  "officialUrl": "https://techcrunch.com/startup-battlefield/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

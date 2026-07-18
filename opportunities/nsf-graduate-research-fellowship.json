@@ -1,0 +1,26 @@
+{
+  "id": "nsf-graduate-research-fellowship",
+  "provider": "U.S. National Science Foundation",
+  "title": "NSF Graduate Research Fellowship Program",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The program provides multi-year support for eligible graduate students pursuing research-based degrees in NSF-supported fields.",
+  "eligibility": "Applicants must satisfy the current citizenship, education-stage, degree, and field requirements.",
+  "value": "Multi-year stipend and education allowance",
+  "sourceUrl": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program",
+  "officialUrl": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

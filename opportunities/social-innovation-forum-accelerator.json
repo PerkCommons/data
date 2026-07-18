@@ -1,0 +1,26 @@
+{
+  "id": "social-innovation-forum-accelerator",
+  "provider": "Social Innovation Forum",
+  "title": "Social Innovator Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "nonprofit-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Social Innovator Accelerator is a capacity-building accelerator from Social Innovation Forum for nonprofits, NGOs, or other mission-driven organizations working toward measurable social impact.",
+  "eligibility": "Mission-driven organizations must satisfy the current legal-status, impact, stage, location, and cohort requirements.",
+  "value": "Cohort training, expert support, peer learning, and program-specific resources",
+  "sourceUrl": "https://socialinnovationforum.org/programs/social-innovator-accelerator",
+  "officialUrl": "https://socialinnovationforum.org/programs/social-innovator-accelerator",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

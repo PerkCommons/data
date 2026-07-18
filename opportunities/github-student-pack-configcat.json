@@ -1,0 +1,30 @@
+{
+  "id": "github-student-pack-configcat",
+  "provider": "ConfigCat",
+  "title": "ConfigCat Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "developer-tools",
+    "infrastructure-apis"
+  ],
+  "description": "Learn feature flags with the industry leading feature flag service.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "1000 feature flags, ∞ users for free.",
+  "sourceUrl": "https://education.github.com/pack#configcat",
+  "officialUrl": "https://education.github.com/pack#configcat",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

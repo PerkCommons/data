@@ -1,0 +1,26 @@
+{
+  "id": "cambridge-accelerate-cambridge",
+  "provider": "Cambridge Judge Business School",
+  "title": "Accelerate Cambridge",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "student-incubators",
+    "university-incubators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Accelerate Cambridge is a university-connected venture program from Cambridge Judge Business School that helps eligible student founders develop and test new ventures.",
+  "eligibility": "Teams must meet the current student or university-affiliation, venture-stage, location, and participation requirements.",
+  "value": "University venture training, mentoring, workspace or funding opportunities",
+  "sourceUrl": "https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/programmes/",
+  "officialUrl": "https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/programmes/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "isic-challenges",
+  "provider": "International Skin Imaging Collaboration",
+  "title": "ISIC Challenges",
+  "category": "research-opportunities",
+  "subcategories": [
+    "academic-challenges"
+  ],
+  "tags": [
+    "research",
+    "challenges"
+  ],
+  "description": "ISIC Challenges is an official challenge platform or recurring program where researchers can test methods against defined problems administered by International Skin Imaging Collaboration.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Benchmark data, evaluation, collaboration, and challenge-specific recognition or awards",
+  "sourceUrl": "https://challenge.isic-archive.com/",
+  "officialUrl": "https://challenge.isic-archive.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

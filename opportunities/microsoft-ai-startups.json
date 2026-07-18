@@ -1,0 +1,26 @@
+{
+  "id": "microsoft-ai-startups",
+  "provider": "Microsoft",
+  "title": "Microsoft for Startups AI",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "ai-accelerators",
+    "startup-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Microsoft for Startups AI is a startup support or accelerator program from Microsoft for teams building artificial-intelligence products or infrastructure.",
+  "eligibility": "AI startups must satisfy the current product focus, company stage, geography, technical, and selection requirements.",
+  "value": "AI technical support, mentoring, ecosystem access, and program-specific credits or funding",
+  "sourceUrl": "https://www.microsoft.com/en-us/startups/ai",
+  "officialUrl": "https://www.microsoft.com/en-us/startups/ai",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

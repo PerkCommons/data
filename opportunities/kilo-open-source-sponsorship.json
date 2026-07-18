@@ -1,0 +1,25 @@
+{
+  "id": "kilo-open-source-sponsorship",
+  "provider": "Kilo Code",
+  "title": "Open Source Sponsorship Program",
+  "category": "funding",
+  "subcategories": [
+    "community-funds",
+    "open-source-sponsorships"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The program sponsors eligible open-source projects with access to Kilo Code resources and program benefits.",
+  "eligibility": "Projects must meet current open-source licensing, activity, usage, and application requirements.",
+  "value": "Open-source project sponsorship and product resources",
+  "sourceUrl": "https://kilo.ai/oss",
+  "officialUrl": "https://kilo.ai/oss",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

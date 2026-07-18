@@ -1,0 +1,25 @@
+{
+  "id": "datakind-partner-program",
+  "provider": "DataKind",
+  "title": "DataKind Social-Sector Partner Program",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-consulting"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-consulting"
+  ],
+  "description": "DataKind Social-Sector Partner Program provides eligible nonprofit or social-impact organizations with nonprofit consulting under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Data-science and responsible-AI project support for selected social-sector partners.",
+  "sourceUrl": "https://www.datakind.org/our-work/our-approach/",
+  "officialUrl": "https://www.datakind.org/our-work/our-approach/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

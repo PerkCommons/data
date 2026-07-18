@@ -1,0 +1,26 @@
+{
+  "id": "united-nations-internships",
+  "provider": "United Nations",
+  "title": "United Nations Internships",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "internships",
+    "project-based-experience"
+  ],
+  "tags": [
+    "internships",
+    "early-career"
+  ],
+  "description": "United Nations Internships is a structured internship program administered by United Nations.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Supervised professional projects, learning, and program-specific compensation or support",
+  "sourceUrl": "https://careers.un.org/jobopenings?language=en&data=%7B%22jle%22:%5B%22Internship%22%5D%7D",
+  "officialUrl": "https://careers.un.org/jobopenings?language=en&data=%7B%22jle%22:%5B%22Internship%22%5D%7D",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

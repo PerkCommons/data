@@ -1,0 +1,25 @@
+{
+  "id": "jetstream2-allocations",
+  "provider": "Jetstream2",
+  "title": "Jetstream2 Allocations",
+  "category": "research-opportunities",
+  "subcategories": [
+    "compute-credits"
+  ],
+  "tags": [
+    "research-compute",
+    "cloud-credits"
+  ],
+  "description": "Jetstream2 Allocations is a compute-access or cloud-credit program intended to support eligible research workloads administered by Jetstream2.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Cloud, accelerator, or high-performance-computing resources under program-specific limits",
+  "sourceUrl": "https://jetstream-cloud.org/get-started/index.html",
+  "officialUrl": "https://jetstream-cloud.org/get-started/index.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

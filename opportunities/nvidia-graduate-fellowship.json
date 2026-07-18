@@ -1,0 +1,26 @@
+{
+  "id": "nvidia-graduate-fellowship",
+  "provider": "NVIDIA",
+  "title": "Graduate Fellowship Program",
+  "category": "fellowships",
+  "subcategories": [
+    "research-fellowships",
+    "student-fellowships"
+  ],
+  "tags": [
+    "research",
+    "graduate-students"
+  ],
+  "description": "Graduate Fellowship Program is a competitive graduate research fellowship administered by NVIDIA.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Research funding, mentoring, recognition, or program-specific academic support",
+  "sourceUrl": "https://research.nvidia.com/graduate-fellowships",
+  "officialUrl": "https://research.nvidia.com/graduate-fellowships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

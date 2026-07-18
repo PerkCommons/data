@@ -1,0 +1,27 @@
+{
+  "id": "42-network",
+  "provider": "42",
+  "title": "Tuition-Free Software Engineering Education",
+  "category": "education-training",
+  "subcategories": [
+    "bootcamps",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "bootcamp",
+    "tuition-free"
+  ],
+  "description": "Tuition-Free Software Engineering Education is a tuition-free or fully supported intensive training program administered by 42.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Structured instruction, projects, community support, and no-cost or scholarship-backed tuition",
+  "sourceUrl": "https://www.42network.org/",
+  "officialUrl": "https://www.42network.org/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

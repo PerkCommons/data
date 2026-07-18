@@ -1,0 +1,25 @@
+{
+  "id": "cartier-womens-initiative-fellowship",
+  "provider": "Cartier Women's Initiative",
+  "title": "Fellowship Program",
+  "category": "fellowships",
+  "subcategories": [
+    "entrepreneurship-fellowships"
+  ],
+  "tags": [
+    "entrepreneurship",
+    "founders"
+  ],
+  "description": "Fellowship Program is an entrepreneurship fellowship administered by Cartier Women's Initiative.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Founder development, mentoring, peer network, and program-specific funding or support",
+  "sourceUrl": "https://www.cartierwomensinitiative.com/fellowship-programme",
+  "officialUrl": "https://www.cartierwomensinitiative.com/fellowship-programme",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

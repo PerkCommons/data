@@ -1,0 +1,27 @@
+{
+  "id": "github-student-pack-iconscout",
+  "provider": "IconScout",
+  "title": "IconScout Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "design"
+  ],
+  "description": "IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free access to 60 premium icons from selected contributors every month for 1 year.",
+  "sourceUrl": "https://education.github.com/pack#iconscout",
+  "officialUrl": "https://education.github.com/pack#iconscout",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

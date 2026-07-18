@@ -1,0 +1,25 @@
+{
+  "id": "aspen-tech-policy-hub-fellowship",
+  "provider": "Aspen Institute",
+  "title": "Tech Policy Hub Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "policy-fellowships"
+  ],
+  "tags": [
+    "policy",
+    "public-interest"
+  ],
+  "description": "Tech Policy Hub Fellowship is a policy fellowship administered by Aspen Institute.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Policy placement, research time, training, mentoring, or a program-specific stipend",
+  "sourceUrl": "https://www.aspentechpolicyhub.org/fellowship",
+  "officialUrl": "https://www.aspentechpolicyhub.org/fellowship",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

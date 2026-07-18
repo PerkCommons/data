@@ -1,0 +1,26 @@
+{
+  "id": "hello-tomorrow-global-challenge",
+  "provider": "Hello Tomorrow",
+  "title": "Global Challenge",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "startup-competitions",
+    "pitch-competitions"
+  ],
+  "tags": [
+    "startups",
+    "pitch"
+  ],
+  "description": "Global Challenge is a startup competition from Hello Tomorrow in which selected founders pitch their ventures to judges, investors, or a conference audience.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Pitch exposure and competition-specific funding, prizes, or investor access",
+  "sourceUrl": "https://hello-tomorrow.org/global-challenge/",
+  "officialUrl": "https://hello-tomorrow.org/global-challenge/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

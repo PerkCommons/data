@@ -1,0 +1,25 @@
+{
+  "id": "aws-community-builders",
+  "provider": "Amazon Web Services",
+  "title": "AWS Community Builders",
+  "category": "developer-programs",
+  "subcategories": [
+    "ambassador-programs"
+  ],
+  "tags": [
+    "developers",
+    "ambassador"
+  ],
+  "description": "AWS Community Builders recognizes experienced technical community contributors and provides resources for advocacy, education, and peer support.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Community recognition, program resources, and contributor opportunities",
+  "sourceUrl": "https://aws.amazon.com/developer/community/community-builders/",
+  "officialUrl": "https://aws.amazon.com/developer/community/community-builders/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

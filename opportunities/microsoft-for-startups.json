@@ -1,0 +1,26 @@
+{
+  "id": "microsoft-for-startups",
+  "provider": "Microsoft",
+  "title": "Microsoft for Startups",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "startup-accelerators",
+    "pre-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Microsoft for Startups is an early-stage founder program from Microsoft that helps participants validate, launch, or accelerate a startup.",
+  "eligibility": "Founders must meet the current company-stage, team, geography, commitment, and selection requirements.",
+  "value": "Structured early-stage support, mentoring, and founder resources",
+  "sourceUrl": "https://www.microsoft.com/en-us/startups",
+  "officialUrl": "https://www.microsoft.com/en-us/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

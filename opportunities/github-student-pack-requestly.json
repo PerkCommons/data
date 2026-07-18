@@ -1,0 +1,29 @@
+{
+  "id": "github-student-pack-requestly",
+  "provider": "Requestly",
+  "title": "Requestly Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "infrastructure-apis",
+    "developer-tools",
+    "cloud"
+  ],
+  "description": "Requestly is an open-source tool for developers to intercept, modify, and mock HTTP requests and responses to build, test, and manage APIs",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Requestly Professional plan (worth $270) free for one year.",
+  "sourceUrl": "https://education.github.com/pack#requestly",
+  "officialUrl": "https://education.github.com/pack#requestly",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "github-student-pack-codescene",
+  "provider": "CodeScene",
+  "title": "CodeScene Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "software-discounts",
+    "education-plans",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "security-analytics",
+    "developer-tools"
+  ],
+  "description": "Learn how to write healthier code, pinpoint and manage tech debt and other code quality issues. CodeScene gives you instant feedback on your code and recommendations based on the best coding practices and latest standards. Integrate CodeScene into your pull requests to get automated code reviews, set quality gates and only merge quality code. 25+ programming languages are supported.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "A free Student account to analyze private GitHub repositories.",
+  "sourceUrl": "https://education.github.com/pack#codescene",
+  "officialUrl": "https://education.github.com/pack#codescene",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

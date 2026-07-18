@@ -1,0 +1,25 @@
+{
+  "id": "apple-security-bounty",
+  "provider": "Apple",
+  "title": "Apple Security Bounty",
+  "category": "developer-programs",
+  "subcategories": [
+    "bug-bounty-programs"
+  ],
+  "tags": [
+    "developers",
+    "bounty"
+  ],
+  "description": "Apple Security Bounty rewards eligible security researchers for responsibly disclosing qualifying vulnerabilities within the published scope.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Bounty awards for qualifying vulnerability reports",
+  "sourceUrl": "https://security.apple.com/bounty/",
+  "officialUrl": "https://security.apple.com/bounty/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

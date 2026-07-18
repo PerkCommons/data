@@ -1,0 +1,26 @@
+{
+  "id": "github-skills",
+  "provider": "GitHub",
+  "title": "GitHub Skills",
+  "category": "education-training",
+  "subcategories": [
+    "workshops",
+    "courses"
+  ],
+  "tags": [
+    "workshops",
+    "practical-learning"
+  ],
+  "description": "GitHub Skills is a practical workshop program with guided, hands-on learning materials or sessions administered by GitHub.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Hands-on instruction, reusable workshop materials, and guided practice",
+  "sourceUrl": "https://skills.github.com/",
+  "officialUrl": "https://skills.github.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

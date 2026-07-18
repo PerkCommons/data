@@ -1,0 +1,26 @@
+{
+  "id": "data-carpentry-workshops",
+  "provider": "The Carpentries",
+  "title": "Data Carpentry Workshops",
+  "category": "education-training",
+  "subcategories": [
+    "workshops",
+    "courses"
+  ],
+  "tags": [
+    "workshops",
+    "practical-learning"
+  ],
+  "description": "Data Carpentry Workshops is a practical workshop program with guided, hands-on learning materials or sessions administered by The Carpentries.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Hands-on instruction, reusable workshop materials, and guided practice",
+  "sourceUrl": "https://datacarpentry.org/workshops/",
+  "officialUrl": "https://datacarpentry.org/workshops/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

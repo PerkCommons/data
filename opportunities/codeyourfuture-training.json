@@ -1,0 +1,27 @@
+{
+  "id": "codeyourfuture-training",
+  "provider": "CodeYourFuture",
+  "title": "Free Tech Training",
+  "category": "education-training",
+  "subcategories": [
+    "bootcamps",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "bootcamp",
+    "tuition-free"
+  ],
+  "description": "Free Tech Training is a tuition-free or fully supported intensive training program administered by CodeYourFuture.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Structured instruction, projects, community support, and no-cost or scholarship-backed tuition",
+  "sourceUrl": "https://codeyourfuture.io/",
+  "officialUrl": "https://codeyourfuture.io/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

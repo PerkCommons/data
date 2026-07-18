@@ -1,0 +1,25 @@
+{
+  "id": "knight-wallace-fellowship",
+  "provider": "Wallace House Center for Journalists",
+  "title": "Knight-Wallace Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "creator-fellowships"
+  ],
+  "tags": [
+    "creators",
+    "arts"
+  ],
+  "description": "Knight-Wallace Fellowship is a fellowship for artists, writers, journalists, or other creative practitioners administered by Wallace House Center for Journalists.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Creative time, workspace, mentoring, peer community, or program-specific stipend",
+  "sourceUrl": "https://wallacehouse.umich.edu/knight-wallace/",
+  "officialUrl": "https://wallacehouse.umich.edu/knight-wallace/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "aws-activate-scrut-automation",
+  "provider": "Scrut Automation",
+  "title": "20% off and add ISO 27001, HIPAA, or GDPR free when you start with SOC 2 | Stay continuously compliant with Scrut",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "infrastructure-credits",
+    "analytics-observability",
+    "security-tools"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "security-compliance",
+    "soc2",
+    "global-startup-program"
+  ],
+  "description": "Scrut is an AI-powered GRC platform that helps startups build a security-first compliance program from the ground up and not just check a box for an audit. With automated evidence collection, real-time control monitoring, and continuous compliance across SOC 2, ISO 27001, GDPR, HIPAA, and 80+ other frameworks. Scrut gives early-stage teams the infrastructure to scale securely without hiring a dedicated compliance team. Here is what AWS Activate members get on Scrut: - 20% off your Scrut license ",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "20% off and add ISO 27001, HIPAA, or GDPR free when you start with SOC 2 | Stay continuously compliant with Scrut",
+  "sourceUrl": "https://startups.aws.com/offers/scrut-automation",
+  "officialUrl": "https://startups.aws.com/offers/scrut-automation",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

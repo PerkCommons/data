@@ -1,0 +1,24 @@
+{
+  "id": "earthshot-prize",
+  "provider": "The Earthshot Prize",
+  "title": "The Earthshot Prize",
+  "category": "funding",
+  "subcategories": [
+    "prizes"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "The annual prize recognizes and funds scalable solutions to major environmental challenges.",
+  "eligibility": "Solutions generally enter through official nominators and must satisfy the current selection criteria.",
+  "value": "Major monetary award and scale-up support for winners",
+  "sourceUrl": "https://earthshotprize.org/the-prize/awards/",
+  "officialUrl": "https://earthshotprize.org/the-prize/awards/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-frontendmasters",
+  "provider": "FrontendMasters",
+  "title": "FrontendMasters Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "learn"
+  ],
+  "description": "Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free 6-months access to all courses and workshops.",
+  "sourceUrl": "https://education.github.com/pack#frontendmasters",
+  "officialUrl": "https://education.github.com/pack#frontendmasters",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

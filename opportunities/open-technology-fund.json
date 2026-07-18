@@ -1,0 +1,27 @@
+{
+  "id": "open-technology-fund",
+  "provider": "Open Technology Fund",
+  "title": "Open Technology Fund Funding Programs",
+  "category": "developer-programs",
+  "subcategories": [
+    "open-source-programs",
+    "maintainer-support",
+    "developer-grants"
+  ],
+  "tags": [
+    "developers",
+    "open-source"
+  ],
+  "description": "Open Technology Fund Funding Programs funds or supports selected open-source developers, maintainers, and public-interest technology projects.",
+  "eligibility": "Applicants or participants must satisfy the provider's current technical, account, conduct, scope, selection, and regional requirements.",
+  "value": "Grant funding or structured maintainer support subject to selection",
+  "sourceUrl": "https://www.opentech.fund/funds/",
+  "officialUrl": "https://www.opentech.fund/funds/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

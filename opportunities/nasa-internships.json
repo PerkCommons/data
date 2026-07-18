@@ -1,0 +1,26 @@
+{
+  "id": "nasa-internships",
+  "provider": "NASA",
+  "title": "NASA Internship Programs",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "internships",
+    "project-based-experience"
+  ],
+  "tags": [
+    "internships",
+    "early-career"
+  ],
+  "description": "NASA Internship Programs is a structured internship program administered by NASA.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Supervised professional projects, learning, and program-specific compensation or support",
+  "sourceUrl": "https://www.nasa.gov/learning-resources/internship-programs/",
+  "officialUrl": "https://www.nasa.gov/learning-resources/internship-programs/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ibm-academic-initiative-cloud",
+  "provider": "IBM",
+  "title": "IBM Academic Initiative",
+  "category": "research-opportunities",
+  "subcategories": [
+    "compute-credits"
+  ],
+  "tags": [
+    "research-compute",
+    "cloud-credits"
+  ],
+  "description": "IBM Academic Initiative is a compute-access or cloud-credit program intended to support eligible research workloads administered by IBM.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Cloud, accelerator, or high-performance-computing resources under program-specific limits",
+  "sourceUrl": "https://www.ibm.com/academic",
+  "officialUrl": "https://www.ibm.com/academic",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

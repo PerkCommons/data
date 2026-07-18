@@ -1,0 +1,27 @@
+{
+  "id": "uipath-academic-alliance",
+  "provider": "UiPath",
+  "title": "Academic Alliance",
+  "category": "education-training",
+  "subcategories": [
+    "exam-vouchers",
+    "scholarships",
+    "tuition-support"
+  ],
+  "tags": [
+    "certification",
+    "financial-support"
+  ],
+  "description": "Academic Alliance is a scholarship, discount, or funded pathway that reduces the cost of professional training and assessment administered by UiPath.",
+  "eligibility": "Learners must meet the current age, location, affiliation, experience, and program-specific requirements.",
+  "value": "Eligible learners receive training support and a free or discounted certification assessment",
+  "sourceUrl": "https://www.uipath.com/hubfs/resources/documents/PDFs/UiPath_Academic_Program_Guide.pdf",
+  "officialUrl": "https://www.uipath.com/hubfs/resources/documents/PDFs/UiPath_Academic_Program_Guide.pdf",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

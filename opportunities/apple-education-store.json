@@ -1,0 +1,26 @@
+{
+  "id": "apple-education-store",
+  "provider": "Apple",
+  "title": "Apple Education Store",
+  "category": "student-benefits",
+  "subcategories": [
+    "hardware-discounts"
+  ],
+  "tags": [
+    "students",
+    "education-pricing",
+    "hardware"
+  ],
+  "description": "Apple's education purchasing program provides eligible students and educators with special pricing on selected hardware and related products.",
+  "eligibility": "Eligible students or educators who satisfy the provider's current verification, product, and regional requirements.",
+  "value": "Special education pricing on eligible Mac, iPad, AppleCare+, and selected accessories.",
+  "sourceUrl": "https://www.apple.com/us-edu/store",
+  "officialUrl": "https://www.apple.com/us-edu/store",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "US"
+  ]
+}

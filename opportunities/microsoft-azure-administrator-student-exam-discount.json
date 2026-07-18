@@ -1,0 +1,28 @@
+{
+  "id": "microsoft-azure-administrator-student-exam-discount",
+  "provider": "Microsoft",
+  "title": "Microsoft Azure Administrator Student Exam Discount",
+  "category": "student-benefits",
+  "subcategories": [
+    "certification-discounts",
+    "education-plans"
+  ],
+  "tags": [
+    "microsoft-learn",
+    "certification",
+    "students",
+    "az-104"
+  ],
+  "description": "Academic pricing for the Microsoft AZ-104 certification exam is available to verified students in supported countries and regions.",
+  "eligibility": "Students who identify themselves in their Microsoft Learn certification profile and successfully verify their academic status; regional exclusions apply.",
+  "value": "Verified student pricing for the Microsoft AZ-104 certification exam.",
+  "sourceUrl": "https://learn.microsoft.com/en-us/credentials/certifications/student-discounts",
+  "officialUrl": "https://learn.microsoft.com/en-us/credentials/certifications/student-discounts",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

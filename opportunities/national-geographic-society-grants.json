@@ -1,0 +1,25 @@
+{
+  "id": "national-geographic-society-grants",
+  "provider": "National Geographic Society",
+  "title": "Grants and Investments",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "creator-funds"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Funding supports selected explorers working in science, conservation, education, storytelling, and technology.",
+  "eligibility": "Applicants must apply to a current funding opportunity and meet its project and expertise requirements.",
+  "value": "Project grant and National Geographic Explorer community support",
+  "sourceUrl": "https://www.nationalgeographic.org/society/grants-and-investments/",
+  "officialUrl": "https://www.nationalgeographic.org/society/grants-and-investments/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

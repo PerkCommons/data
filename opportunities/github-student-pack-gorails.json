@@ -1,0 +1,28 @@
+{
+  "id": "github-student-pack-gorails",
+  "provider": "GoRails",
+  "title": "GoRails Student Developer Pack Offer",
+  "category": "student-benefits",
+  "subcategories": [
+    "student-developer-packs",
+    "free-courses",
+    "academic-resources"
+  ],
+  "tags": [
+    "github-education",
+    "students",
+    "learn"
+  ],
+  "description": "Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more.",
+  "eligibility": "Verified students aged 13 or older who are approved for the GitHub Student Developer Pack; provider restrictions may also apply.",
+  "value": "Free access to all videos and lessons for 12 months.",
+  "sourceUrl": "https://education.github.com/pack#gorails",
+  "officialUrl": "https://education.github.com/pack#gorails",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

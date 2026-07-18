@@ -1,0 +1,26 @@
+{
+  "id": "ou-impact-accelerator",
+  "provider": "Orthodox Union",
+  "title": "OU Impact Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "nonprofit-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "OU Impact Accelerator is a capacity-building accelerator from Orthodox Union for nonprofits, NGOs, or other mission-driven organizations working toward measurable social impact.",
+  "eligibility": "Mission-driven organizations must satisfy the current legal-status, impact, stage, location, and cohort requirements.",
+  "value": "Cohort training, expert support, peer learning, and program-specific resources",
+  "sourceUrl": "https://accelerator.ou.org/apply/",
+  "officialUrl": "https://accelerator.ou.org/apply/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

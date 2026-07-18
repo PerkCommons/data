@@ -1,0 +1,25 @@
+{
+  "id": "core77-design-awards",
+  "provider": "Core77",
+  "title": "Core77 Design Awards",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "design-competitions"
+  ],
+  "tags": [
+    "design",
+    "awards"
+  ],
+  "description": "Core77 Design Awards is a recurring design competition from Core77 that accepts work under its current disciplines and entry rules.",
+  "eligibility": "Participants must meet the current age, location, team, entry, conduct, intellectual-property, and deadline requirements.",
+  "value": "Jury review, recognition, showcase, and competition-specific awards",
+  "sourceUrl": "https://designawards.core77.com/",
+  "officialUrl": "https://designawards.core77.com/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

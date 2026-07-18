@@ -1,0 +1,25 @@
+{
+  "id": "nvidia-academic-grant-program",
+  "provider": "NVIDIA",
+  "title": "Academic Grant Program",
+  "category": "research-opportunities",
+  "subcategories": [
+    "compute-credits"
+  ],
+  "tags": [
+    "research-compute",
+    "cloud-credits"
+  ],
+  "description": "Academic Grant Program is a compute-access or cloud-credit program intended to support eligible research workloads administered by NVIDIA.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Cloud, accelerator, or high-performance-computing resources under program-specific limits",
+  "sourceUrl": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+  "officialUrl": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

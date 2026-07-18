@@ -1,0 +1,27 @@
+{
+  "id": "daad-rise-germany",
+  "provider": "German Academic Exchange Service",
+  "title": "RISE Germany",
+  "category": "research-opportunities",
+  "subcategories": [
+    "research-internships",
+    "research-assistantships",
+    "lab-programs"
+  ],
+  "tags": [
+    "research",
+    "internships"
+  ],
+  "description": "RISE Germany is a supervised research internship with project work in an academic or scientific environment administered by German Academic Exchange Service.",
+  "eligibility": "Researchers must meet the current program, affiliation, location, subject-area, and application requirements.",
+  "value": "Research experience, supervision, and program-specific funding or support",
+  "sourceUrl": "https://www.daad.de/rise/en/rise-germany/",
+  "officialUrl": "https://www.daad.de/rise/en/rise-germany/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hp-future-of-work-accelerator",
+  "provider": "HP Foundation",
+  "title": "Future of Work Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "nonprofit-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "Future of Work Accelerator is a capacity-building accelerator from HP Foundation for nonprofits, NGOs, or other mission-driven organizations working toward measurable social impact.",
+  "eligibility": "Mission-driven organizations must satisfy the current legal-status, impact, stage, location, and cohort requirements.",
+  "value": "Cohort training, expert support, peer learning, and program-specific resources",
+  "sourceUrl": "https://www.hp.com/us-en/sustainability-progress/advance-societal-impact/accelerator.html",
+  "officialUrl": "https://www.hp.com/us-en/sustainability-progress/advance-societal-impact/accelerator.html",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cloudflare-project-galileo",
+  "provider": "Cloudflare",
+  "title": "Project Galileo",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "software-donations",
+    "cloud-credits",
+    "security-tools",
+    "nonprofit-consulting"
+  ],
+  "tags": [
+    "nonprofits",
+    "software-donations",
+    "cloud-credits",
+    "security-tools",
+    "nonprofit-consulting"
+  ],
+  "description": "Project Galileo provides eligible nonprofit or social-impact organizations with software donations, cloud credits, security tools, nonprofit consulting under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Cloudflare security services and support for eligible public-interest organizations at risk of cyberattack.",
+  "sourceUrl": "https://www.cloudflare.com/galileo/",
+  "officialUrl": "https://www.cloudflare.com/galileo/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

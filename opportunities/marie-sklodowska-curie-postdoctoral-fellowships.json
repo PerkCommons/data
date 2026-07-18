@@ -1,0 +1,26 @@
+{
+  "id": "marie-sklodowska-curie-postdoctoral-fellowships",
+  "provider": "European Commission",
+  "title": "Marie Sklodowska-Curie Postdoctoral Fellowships",
+  "category": "funding",
+  "subcategories": [
+    "grants",
+    "funded-fellowships",
+    "research-funding"
+  ],
+  "tags": [
+    "funding"
+  ],
+  "description": "Postdoctoral Fellowships fund researcher mobility, training, and research projects in Europe and beyond.",
+  "eligibility": "Researchers and host organizations must meet the call's experience, mobility, and proposal requirements.",
+  "value": "Salary, mobility, research, training, and institutional support",
+  "sourceUrl": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
+  "officialUrl": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

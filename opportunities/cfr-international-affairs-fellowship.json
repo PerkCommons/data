@@ -1,0 +1,25 @@
+{
+  "id": "cfr-international-affairs-fellowship",
+  "provider": "Council on Foreign Relations",
+  "title": "International Affairs Fellowship",
+  "category": "fellowships",
+  "subcategories": [
+    "policy-fellowships"
+  ],
+  "tags": [
+    "policy",
+    "public-interest"
+  ],
+  "description": "International Affairs Fellowship is a policy fellowship administered by Council on Foreign Relations.",
+  "eligibility": "Applicants must meet the current career-stage, location, experience, affiliation, conduct, and application requirements.",
+  "value": "Policy placement, research time, training, mentoring, or a program-specific stipend",
+  "sourceUrl": "https://www.cfr.org/fellowships/international-affairs-fellowship",
+  "officialUrl": "https://www.cfr.org/fellowships/international-affairs-fellowship",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

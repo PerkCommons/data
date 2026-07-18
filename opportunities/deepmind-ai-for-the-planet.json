@@ -1,0 +1,26 @@
+{
+  "id": "deepmind-ai-for-the-planet",
+  "provider": "Google DeepMind",
+  "title": "AI for the Planet Accelerator",
+  "category": "accelerators-incubators",
+  "subcategories": [
+    "climate-accelerators",
+    "social-impact-accelerators"
+  ],
+  "tags": [
+    "accelerator",
+    "entrepreneurship"
+  ],
+  "description": "AI for the Planet Accelerator is an accelerator from Google DeepMind for ventures developing climate, sustainability, or environmental-impact solutions.",
+  "eligibility": "Ventures must meet the current climate focus, company stage, technology, geography, and cohort requirements.",
+  "value": "Climate venture mentoring, partnerships, technical support, and program-specific funding",
+  "sourceUrl": "https://deepmind.google/accelerators/ai-for-the-planet/",
+  "officialUrl": "https://deepmind.google/accelerators/ai-for-the-planet/",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

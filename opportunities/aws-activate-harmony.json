@@ -1,0 +1,28 @@
+{
+  "id": "aws-activate-harmony",
+  "provider": "Harmony",
+  "title": "Get 15% discount on Harmony - the proactive, intelligent IT stack for startups",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "easy-apply",
+    "business",
+    "productivity"
+  ],
+  "description": "Harmony is the proactive, intelligent IT stack, replacing point solutions including the service desk, asset management, software management, workflows and AI. It provides out-of-the-box workflows to transform the IT experience and an AI layer that continuously resolves issues and improves the organizational uptime.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "Get 15% discount on Harmony - the proactive, intelligent IT stack for startups",
+  "sourceUrl": "https://startups.aws.com/offers/harmony",
+  "officialUrl": "https://startups.aws.com/offers/harmony",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

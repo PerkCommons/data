@@ -1,0 +1,29 @@
+{
+  "id": "notion-for-nonprofits",
+  "provider": "Notion",
+  "title": "Notion for Nonprofits",
+  "category": "nonprofit-benefits",
+  "subcategories": [
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "tags": [
+    "nonprofits",
+    "nonprofit-discounts",
+    "communications-tools",
+    "productivity-tools"
+  ],
+  "description": "Notion for Nonprofits provides eligible nonprofit or social-impact organizations with nonprofit discounts, communications tools, productivity tools under its current published program terms.",
+  "eligibility": "Organizations must satisfy the provider's current nonprofit-status verification, acceptable-use, product, and regional requirements.",
+  "value": "Discounted Notion workspace plans for eligible nonprofit teams.",
+  "sourceUrl": "https://www.notion.com/pages/nonprofits",
+  "officialUrl": "https://www.notion.com/pages/nonprofits",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

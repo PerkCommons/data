@@ -1,0 +1,29 @@
+{
+  "id": "aws-activate-temporal",
+  "provider": "Temporal",
+  "title": "$1,500 in Free Credits for AWS Startups",
+  "category": "startup-benefits",
+  "subcategories": [
+    "saas-discounts",
+    "developer-tooling"
+  ],
+  "tags": [
+    "aws-activate",
+    "startups",
+    "aws-marketplace-offer",
+    "engineering",
+    "productivity"
+  ],
+  "description": "Ship features faster with Temporal – an open-source development model that removes the complexity of building distributed systems so your developers can focus on business logic, and not plumbing. Join hundreds of startups using Temporal to ship more reliable applications, faster.",
+  "eligibility": "AWS Activate members who meet the offer's current provider, account, and regional requirements.",
+  "value": "$1,500 in Free Credits for AWS Startups",
+  "sourceUrl": "https://startups.aws.com/offers/temporal",
+  "officialUrl": "https://startups.aws.com/offers/temporal",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}

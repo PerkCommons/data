@@ -1,0 +1,26 @@
+{
+  "id": "calarts-reef-residency",
+  "provider": "CalArts",
+  "title": "The Reef Residency",
+  "category": "internships-work-experience",
+  "subcategories": [
+    "residencies",
+    "project-based-experience"
+  ],
+  "tags": [
+    "residencies",
+    "creative-technology"
+  ],
+  "description": "The Reef Residency is a project-based professional or artist residency administered by CalArts.",
+  "eligibility": "Applicants must meet the current career-stage, affiliation, location, availability, work-authorization, and application requirements.",
+  "value": "Dedicated project time, facilities, mentoring, public presentation, or program-specific funding",
+  "sourceUrl": "https://calarts.edu/reef/apply-reef-residency",
+  "officialUrl": "https://calarts.edu/reef/apply-reef-residency",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": [
+    "Global"
+  ]
+}
