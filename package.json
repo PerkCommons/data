@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "validate": "tsx scripts/validate.ts",
-    "test": "npm run validate"
+    "test": "npm run validate && tsx --test tests/*.test.ts"
   },
   "devDependencies": {
     "ajv": "^8.17.1",

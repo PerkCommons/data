@@ -14,7 +14,14 @@
     "provider": { "type": "string", "minLength": 2, "maxLength": 100 },
     "title": { "type": "string", "minLength": 3, "maxLength": 140 },
     "category": {
-      "enum": ["ai-credits", "cloud-credits", "startup-programs", "grants", "funding", "discounts", "nonprofit-benefits", "student-benefits", "developer-programs", "accelerators", "fellowships", "business-perks"]
+      "enum": ["startup-benefits", "student-benefits", "nonprofit-benefits", "developer-programs", "funding", "accelerators-incubators", "competitions-hackathons", "fellowships", "internships-work-experience", "research-opportunities", "mentorship-community", "education-training", "open-source", "social-impact-civic-tech", "creator-media", "events-conferences", "discounts-perks", "volunteer-service", "awards-recognition", "early-access"]
+    },
+    "subcategories": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+      "uniqueItems": true,
+      "maxItems": 8,
+      "default": []
     },
     "tags": { "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" }, "uniqueItems": true, "maxItems": 12 },
     "description": { "type": "string", "minLength": 20, "maxLength": 500 },
