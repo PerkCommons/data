@@ -1,0 +1,18 @@
+{
+  "id": "openai-academy-courses",
+  "provider": "OpenAI",
+  "title": "OpenAI Academy Courses",
+  "category": "education-training",
+  "subcategories": ["courses", "learning-paths"],
+  "tags": ["artificial-intelligence", "self-paced", "free-learning"],
+  "description": "OpenAI Academy offers free, self-paced courses covering AI foundations, practical workplace use, and working with agents and structured workflows.",
+  "eligibility": "Anyone with a ChatGPT account can enroll; OpenAI states that the courses are available globally and do not require a technical background.",
+  "value": "Free self-paced courses with eligible course-completion certificates",
+  "sourceUrl": "https://help.openai.com/en/articles/20001270-openai-academy-courses",
+  "officialUrl": "https://openai.com/academy/",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global"]
+}

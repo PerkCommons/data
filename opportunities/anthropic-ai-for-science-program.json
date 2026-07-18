@@ -1,0 +1,18 @@
+{
+  "id": "anthropic-ai-for-science-program",
+  "provider": "Anthropic",
+  "title": "Anthropic AI for Science Program",
+  "category": "research-opportunities",
+  "subcategories": ["compute-credits"],
+  "tags": ["api-credits", "scientific-research", "life-sciences"],
+  "description": "Anthropic's AI for Science Program provides Claude API credits to selected researchers whose high-impact scientific work can benefit from advanced AI capabilities.",
+  "eligibility": "Researchers affiliated with a research institution may apply; Anthropic prioritizes scientific impact, the applicant's contributions, and the potential for AI to accelerate the proposed work.",
+  "value": "Significant Claude API credits for selected scientific research projects",
+  "sourceUrl": "https://www.anthropic.com/news/ai-for-science-program",
+  "officialUrl": "https://www.anthropic.com/news/ai-for-science-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global, subject to program rules and service availability"]
+}

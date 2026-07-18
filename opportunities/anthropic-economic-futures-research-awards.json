@@ -1,0 +1,18 @@
+{
+  "id": "anthropic-economic-futures-research-awards",
+  "provider": "Anthropic",
+  "title": "Anthropic Economic Futures Research Awards",
+  "category": "funding",
+  "subcategories": ["grants", "research-funding"],
+  "tags": ["economics", "artificial-intelligence", "labor-research"],
+  "description": "Anthropic's Economic Futures Program supports empirical research and policy development concerning AI's effects on labor, productivity, economic opportunity, and value creation.",
+  "eligibility": "Independent researchers and research institutions studying the economic effects of AI may seek support; awards and partnerships are selected by Anthropic.",
+  "value": "Research grants of up to $50,000, API credits, or institutional partnerships depending on the support track",
+  "sourceUrl": "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program",
+  "officialUrl": "https://www.anthropic.com/economic-futures",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global"]
+}

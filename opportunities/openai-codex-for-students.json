@@ -1,0 +1,18 @@
+{
+  "id": "openai-codex-for-students",
+  "provider": "OpenAI",
+  "title": "Codex for Students",
+  "category": "student-benefits",
+  "subcategories": ["software-discounts", "student-developer-packs"],
+  "tags": ["codex", "developer-tools", "student-credits"],
+  "description": "Codex for Students gives verified university students credits that extend Codex usage beyond the limits included with eligible ChatGPT plans.",
+  "eligibility": "Current students at degree-granting universities who reside in the United States or Canada must verify their student status through SheerID.",
+  "value": "$100, equivalent to 2,500 ChatGPT credits for Codex, valid for 12 months",
+  "sourceUrl": "https://help.openai.com/en/articles/20001147-codex-credits-for-students-terms-of-service",
+  "officialUrl": "https://chatgpt.com/codex/students",
+  "status": "active",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Canada", "United States"]
+}

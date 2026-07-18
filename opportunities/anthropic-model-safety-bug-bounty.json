@@ -1,0 +1,18 @@
+{
+  "id": "anthropic-model-safety-bug-bounty",
+  "provider": "Anthropic",
+  "title": "Anthropic Model Safety Bug Bounty Program",
+  "category": "developer-programs",
+  "subcategories": ["bug-bounty-programs"],
+  "tags": ["ai-safety", "security-research", "red-teaming"],
+  "description": "Anthropic's ongoing Model Safety Bug Bounty Program rewards selected researchers for identifying qualifying universal jailbreaks in deployed model safeguards.",
+  "eligibility": "Experienced AI security and safety researchers may apply for the HackerOne-hosted program; accepted participants must follow its scope, account, testing, and confidentiality requirements.",
+  "value": "Bounties up to $35,000 for qualifying novel universal jailbreaks, plus authorized access to a testing model alias",
+  "sourceUrl": "https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program",
+  "officialUrl": "https://support.claude.com/en/articles/12119250-model-safety-bug-bounty-program",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global, subject to program availability and selection"]
+}

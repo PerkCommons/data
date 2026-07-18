@@ -1,0 +1,18 @@
+{
+  "id": "anthropic-startup-program",
+  "provider": "Anthropic",
+  "title": "Claude for Startups",
+  "category": "startup-benefits",
+  "subcategories": ["infrastructure-credits", "developer-tooling"],
+  "tags": ["api-credits", "artificial-intelligence", "founder-community"],
+  "description": "Claude for Startups offers founders community and technical resources, with selected startups receiving Claude API credits and priority rate limits.",
+  "eligibility": "Any early-stage founder or startup building with Claude may join; credit eligibility requires meeting Anthropic's current company-age, funding, account, and prior-credit requirements.",
+  "value": "Community and resources, plus potential Claude API credits and priority rate limits for selected startups",
+  "sourceUrl": "https://www.anthropic.com/startup-program-official-terms",
+  "officialUrl": "https://claude.com/programs/startups",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global, subject to Anthropic availability and program terms"]
+}

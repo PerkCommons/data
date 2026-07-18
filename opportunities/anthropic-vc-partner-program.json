@@ -1,0 +1,18 @@
+{
+  "id": "anthropic-vc-partner-program",
+  "provider": "Anthropic",
+  "title": "Anthropic VC Partner Program",
+  "category": "startup-benefits",
+  "subcategories": ["infrastructure-credits", "developer-tooling"],
+  "tags": ["venture-capital", "portfolio-benefits", "api-credits"],
+  "description": "Anthropic's VC Partner Program works with venture firms and startup accelerators to provide selected portfolio companies with Claude-related benefits.",
+  "eligibility": "Venture-capital firms and startup accelerators may apply; Anthropic evaluates fund performance, market traction, AI investment strategy, and portfolio adoption at its discretion.",
+  "value": "Potential API credits, exclusive events, and product-release updates for eligible portfolio companies",
+  "sourceUrl": "https://claude.com/contact-sales/vc-partner",
+  "officialUrl": "https://claude.com/contact-sales/vc-partner",
+  "status": "limited",
+  "submissionType": "maintainer",
+  "sponsor": false,
+  "reviewDate": "2026-07-18",
+  "regions": ["Global"]
+}
