@@ -80,3 +80,17 @@ test("representative fixture opportunities are schema-valid", () => {
     );
   }
 });
+
+test("normalized moderation fields fit the publication schema without truncation", () => {
+  assert.equal(
+    validate({
+      ...base,
+      description: "D".repeat(2_000),
+      eligibility: "E".repeat(2_000),
+      value: "V".repeat(2_000),
+      regions: ["R".repeat(120)],
+    }),
+    true,
+    ajv.errorsText(validate.errors),
+  );
+});
