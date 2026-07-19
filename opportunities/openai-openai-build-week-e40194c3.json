@@ -1,0 +1,35 @@
+{
+  "id": "openai-openai-build-week-e40194c3",
+  "provider": "OpenAI",
+  "title": "OpenAI Build Week",
+  "category": "competitions-hackathons",
+  "subcategories": [
+    "online-hackathons",
+    "innovation-challenges"
+  ],
+  "tags": [
+    "hackathon",
+    "ai",
+    "openai",
+    "gpt",
+    "codex",
+    "developers",
+    "students",
+    "startups",
+    "competition",
+    "machine-learning"
+  ],
+  "description": "OpenAI Build Week is a hackathon that invites developers, students, founders, researchers, and creators to build innovative applications using OpenAI technologies. Participants submit original projects created during the event period, demonstrate how they used OpenAI tools such as Codex and GPT-5, and compete for prizes across multiple categories.\n\n    Projects are judged on technical implementation, user experience, impact, originality, and effective use of OpenAI technology.\n\n    Requirements:\n    Build an original project during the event period.\n    Use OpenAI technologies as required by the challenge.\n    Submit a public demo video.\n    Provide source code if required.\n    Complete the submission before the deadline.",
+  "eligibility": "Open to eligible participants as defined by the official Build Week rules and terms. Participants should review the official rules for country restrictions, age requirements, and submission guidelines.",
+  "value": "Cash prizes (when offered)\n    Public project showcase\n    Recognition from OpenAI\n    Networking with AI builders\n    Opportunity to build production-ready AI applications\n    Portfolio project\n    Community exposure",
+  "sourceUrl": "https://openai.devpost.com/rules",
+  "officialUrl": "https://openai.devpost.com/",
+  "status": "active",
+  "submissionType": "community",
+  "sponsor": false,
+  "reviewDate": "2026-07-19",
+  "regions": [
+    "Global"
+  ],
+  "notes": "Submitted application deadline: 2026-07-21."
+}
